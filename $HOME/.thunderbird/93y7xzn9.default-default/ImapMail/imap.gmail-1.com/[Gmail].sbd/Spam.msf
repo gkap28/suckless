@@ -1,0 +1,255 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (B8=highestRecordedUID)(B9=ns:msg:db:row:scope:pending:all)
+  (BA=ns:msg:db:table:kind:pending)(BB=dateReceived)(BC=ProtoThreadFlags)
+  (BD=sender_name)(BE=keywords)(BF=imageSize)(C0=junkscore)
+  (C1=X-GM-MSGID)(C2=X-GM-THRID)(C3=X-GM-LABELS)
+  (C4=dobayes.mailnews@mozilla.org#junk.empty)
+  (C5=dobayes.mailnews@mozilla.org#junk)(C6=folderName)
+  (C7=ns:msg:db:row:scope:ops:all)(C8=ns:msg:db:table:kind:ops)(C9=op)
+  (CA=msgKey)(CB=opFlags)(CC=newFlags)(CD=moveDest)(CE=msgSize)
+  (CF=gloda-id)(D0=gloda-dirty)(D1=inPlayback)(D2=columnStates)
+  (D3=applyIncomingFilters.empty)(D4=applyIncomingFilters)
+  (D5=customSortCol)(D6=replyTo)(D7=useServerRetention)(D8=retainBy)
+  (D9=daysToKeepHdrs)(DA=numHdrsToKeep)(DB=daysToKeepBodies)
+  (DC=useServerDefaults)(DD=cleanupBodies)(DE=applyToFlaggedMessages)
+  (80=ns:msg:db:row:scope:msgs:all)(81=subject)(82=sender)(83=message-id)
+  (84=references)(85=recipients)(86=date)(87=size)(88=flags)(89=priority)
+  (8A=label)(8B=numLines)(8C=ccList)(8D=bccList)(8E=msgThreadId)
+  (8F=threadId)(90=threadFlags)(91=threadNewestMsgDate)(92=children)
+  (93=unreadChildren)(94=threadSubject)(95=msgCharSet)
+  (96=ns:msg:db:table:kind:msgs)(97=ns:msg:db:table:kind:thread)
+  (98=ns:msg:db:table:kind:allthreads)
+  (99=ns:msg:db:row:scope:threads:all)(9A=threadParent)(9B=threadRoot)
+  (9C=msgOffset)(9D=offlineMsgSize)
+  (9E=ns:msg:db:row:scope:dbfolderinfo:all)
+  (9F=ns:msg:db:table:kind:dbfolderinfo)(A0=numMsgs)(A1=numNewMsgs)
+  (A2=folderSize)(A3=expungedBytes)(A4=folderDate)(A5=highWaterKey)
+  (A6=mailboxName)(A7=UIDValidity)(A8=totPendingMsgs)
+  (A9=unreadPendingMsgs)(AA=expiredMark)(AB=version)(AC=forceReparse)
+  (AD=fixedBadRefThreading)(AE=onlineName)(AF=indexingPriority)
+  (B0=MRUTime)(B1=sortType)(B2=sortOrder)(B3=viewFlags)(B4=viewType)
+  (B5=sortColumns)(B6=highestModSeq)(B7=imapFlags)>
+<(13D=e8a)(13B=6601226e)(81=0)(80=1)>
+[14:m(^9B=e8a)(^8F=e8a)(^91^13B)(^90=0)(^92=1)(^93=0)]
+<(143=e8b)(141=6603f3e5)>[15:m(^9B=e8b)(^8F=e8b)(^91^141)(^90=0)(^92=1)
+    (^93=0)]
+<(149=e8c)(147=66068217)>[16:m(^9B=e8c)(^8F=e8c)(^91^147)(^90=0)(^92=1)
+    (^93=0)]
+<(150=e8d)(14E=660936a3)>[17:m(^9B=e8d)(^8F=e8d)(^91^14E)(^90=0)(^92=1)
+    (^93=0)]
+<(158=e8e)(156=660a77c1)>[18:m(^9B=e8e)(^8F=e8e)(^91^156)(^90=0)(^92=1)
+    (^93=0)]
+<(15F=e8f)(15D=660bca1d)>[19:m(^9B=e8f)(^8F=e8f)(^91^15D)(^90=0)(^92=1)
+    (^93=0)]
+<(166=e90)(164=660e6594)>[1A:m(^9B=e90)(^8F=e90)(^91^164)(^90=0)(^92=1)
+    (^93=0)]
+<(DD=e74)>[9:m(^9B^DD)(^8F^DD)(^91=0)(^90=0)(^92=0)(^93=0)]
+<(E6=e75)>[A:m(^9B^E6)(^8F^E6)(^91=0)(^90=0)(^92=0)(^93=0)]
+<(EE=e76)>[B:m(^9B^EE)(^8F^EE)(^91=0)(^90=0)(^92=0)(^93=0)]
+<(F6=e77)>[C:m(^9B^F6)(^8F^F6)(^91=0)(^90=0)(^92=0)(^93=0)]
+<(FE=e78)>[D:m(^9B^FE)(^8F^FE)(^91=0)(^90=0)(^92=0)(^93=0)]
+<(105=e79)>[E:m(^9B=e79)(^8F=e79)(^91=0)(^90=0)(^92=0)(^93=0)]
+<(10C=e7a)>[F:m(^9B=e7a)(^8F=e7a)(^91=0)(^90=0)(^92=0)(^93=0)]
+<(113=e7b)>[10:m(^9B=e7b)(^8F=e7b)(^91=0)(^90=0)(^92=0)(^93=0)]
+<(11A=e7c)>[11:m(^9B=e7c)(^8F=e7c)(^91=0)(^90=0)(^92=0)(^93=0)]
+<(121=e7d)>[12:m(^9B=e7d)(^8F=e7d)(^91=0)(^90=0)(^92=0)(^93=0)]
+<(128=e7e)>[13:m(^9B=e7e)(^8F=e7e)(^91=0)(^90=0)(^92=0)(^93=0)]
+
+<(E0=Abelssoft <contact@abelssoft.net>)(E1=gkalaitzis.karditsa@gmail.com)
+  (139
+    ==?UTF-8?Q?Where_has_my_document_gone=3F_Find_My_Fi?= =?UTF-8?Q?les_finds_\
+everything_on_your_PC_?= =?UTF-8?Q?=F0=9F=94=8D?=)(13A
+    =65e5d1d2-12f2-82b5-24ba-45ef7f4a2dfa@abelssoft.net)(13C=cc3b)(DC
+    =ffffffff)(E8=3|Abelssoft)(13E=1794490460219500788)(87=)(13F
+    =With this any video runs on all devices)(140
+    =55471664-ffac-b412-6b7f-056c95d3e5ed@abelssoft.net)(142=d081)(144
+    =1794677582742285944)(145
+    ==?UTF-8?Q?Abelssoft_wishes_you_Happy_Easter_and_ha?= =?UTF-8?Q?s_put_a_pr\
+esent_in_your_nest_?= =?UTF-8?Q?=F0=9F=90=B0?=)(146
+    =115230bb-5ce0-3dbf-479f-6504f65f361d@abelssoft.net)(148=ab5b)(14B
+    =1794851054881699384)(14C
+    ==?UTF-8?Q?Check_now_if_you=E2=80=98ve_been_hacked?=)(14D
+    =a035c44a-e78c-2877-91b5-0425b0f5961a@abelssoft.net)(14F=d935)(152
+    =1795037354003154689)(153=<noreply@steganos.com>)(D6
+    =Steganos Software <news@de.steganos.info>)(D7
+    =<gkalaitzis.karditsa@gmail.com>)(154
+    ==?utf-8?q?=F0=9F=92=BB_Sichern_Sie_jetzt_Ihre_Daten?=)(155
+    =202401040900.1ew2qjkl7nvg8nj@de.steganos.info)(157=1233d)(DE
+    =3|Steganos Software)(15A=1795122318256158505)(15B
+    =Deactivate annoying autostart-programs with one click- Herewith)
+  (15C=32b057d0-2362-cd2e-e97e-13e1c874821c@abelssoft.net)(15E=d19c)
+  (161=1795215105578377118)(162
+    =Monitors your FritzBox and warns in case of danger!)(163
+    =b335ee60-01fc-6125-a4df-cbe10a4b2678@abelssoft.net)(165=cde2)(168
+    =1795395053978721543)>
+{1:^80 {(k^96:c)(s=9)} 
+  [E8A(^88=1)(^82^E0)(^85^E1)(^81^139)(^83^13A)(^BB^13B)(^86^13B)(^89=1)
+    (^87^13C)(^9A^DC)(^8E=e8a)(^BC=0)(^BD^E8)(^C1^13E)(^C2^13E)(^C3=)]
+  [E8B(^88=1)(^82^E0)(^85^E1)(^81^13F)(^83^140)(^BB^141)(^86^141)(^89=1)
+    (^87^142)(^9A^DC)(^8E=e8b)(^BC=0)(^BD^E8)(^C1^144)(^C2^144)(^C3=)]
+  [E8C(^88=1)(^82^E0)(^85^E1)(^81^145)(^83^146)(^BB^147)(^86^147)(^89=1)
+    (^87^148)(^9A^DC)(^8E=e8c)(^BC=0)(^BD^E8)(^C1^14B)(^C2^14B)(^C3=)]
+  [E8D(^88=1)(^82^E0)(^85^E1)(^81^14C)(^83^14D)(^BB^14E)(^86^14E)(^89=1)
+    (^87^14F)(^9A^DC)(^8E=e8d)(^BC=0)(^BD^E8)(^C1^152)(^C2^152)(^C3=)]
+  [E8E(^88=1)(^D6^153)(^82^D6)(^85^D7)(^81^154)(^83^155)(^BB^156)(^86^156)
+    (^89=1)(^87^157)(^9A^DC)(^8E=e8e)(^BC=0)(^BD^DE)(^C1^15A)(^C2^15A)
+    (^C3=)]
+  [E8F(^88=1)(^82^E0)(^85^E1)(^81^15B)(^83^15C)(^BB^15D)(^86^15D)(^89=1)
+    (^87^15E)(^9A^DC)(^8E=e8f)(^BC=0)(^BD^E8)(^C1^161)(^C2^161)(^C3=)]
+  [E90(^88=1)(^82^E0)(^85^E1)(^81^162)(^83^163)(^BB^164)(^86^164)(^89=1)
+    (^87^165)(^9A^DC)(^8E=e90)(^BC=0)(^BD^E8)(^C1^168)(^C2^168)(^C3=)]}
+{E8A:^80 {(k^97:c)(s=9)14:m } E8A }
+{E8B:^80 {(k^97:c)(s=9)15:m } E8B }
+{E8C:^80 {(k^97:c)(s=9)16:m } E8C }
+{E8D:^80 {(k^97:c)(s=9)17:m } E8D }
+{E8E:^80 {(k^97:c)(s=9)18:m } E8E }
+{E8F:^80 {(k^97:c)(s=9)19:m } E8F }
+{E90:^80 {(k^97:c)(s=9)1A:m } E90 }[E74:^80]
+[E75:^80]
+[E76:^80]
+[E77:^80]
+[E78:^80]
+[E79:^80]
+[E7A:^80]
+[E7B:^80]
+[E7C:^80]
+[E7D:^80]
+{FFFFFFFD:^99 {(k^98:c)(s=9)} 
+  [E8A(^94^139)]
+  [E8B(^94^13F)]
+  [E8C(^94^145)]
+  [E8D(^94^14C)]
+  [E8E(^94^154)]
+  [E8F(^94^15B)]
+  [E90(^94^162)]}
+<(D8==?utf-8?q?=F0=9F=8F=82Jetzt_entdecken_-_Das_Winter-Sparpaket?=)>
+[E74:^99(^94^D8)]
+<(E2=Lost your Windows key? MyKeyFinder finds all your product keys)>
+[E75:^99(^94^E2)]
+<(EA=This will prevent your data from being passed on to Microsoft)>
+[E76:^99(^94^EA)]
+<(F2=Get early access to iOS 17.4)>
+[E77:^99(^94^F2)]
+<(FA
+    =SSD Fresh 2024 optimizes the SSD settings and protects against wear and t\
+ear)>[E78:^99(^94^FA)]
+<(101
+    ==?UTF-8?Q?=F0=9F=94=92_CryptBox_2024_encrypts_priv?= =?UTF-8?Q?ate_data_w\
+ith_one_click?=)>[E79:^99(^94^101)]
+<(108=The new Easy Backup 2024 - Automatically back up data now)>
+[E7A:^99(^94^108)]
+<(10F
+    ==?UTF-8?Q?Discover_the_ease_of_professional_video_?= =?UTF-8?Q?editing_=F\
+0=9F=8E=A5?=)>[E7B:^99(^94^10F)]
+<(116
+    ==?UTF-8?Q?Time_for_spring_cleaning=3A_WashAndGo_24?= =?UTF-8?Q?_removes_d\
+ata_waste_quickly_=26_safely_?= =?UTF-8?Q?=F0=9F=A7=B9?=)>
+[E7C:^99(^94^116)]
+<(11D=Stop Advertisers from tracking your Online Activities now!)>
+[E7D:^99(^94^11D)]
+
+<(82=[Gmail]/Spam)(83=40082014)(84=-1)(169=1712333544)(86=12)(138=2490388)
+  (89=e000)(8A=25cbc8be)(167=7)>
+{1:^9E {(k^9F:c)(s=9)} 
+  [1(^AB=1)(^AC=0)(^AD=1)(^AE^82)(^88^83)(^A6^82)(^AF=-1)(^B0^169)(^B1=12)
+    (^B2=1)(^B3=0)(^B4=0)(^B5=)(^B6^138)(^B7^89)(^A7^8A)(^B8=e90)(^A0=7)
+    (^A1=0)(^A5=e90)(^D7=1)]}
+[E7D:^C7]
+[E7E:^C7]
+[E74:^C7]
+[E75:^C7]
+[E76:^C7]
+[E77:^C7]
+[E78:^C7]
+[E79:^C7]
+[E7A:^C7]
+[E7B:^C7]
+[E7C:^C7]
+
+@$${13{@
+<(135=50082014)>[1:^9E(^88^135)]
+{-1:^C7 {(k^C8:c)(s=9)} 
+  [-E90(^CA=e90)(^CC=1)]}
+@$$}13}@
+
+@$${14{@
+[-FFFFFFE9:^80(^88=1)(^82^E0)(^85^E1)(^81^139)(^83^13A)(^BB^13B)(^86^13B)
+    (^89=1)(^87^13C)(^9A^DC)(^8E=e8a)(^BC=0)(^BD^E8)(^C1^13E)(^C2^13E)
+    (^C3=)]
+[-FFFFFFEA:^80(^88=1)(^82^E0)(^85^E1)(^81^13F)(^83^140)(^BB^141)(^86^141)
+    (^89=1)(^87^142)(^9A^DC)(^8E=e8b)(^BC=0)(^BD^E8)(^C1^144)(^C2^144)
+    (^C3=)]
+[-FFFFFFEB:^80(^88=1)(^82^E0)(^85^E1)(^81^145)(^83^146)(^BB^147)(^86^147)
+    (^89=1)(^87^148)(^9A^DC)(^8E=e8c)(^BC=0)(^BD^E8)(^C1^14B)(^C2^14B)
+    (^C3=)]
+[-FFFFFFEC:^80(^88=1)(^82^E0)(^85^E1)(^81^14C)(^83^14D)(^BB^14E)(^86^14E)
+    (^89=1)(^87^14F)(^9A^DC)(^8E=e8d)(^BC=0)(^BD^E8)(^C1^152)(^C2^152)
+    (^C3=)]
+[-FFFFFFED:^80(^88=1)(^D6^153)(^82^D6)(^85^D7)(^81^154)(^83^155)(^BB^156)
+    (^86^156)(^89=1)(^87^157)(^9A^DC)(^8E=e8e)(^BC=0)(^BD^DE)(^C1^15A)
+    (^C2^15A)(^C3=)]
+[-FFFFFFEE:^80(^88=1)(^82^E0)(^85^E1)(^81^15B)(^83^15C)(^BB^15D)(^86^15D)
+    (^89=1)(^87^15E)(^9A^DC)(^8E=e8f)(^BC=0)(^BD^E8)(^C1^161)(^C2^161)
+    (^C3=)]
+[-FFFFFFEF:^80(^88=1)(^82^E0)(^85^E1)(^81^162)(^83^163)(^BB^164)(^86^164)
+    (^89=1)(^87^165)(^9A^DC)(^8E=e90)(^BC=0)(^BD^E8)(^C1^168)(^C2^168)
+    (^C3=)]
+
+<(136
+    =imap://gkalaitzis.karditsa%40gmail.com@imap.gmail.com/[Gmail]/Papierkorb)
+  (134=2)>
+{-1:^C7 {(k^C8:c)(s=9)} 
+  [-E90(^CA=e90)(^CC=1)(^CD^136)(^C9=2)(^CE^165)]
+  [-E8F(^CA=e8f)(^CC=1)(^CD^136)(^C9=2)(^CE^15E)]
+  [-E8E(^CA=e8e)(^CC=1)(^CD^136)(^C9=2)(^CE^157)]
+  [-E8D(^CA=e8d)(^CC=1)(^CD^136)(^C9=2)(^CE^14F)]
+  [-E8C(^CA=e8c)(^CC=1)(^CD^136)(^C9=2)(^CE^148)]
+  [-E8B(^CA=e8b)(^CC=1)(^CD^136)(^C9=2)(^CE^142)]
+  [-E8A(^CA=e8a)(^CC=1)(^CD^136)(^C9=2)(^CE^13C)]}
+@$$}14}@
+
+@$${15{@
+[-1A:m(^9B=e90)(^8F=e90)(^91=0)(^90=0)(^92=0)(^93=0)]
+{1:^80 {(k^96:c)(s=9)} -
+  [-E90]}
+{-E90:^80 {(k^97:c)(s=9)1A:m } }
+{FFFFFFFD:^99 {(k^98:c)(s=9)} -E90 }
+<(160=6)>[1:^9E(^A0=6)]
+@$$}15}@
+
+@$${16{@
+[-14:m(^9B=e8a)(^8F=e8a)(^91=0)(^90=0)(^92=0)(^93=0)]
+[-15:m(^9B=e8b)(^8F=e8b)(^91=0)(^90=0)(^92=0)(^93=0)]
+[-16:m(^9B=e8c)(^8F=e8c)(^91=0)(^90=0)(^92=0)(^93=0)]
+[-17:m(^9B=e8d)(^8F=e8d)(^91=0)(^90=0)(^92=0)(^93=0)]
+[-18:m(^9B=e8e)(^8F=e8e)(^91=0)(^90=0)(^92=0)(^93=0)]
+[-19:m(^9B=e8f)(^8F=e8f)(^91=0)(^90=0)(^92=0)(^93=0)]
+{-1:^80 {(k^96:c)(s=9)} }
+{-E8A:^80 {(k^97:c)(s=9)14:m } }
+{-E8B:^80 {(k^97:c)(s=9)15:m } }
+{-E8C:^80 {(k^97:c)(s=9)16:m } }
+{-E8D:^80 {(k^97:c)(s=9)17:m } }
+{-E8E:^80 {(k^97:c)(s=9)18:m } }
+{-E8F:^80 {(k^97:c)(s=9)19:m } }[-E8A:^80]
+[-E8B:^80]
+[-E8C:^80]
+[-E8D:^80]
+[-E8E:^80]
+[-E8F:^80]
+{-FFFFFFFD:^99 {(k^98:c)(s=9)} }
+[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^AE^82)(^88^83)(^A6^82)(^AF=-1)(^B0^169)
+    (^B1=12)(^B2=1)(^B3=0)(^B4=0)(^B5=)(^B6^138)(^B7^89)(^A7^8A)(^B8=e90)
+    (^A0=0)(^A1=0)(^A5=e90)(^D7=1)]
+{-1:^C7 {(k^C8:c)(s=9)} }
+[-E8A:^C7]
+[-E8B:^C7]
+[-E8C:^C7]
+[-E8D:^C7]
+[-E8E:^C7]
+[-E8F:^C7]
+[-E90:^C7]
+@$$}16}@
+
+@$${17{@
+@$$}17}@

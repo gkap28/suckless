@@ -1,0 +1,1534 @@
+From - Fri Apr  5 19:04:20 2024
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Received: from AS2PR02MB9263.eurprd02.prod.outlook.com (2603:10a6:20b:5ff::20)
+ by GVXPR02MB10805.eurprd02.prod.outlook.com with HTTPS; Fri, 5 Apr 2024
+ 15:07:52 +0000
+Received: from BN9PR03CA0514.namprd03.prod.outlook.com (2603:10b6:408:131::9)
+ by AS2PR02MB9263.eurprd02.prod.outlook.com (2603:10a6:20b:5ff::20) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7409.46; Fri, 5 Apr
+ 2024 15:07:50 +0000
+Received: from BN1PEPF00004681.namprd03.prod.outlook.com
+ (2603:10b6:408:131:cafe::60) by BN9PR03CA0514.outlook.office365.com
+ (2603:10b6:408:131::9) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7452.30 via Frontend
+ Transport; Fri, 5 Apr 2024 15:07:50 +0000
+Authentication-Results: spf=pass (sender IP is 54.240.59.51)
+ smtp.mailfrom=mail.firefox.com; dkim=pass (signature was verified)
+ header.d=firefox.com;dmarc=pass action=none
+ header.from=firefox.com;compauth=pass reason=100
+Received-SPF: Pass (protection.outlook.com: domain of mail.firefox.com
+ designates 54.240.59.51 as permitted sender) receiver=protection.outlook.com;
+ client-ip=54.240.59.51; helo=a59-51.smtp-out.us-west-2.amazonses.com; pr=C
+Received: from a59-51.smtp-out.us-west-2.amazonses.com (54.240.59.51) by
+ BN1PEPF00004681.mail.protection.outlook.com (10.167.243.87) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.7452.22 via Frontend Transport; Fri, 5 Apr 2024 15:07:49 +0000
+X-IncomingTopHeaderMarker:
+ OriginalChecksum:1C2304C5E2420FBDF2AB25BFF72AA34635D978836B1DEE794CFD5FCA3221AAFE;UpperCasedChecksum:3DFADFC4A276CE728C631ADB71D7AB5E7D4163A589DA8F6017A5B112B0ABE67D;SizeAsReceived:1824;Count:22
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=ewhfj4b4gqlc3du3533gea5feuzxb5b5; d=firefox.com; t=1712329669;
+	h=Content-Type:From:Sender:To:Cc:Subject:Message-ID:Date:MIME-Version;
+	bh=IHu5lHIu9Rw4wbBifUNu8cpvZ4CTNUTuAMY50XXeO+Q=;
+	b=dQA9aInkkiBCdw/oL9x2CoEl0v+MVn/HydhujIdiDwBDqhMt2l8I39+EEq6WOj2J
+	tgBz7s/R0AqeXFKqGU67VGzBjkFB2NuBFUTKE3KDXu/Zg6CMPBYTSaXl2tpCnTEyKVA
+	MPuiErepUWjrNeT+70d75N5tGgtb3HGNYf+apEEU=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=7v7vs6w47njt4pimodk5mmttbegzsi6n; d=amazonses.com; t=1712329669;
+	h=Content-Type:From:Sender:To:Cc:Subject:Message-ID:Date:MIME-Version:Feedback-ID;
+	bh=IHu5lHIu9Rw4wbBifUNu8cpvZ4CTNUTuAMY50XXeO+Q=;
+	b=H4LRnTFbRPrJd5dZD800MpkrlSJCrKzs3g328N0OG9iK95k1WH5Rv8wIkMHDDeta
+	gmGpNhqLiqAjP1ildI/1hUCzwVZgMElaKGwVAWrBPCmHibUF69X6g42FlCCtKQMW+nq
+	00cedZQszFKInWBNoCgeIbFpZVC9I6/jg9+nOuno=
+Content-Type: multipart/alternative;
+ boundary="--_NmP-f3faaafc9de12147-Part_1"
+Content-Language: de
+X-Template-Name: newDeviceLogin
+X-Template-Version: 7
+X-Link:
+ https://accounts.firefox.com/settings/change_password?email=gkalaitzis57%40gmail.com
+X-Device-ID: 5acbfbc957f84ba8bfdb6113047b1520
+X-Flow-ID: 7db07aca00a3074c4b8b8ef3cc10a41e79532a749b454efc3b6eeaa4d6ba24fa
+X-Flow-Begin-Time: 1712329644233
+X-Service-ID: sync
+X-Uid: a27c4f0b17fc4760a45f513593f1b2e5
+From: Mozilla <accounts@firefox.com>
+Sender: Mozilla <accounts@firefox.com>
+To: gkalaitzis57@gmail.com
+Cc: georg.kalaitzis@hotmail.com
+Subject: Neue Anmeldung bei Firefox
+Message-ID: <0101018eaecd3917-dddf834a-afd4-4e1d-9d88-7e0ee87a5def-000000@us-west-2.amazonses.com>
+Date: Fri, 5 Apr 2024 15:07:48 +0000
+Feedback-ID: 1.us-west-2.9obwqSuHxAmNPKpejVDo3cEAmnSHOVLO3+B/64gdyXQ=:AmazonSES
+X-SES-Outgoing: 2024.04.05-54.240.59.51
+X-IncomingHeaderCount: 22
+Return-Path:
+ 0101018eaecd3917-dddf834a-afd4-4e1d-9d88-7e0ee87a5def-000000@mail.firefox.com
+X-MS-Exchange-Organization-ExpirationStartTime: 05 Apr 2024 15:07:50.1589
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id:
+ c41ed6c8-c24b-44d5-a7e0-08dc558228fd
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic:
+ BN1PEPF00004681:EE_|AS2PR02MB9263:EE_|GVXPR02MB10805:EE_
+X-MS-Exchange-Organization-AuthSource:
+ BN1PEPF00004681.namprd03.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-UserLastLogonTime: 4/5/2024 4:26:40 AM
+X-MS-Office365-Filtering-Correlation-Id: c41ed6c8-c24b-44d5-a7e0-08dc558228fd
+X-MS-Exchange-EOPDirect: true
+X-Sender-IP: 54.240.59.51
+X-SID-PRA: ACCOUNTS@FIREFOX.COM
+X-SID-Result: PASS
+X-MS-Exchange-Organization-PCL: 2
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Antispam: BCL:4;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 05 Apr 2024 15:07:49.8620
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: c41ed6c8-c24b-44d5-a7e0-08dc558228fd
+X-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-AuthSource:
+ BN1PEPF00004681.namprd03.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg:
+ 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: AS2PR02MB9263
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.2998600
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.7409.037
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;ex:0;auth:1;dest:I;ENG:(5062000305)(920221119095)(90000117)(920221120095)(90012020)(91020020)(91040095)(9050020)(9100341)(944500132)(2008001134)(4810010)(4910033)(9575002)(10195002)(9320005)(120001);
+X-Message-Info:
+	qZelhIiYnPkx84CNH6AeQs2r1mfbx475RiI5K0+Xb2co4FyeG9R6dbu1evWq+VZOYrxxOSoOPlrFnE+2jiFOnrDmyJbo4YRwSFbTC1PO+19XzGRnsSY4qcu7Seq+9ByAKuhrm6yXA6+sG8NmaSpA4K4xVfJNHY+qzDeh8XF+p+F0+mBuvKqS8zFdgmWPjxPWsGmJg0FPA6Ejn8MccLJaQQ==
+X-Message-Delivery: Vj0xLjE7dXM9MDtsPTA7YT0xO0Q9MTtHRD0xO1NDTD0z
+X-Microsoft-Antispam-Message-Info:
+	=?utf-8?B?SWNLTVJjalZYZE1OTEtOYVVVd25Mdk96cWxodk1LclEyYlNhdzNPbnhkQldq?=
+ =?utf-8?B?N2tsVVdSNk9tMnEzM3BFa0gvWHRlRG9xQjRJOXc2NXBxbjlXM2I5Ri9vOEg4?=
+ =?utf-8?B?RmJGNWliNjJzQkhYdzQ2d3Q3Ykc1SFQ1Q29VQXdFZ3k4Z1ovZHZjSXhTWXhN?=
+ =?utf-8?B?RkdwZGpCRFBSZEQ0WTJuOGdvR3Mwb2s1Rkl1SEZJQVBRUFkrbW9IdEtCWTYx?=
+ =?utf-8?B?T0crSVF3TXdYMnNwbThMMkVRRVlESkcrL09LMnJZQUtyU2k4dVpRV1ZFbDVq?=
+ =?utf-8?B?bnJOcXpBYnd0R2NIUEtybHg3aHBLNW96NWdSWHV3Qm1NeGZISnFnN2wxcWhE?=
+ =?utf-8?B?ajBaZURMMXBsY01PRWw3eklNSlF1QSt5MCtrQ2RCMkQ2c2ZtSXJNM1ZqbEx2?=
+ =?utf-8?B?L1JKOVVmNDRaZ09FZ2pQUmYrQnJqdUFuSDlaWU9TSHFkZmRLV1BIRU0wbGFF?=
+ =?utf-8?B?R3d3ZCtkZHIxY29OTkI0a0d1WEhlVStMTWc5M0NMYngyaXBPaGZnaHhJcXJV?=
+ =?utf-8?B?RmhmMFBuZllJbEp0NnFxUmsyKzN4N3d6eWI0WnBLOGlmMkpLTEc3V1lXNS94?=
+ =?utf-8?B?a1UxWnZEQVJpTGFBdXpIREcxdUl2bUtPT1k0clpWc3V3SFJrbVkxRHg3bEVq?=
+ =?utf-8?B?Nm04ZnpSWXdEWEVOcVF2UDdFRlYyVlB1SzJZOFdDRFVHMnkwbVYreFQ0dzQy?=
+ =?utf-8?B?encwMWhPL3lPaVd5d3d4MXc0RGJFSU4zblExL1VVWDd4a0Y1NWFrVGZzSS8z?=
+ =?utf-8?B?SmdzeFIwV0tTQ25UOXJHZUtWWTFSbVplUGJON1JmL0JpUFdudlZENG41WFNR?=
+ =?utf-8?B?alZTN2hzcGh2ckw4bE12MVhtK0E1WFZQT2o0Yk9HREI4MEFKVzhWZnM3SG01?=
+ =?utf-8?B?MHhMUmlSOG1Pd1pYRVdNbGdtOE5DUDRqSW53OFlURE5YYmthbEU5Vm1mdkx6?=
+ =?utf-8?B?TnFIT1BSa1lPaWJoc3FIaktOazZPU3BJejhNZWhWOXhaQXVlTDhzZUxoWnBP?=
+ =?utf-8?B?MWRORkEveDR2VzV5Qk11cUZlcUc3OUpqb3VXRUhkY1VwakNLNDZzQzlLVUVk?=
+ =?utf-8?B?WDJUL1NmMTVzL0JxUkRTZXp4MVdlR3l0Rzh1elJIRFNMY1J6S2xiZEg3WS9F?=
+ =?utf-8?B?d21hVWdMNk5UUWswa3d5OFFtblBtNitxOGdXNERFWU5jUzNBU2tIS2FMZ2pZ?=
+ =?utf-8?B?elE0WUJpSVNkbERvWWNpWFdmRnR2MWk2S2hVRXc2dEJucitiWTlEVGRxT1cx?=
+ =?utf-8?B?TGh4ek5HQWRiS0gvMFZscTRCL3p5VUpic2RrUlZnbTBHNHQreEN4N2ZqV2dS?=
+ =?utf-8?B?L2xYSk5XYU1HWlhHWHd2YjBBL2VMblVOMnZObkdQbzREZFJLbU1odUlvbGtN?=
+ =?utf-8?B?VUduby9YUSs0MDM4clU4Zk4vOWM3UGRGZy9yZi9tNEI5OG93Q3JVaVVqRDJh?=
+ =?utf-8?B?K3JETDdiU2NSUGVxeW5udHBOd0hnL0hpelJtTm9zWlRBdlE1MTEvOUxDdFY1?=
+ =?utf-8?B?cGx6UzRlSkd4bm96UEd4UEkwV3BpaHVtUGttUmZCR2hBdWhMT2t6cWo1SFNB?=
+ =?utf-8?B?UHRuTzJqdnR3WjR3UmtEaWZBRmNiY3hkWHorZWJLQWhVc2VTOEtxL2pUSGlB?=
+ =?utf-8?B?R2ZOYWpJbXRiT1pQUjVsbGpETHhaT3BJMml3UVMyWEJUdFA1aWhERGszY1JV?=
+ =?utf-8?B?QUtLUXBSMUp3cVFrNFQ1ZExFTU9pTmlaRis0d0tWQ1JOV3ZIMVJLUTJkM1pJ?=
+ =?utf-8?B?bzZOMmkvSkNQdzV2emk2OS9YT2l3VnF3RE9xaFhGaXRtWHJQanJmVnRxQWFk?=
+ =?utf-8?B?MXZuVVl4UUZmSm9yR29UbDBHUEVDQ1ZhZUI3cEhkTHZYSkh3UlY0Y2xiZU41?=
+ =?utf-8?B?RklsMUVPWWtTaGtaTzRFNldwU3RKYjlhU3hHQWk2R1gyZzhvM2J4SUJGQmcv?=
+ =?utf-8?B?dkh0QlFmQk8rUVBOenVjcUlQWHVMbEFMcjZQUXBST3VkK2V1WVhoTmpVbzlh?=
+ =?utf-8?B?alh6bjVaajZNR1plcVRxdkhBVFJ3YnloREM5M0hxVWJDaDhpSTZtL04xdFVr?=
+ =?utf-8?B?dUxUcTlSelZUclJTWkFUMkFvNDBFVWJYZm16MHlDMFA2VC9zQzhXOGpSMVIw?=
+ =?utf-8?B?MEpQTzlqL0Z5cXFadHBrd1VzV0lkSERndmxyT2FIS1Z3MzZ3L1o2U1J4OEJN?=
+ =?utf-8?B?SUFBMmE1cWFmUXAyYlJTOU44M09ENnRoWHlLRmExeVBsaXdNeUVoYlhCeGpE?=
+ =?utf-8?B?d0cxWFpQSklITStOMGt0OHZtZnVEelpyWjhKYmdlN29kUVZVdk5LV0UwdUJh?=
+ =?utf-8?B?TnhmNkhvMStNYTJxN2s3OFc3S0hzMXJQYzFRSnFQTWFaUHZONnNXa3pHWG5B?=
+ =?utf-8?B?T3JRd3o4YnZmeEY2d0t5Y1kreDZZKzJRb2VVQ3htRWFmVytXWFhZZ29welVr?=
+ =?utf-8?B?UUp6TGROMW1jOUR1ZEE9PQ==?=
+MIME-Version: 1.0
+
+----_NmP-f3faaafc9de12147-Part_1
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+Ihr Mozilla-Konto wurde zur Anmeldung verwendet
+
+Firefox auf Linux
+Freitag, 5. Apr. 2024
+18:07:48 (EEST)
+
+Das sind nicht Sie? =C3=84ndern Sie =
+Ihr Passwort:
+https://accounts.firefox.com/settings/change_password?=
+email=3Dgkalaitzis57%40gmail.com
+
+Benutzerkonto verwalten:
+https://accounts.firefox.com/settings?email=3Dgkalaitzis57%40gmail.=
+com&uid=3Da27c4f0b17fc4760a45f513593f1b2e5
+
+Dies ist eine automatisierte =
+E-Mail. Wenn Sie sie versehentlich erhalten haben, brauchen Sie nichts zu =
+tun.
+
+Weitere Informationen erhalten Sie bei der Mozilla-Hilfe: =
+https://support.mozilla.org/kb/im-having-problems-my-firefox-account.
+
+Mozilla. 149 New Montgomery St, 4th Floor, San Francisco, CA 94105
+
+Datenschutzhinweis von Mozilla-Konten
+https://www.mozilla.=
+org/privacy/mozilla-accounts/
+
+Nutzungsbedingungen von Mozilla-Konten
+https://www.mozilla.org/about/legal/terms/services/
+
+----_NmP-f3faaafc9de12147-Part_1
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><t=
+itle>
+      Neue Anmeldung bei Firefox
+    </title>
+    <!--[if !mso]><!-->
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+    <!--<![endif]-->
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1">
+    <style type=3D"text/css">
+      #outlook a { padding:0; }
+      body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size=
+-adjust:100%; }
+      table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-r=
+space:0pt; }
+      img { border:0;height:auto;line-height:100%; outline:none;text-decora=
+tion:none;-ms-interpolation-mode:bicubic; }
+      p { display:block;margin:13px 0; }
+    </style>
+    <!--[if mso]>
+    <noscript>
+    <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    </noscript>
+    <![endif]-->
+    <!--[if lte mso 11]>
+    <style type=3D"text/css">
+      .mj-outlook-group-fix { width:100% !important; }
+    </style>
+    <![endif]-->
+   =20
+      <!--[if !mso]><!-->
+        <link href=3D"https://fonts.googleapis.com/css?family=3DUbuntu:300,=
+400,500,700" rel=3D"stylesheet" type=3D"text/css">
+        <style type=3D"text/css">
+          @import url(https://fonts.googleapis.com/css?family=3DUbuntu:300,=
+400,500,700);
+        </style>
+      <!--<![endif]-->
+
+   =20
+   =20
+    <style type=3D"text/css">
+      @media only screen and (min-width:480px) {
+        .mj-column-per-100 { width:100% !important; max-width: 100%; }
+      }
+    </style>
+    <style media=3D"screen and (min-width:480px)">
+      .moz-text-html .mj-column-per-100 { width:100% !important; max-width:=
+ 100%; }
+    </style>
+   =20
+ =20
+    <style type=3D"text/css">
+   =20
+   =20
+
+    @media only screen and (max-width:480px) {
+      table.mj-full-width-mobile { width: 100% !important; }
+      td.mj-full-width-mobile { width: auto !important; }
+    }
+ =20
+    </style>
+    <style type=3D"text/css">
+    .ltr div {
+  direction: ltr !important;
+}
+.ltr td {
+  direction: ltr !important;
+}
+
+.rtl div {
+  direction: rtl !important;
+}
+.rtl td {
+  direction: rtl !important;
+}
+    </style>
+   =20
+
+  </head>
+  <body style=3D"word-spacing:normal;">
+   =20
+   =20
+      <div style=3D"">
+       =20
+     =20
+      <!--[if mso | IE]><table align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" class=3D"body-outlook" role=3D"presentation" style=3D=
+"width:600px;" width=3D"600" ><tr><td style=3D"line-height:0px;font-size:0p=
+x;mso-line-height-rule:exactly;"><![endif]-->
+   =20
+     =20
+      <div class=3D"body" style=3D"max-width: 310px; margin: 0px auto;">
+       =20
+        <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" style=3D"width:100%;">
+          <tbody>
+            <tr>
+              <td style=3D"direction: ltr; font-size: 0px; text-align: cent=
+er; padding: 0px;" align=3D"center">
+                <!--[if mso | IE]><table role=3D"presentation" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0"><tr><td class=3D"" width=3D"600px" ><t=
+able align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" clas=
+s=3D"" role=3D"presentation" style=3D"width:600px;" width=3D"600" ><tr><td =
+style=3D"line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![en=
+dif]-->
+   =20
+     =20
+      <div style=3D"margin:0px auto;max-width:600px;">
+       =20
+        <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" style=3D"width:100%;">
+          <tbody>
+            <tr>
+              <td style=3D"direction: ltr; font-size: 0px; text-align: cent=
+er; padding: 0px;" align=3D"center">
+                <!--[if mso | IE]><table role=3D"presentation" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0"><tr><td class=3D"" style=3D"vertical-a=
+lign:top;width:600px;" ><![endif]-->
+           =20
+      <div class=3D"mj-column-per-100 mj-outlook-group-fix" style=3D"font-s=
+ize:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:t=
+op;width:100%;">
+       =20
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"prese=
+ntation" style=3D"vertical-align:top;" width=3D"100%">
+        <tbody>
+         =20
+              <tr>
+                <td align=3D"center" class=3D"mozilla-logo" style=3D"align-=
+items: center; font-size: 0px; word-break: break-word; padding: 40px 0px; m=
+argin: 0 auto; display: block;">
+                 =20
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"prese=
+ntation" style=3D"border-collapse:collapse;border-spacing:0px;">
+        <tbody>
+          <tr>
+            <td style=3D"width: 120px; padding: 0px;" data-l10n-id=3D"fxa-h=
+eader-mozilla-logo" width=3D"120"><img alt=3D"Mozilla-Logo" height=3D"auto"=
+ src=3D"https://accounts-static.cdn.mozilla.net/product-icons/mozilla-logo.=
+png" style=3D"border:0;display:block;outline:none;text-decoration:none;heig=
+ht:auto;width:100%;font-size:13px;" width=3D"120" data-l10n-name=3D"mozilla=
+-logo"></td>
+          </tr>
+        </tbody>
+      </table>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table></td></tr><tr><td class=3D"" widt=
+h=3D"600px" ><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" class=3D"" role=3D"presentation" style=3D"width:600px;" width=3D=
+"600" ><tr><td style=3D"line-height:0px;font-size:0px;mso-line-height-rule:=
+exactly;"><![endif]-->
+   =20
+     =20
+      <div style=3D"margin:0px auto;max-width:600px;">
+       =20
+        <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" style=3D"width:100%;">
+          <tbody>
+            <tr>
+              <td style=3D"direction: ltr; font-size: 0px; text-align: cent=
+er; padding: 0px;" align=3D"center">
+                <!--[if mso | IE]><table role=3D"presentation" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0"><tr><td class=3D"" style=3D"vertical-a=
+lign:top;width:600px;" ><![endif]-->
+           =20
+      <div class=3D"mj-column-per-100 mj-outlook-group-fix" style=3D"font-s=
+ize:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:t=
+op;width:100%;">
+       =20
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"prese=
+ntation" style=3D"vertical-align:top;" width=3D"100%">
+        <tbody>
+         =20
+              <tr>
+                <td align=3D"left" class=3D"text-header" style=3D"font-size=
+: 0px; word-break: break-word; padding: 0px;">
+                 =20
+      <div style=3D"color: #000000; font-size: 20px; line-height: 28px; fon=
+t-family: sans-serif; margin-bottom: 12px; text-align: center;"><span data-=
+l10n-id=3D"newDeviceLogin-title-3">Ihr Mozilla-Konto wurde zur Anmeldung ve=
+rwendet</span></div>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table></td></tr><tr><td class=3D"" widt=
+h=3D"600px" ><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" class=3D"" role=3D"presentation" style=3D"width:600px;" width=3D=
+"600" ><tr><td style=3D"line-height:0px;font-size:0px;mso-line-height-rule:=
+exactly;"><![endif]-->
+   =20
+     =20
+      <div style=3D"margin:0px auto;max-width:600px;">
+       =20
+        <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" style=3D"width:100%;">
+          <tbody>
+            <tr>
+              <td style=3D"direction: ltr; font-size: 0px; text-align: cent=
+er; padding: 0px;" align=3D"center">
+                <!--[if mso | IE]><table role=3D"presentation" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0"><tr><td class=3D"" style=3D"vertical-a=
+lign:top;width:600px;" ><![endif]-->
+           =20
+      <div class=3D"mj-column-per-100 mj-outlook-group-fix" style=3D"font-s=
+ize:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:t=
+op;width:100%;">
+       =20
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"prese=
+ntation" style=3D"vertical-align:top;" width=3D"100%">
+        <tbody>
+         =20
+              <tr>
+                <td align=3D"left" class=3D"text-body-grey" style=3D"font-s=
+ize: 0px; word-break: break-word; padding: 0px;">
+                 =20
+      <div style=3D"font-size: 14px; line-height: 22px; font-family: sans-s=
+erif; margin-bottom: 24px; text-align: center; color: #4b5563;"><span data-=
+l10n-id=3D"device-browser-os" data-l10n-args=3D"{&quot;uaBrowser&quot;:&quo=
+t;Firefox&quot;,&quot;uaOS&quot;:&quot;Linux&quot;}">Firefox auf Linux</spa=
+n>
+     =20
+   =20
+ =20
+
+        <br>
+     =20
+     =20
+        Freitag, 5. Apr. 2024
+        <br>
+     =20
+     =20
+        18:07:48 (EEST)
+        <br></div>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table></td></tr><tr><td class=3D"" widt=
+h=3D"600px" ><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" class=3D"" role=3D"presentation" style=3D"width:600px;" width=3D=
+"600" ><tr><td style=3D"line-height:0px;font-size:0px;mso-line-height-rule:=
+exactly;"><![endif]-->
+   =20
+     =20
+      <div style=3D"margin:0px auto;max-width:600px;">
+       =20
+        <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" style=3D"width:100%;">
+          <tbody>
+            <tr>
+              <td style=3D"direction: ltr; font-size: 0px; text-align: cent=
+er; padding: 0px;" align=3D"center">
+                <!--[if mso | IE]><table role=3D"presentation" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0"><tr><td class=3D"" style=3D"vertical-a=
+lign:top;width:600px;" ><![endif]-->
+           =20
+      <div class=3D"mj-column-per-100 mj-outlook-group-fix" style=3D"font-s=
+ize:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:t=
+op;width:100%;">
+       =20
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"prese=
+ntation" style=3D"vertical-align:top;" width=3D"100%">
+        <tbody>
+         =20
+              <tr>
+                <td align=3D"left" class=3D"text-body" style=3D"font-size: =
+0px; word-break: break-word; padding: 0px;">
+                 =20
+      <div style=3D"color: #000000; font-size: 14px; line-height: 22px; fon=
+t-family: sans-serif; margin-bottom: 20px; text-align: center;"><span data-=
+l10n-id=3D"newDeviceLogin-change-password">Das sind nicht Sie? <a class=3D"=
+link-blue" href=3D"https://accounts.firefox.com/settings/change_password?em=
+ail=3Dgkalaitzis57%40gmail.com" data-l10n-name=3D"passwordChangeLink" style=
+=3D"color: #0060df; text-decoration: none; font-family: sans-serif;">=C3=84=
+ndern Sie Ihr Passwort</a>.</span></div>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table></td></tr><tr><td class=3D"" widt=
+h=3D"600px" ><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" class=3D"" role=3D"presentation" style=3D"width:600px;" width=3D=
+"600" ><tr><td style=3D"line-height:0px;font-size:0px;mso-line-height-rule:=
+exactly;"><![endif]-->
+   =20
+     =20
+      <div style=3D"margin:0px auto;max-width:600px;">
+       =20
+        <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" style=3D"width:100%;">
+          <tbody>
+            <tr>
+              <td style=3D"direction: ltr; font-size: 0px; text-align: cent=
+er; padding: 0px;" align=3D"center">
+                <!--[if mso | IE]><table role=3D"presentation" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0"><tr><td class=3D"" style=3D"vertical-a=
+lign:top;width:600px;" ><![endif]-->
+           =20
+      <div class=3D"mj-column-per-100 mj-outlook-group-fix" style=3D"font-s=
+ize:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:t=
+op;width:100%;">
+       =20
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"prese=
+ntation" style=3D"vertical-align:top;" width=3D"100%">
+        <tbody>
+         =20
+              <tr>
+                <td align=3D"center" vertical-align=3D"middle" class=3D"pri=
+mary-button" style=3D"font-size: 0px; word-break: break-word; padding: 0px;=
+ height: 56px; max-width: 310px;" height=3D"56">
+                 =20
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"prese=
+ntation" style=3D"border-collapse:separate;line-height:100%;">
+        <tbody>
+          <tr>
+            <td align=3D"center" bgcolor=3D"#414141" role=3D"presentation" =
+style=3D"border: none; border-radius: 3px; cursor: auto; mso-padding-alt: 1=
+0px 25px; background: #414141; padding: 0px;" valign=3D"middle">
+              <a href=3D"https://accounts.firefox.com/settings?email=3Dgkal=
+aitzis57%40gmail.com&amp;uid=3Da27c4f0b17fc4760a45f513593f1b2e5" style=3D"d=
+isplay: inline-block; color: #ffffff; font-weight: normal; margin: 0; text-=
+decoration: none; text-transform: none; mso-padding-alt: 0px; font-size: 18=
+px; line-height: 26px; font-family: sans-serif; background: #0060df; max-wi=
+dth: 310px; padding: 8px 16px; border-radius: 4px;" target=3D"_blank">
+                <span data-l10n-id=3D"newDeviceLogin-action">Benutzerkonto =
+verwalten</span>
+              </a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table></td></tr><tr><td class=3D"" widt=
+h=3D"600px" ><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" class=3D"" role=3D"presentation" style=3D"width:600px;" width=3D=
+"600" ><tr><td style=3D"line-height:0px;font-size:0px;mso-line-height-rule:=
+exactly;"><![endif]-->
+   =20
+     =20
+      <div style=3D"margin:0px auto;max-width:600px;">
+       =20
+        <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" style=3D"width:100%;">
+          <tbody>
+            <tr>
+              <td style=3D"direction: ltr; font-size: 0px; text-align: cent=
+er; padding: 0px;" align=3D"center">
+                <!--[if mso | IE]><table role=3D"presentation" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0"><tr><td class=3D"" style=3D"vertical-a=
+lign:top;width:600px;" ><![endif]-->
+           =20
+      <div class=3D"mj-column-per-100 mj-outlook-group-fix" style=3D"font-s=
+ize:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:t=
+op;width:100%;">
+       =20
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"prese=
+ntation" style=3D"vertical-align:top;" width=3D"100%">
+        <tbody>
+         =20
+              <tr>
+                <td align=3D"left" class=3D"text-footer-automatedEmail" sty=
+le=3D"font-size: 0px; word-break: break-word; padding: 0px;">
+                 =20
+      <div style=3D"font-size: 12px; line-height: 20px; font-family: sans-s=
+erif; margin-top: 40px; margin-bottom: 12px; text-align: center; color: #6d=
+6d6e;"><span data-l10n-id=3D"automated-email-no-action">Dies ist eine autom=
+atisierte E-Mail. Wenn Sie sie versehentlich erhalten haben, brauchen Sie n=
+ichts zu tun. Weitere Informationen erhalten Sie bei der <a class=3D"link-b=
+lue" href=3D"https://support.mozilla.org/kb/im-having-problems-my-firefox-a=
+ccount" data-l10n-name=3D"supportLink" style=3D"color: #0060df; text-decora=
+tion: none; font-family: sans-serif;">Mozilla-Hilfe</a>.</span></div>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table></td></tr><tr><td class=3D"" widt=
+h=3D"600px" ><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" class=3D"" role=3D"presentation" style=3D"width:600px;" width=3D=
+"600" ><tr><td style=3D"line-height:0px;font-size:0px;mso-line-height-rule:=
+exactly;"><![endif]-->
+   =20
+     =20
+      <div style=3D"margin:0px auto;max-width:600px;">
+       =20
+        <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" style=3D"width:100%;">
+          <tbody>
+            <tr>
+              <td style=3D"direction: ltr; font-size: 0px; text-align: cent=
+er; padding: 0px;" align=3D"center">
+                <!--[if mso | IE]><table role=3D"presentation" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0"><tr><td class=3D"" style=3D"vertical-a=
+lign:top;width:600px;" ><![endif]-->
+           =20
+      <div class=3D"mj-column-per-100 mj-outlook-group-fix" style=3D"font-s=
+ize:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:t=
+op;width:100%;">
+       =20
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"prese=
+ntation" style=3D"vertical-align:top;" width=3D"100%">
+        <tbody>
+         =20
+              <tr>
+                <td align=3D"left" class=3D"text-footer" style=3D"font-size=
+: 0px; word-break: break-word; padding: 0px;">
+                 =20
+      <div style=3D"font-size: 12px; line-height: 20px; font-family: sans-s=
+erif; text-align: center; color: #6d6d6e;">Mozilla. 149 New Montgomery St, =
+4th Floor, San Francisco, CA 94105</div>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td align=3D"left" class=3D"text-footer" style=3D"font-size=
+: 0px; word-break: break-word; padding: 0px;">
+                 =20
+      <div style=3D"font-size: 12px; line-height: 20px; font-family: sans-s=
+erif; text-align: center; color: #6d6d6e;"><a class=3D"link-blue" data-l10n=
+-id=3D"moz-accounts-privacy-url-2" href=3D"https://www.mozilla.org/privacy/=
+mozilla-accounts/" style=3D"color: #0060df; text-decoration: none; font-fam=
+ily: sans-serif;">Datenschutzhinweis von Mozilla-Konten</a></div>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td align=3D"left" class=3D"text-footer" style=3D"font-size=
+: 0px; word-break: break-word; padding: 0px;">
+                 =20
+      <div style=3D"font-size: 12px; line-height: 20px; font-family: sans-s=
+erif; text-align: center; color: #6d6d6e;"><a class=3D"link-blue" data-l10n=
+-id=3D"moz-accounts-terms-url" href=3D"https://www.mozilla.org/about/legal/=
+terms/services/" style=3D"color: #0060df; text-decoration: none; font-famil=
+y: sans-serif;">Nutzungsbedingungen von Mozilla-Konten</a></div>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table><![endif]-->
+   =20
+   =20
+      </div>
+   =20
+ =20
+
+  </body></html>=
+
+----_NmP-f3faaafc9de12147-Part_1--
+From - Fri Apr  5 19:04:20 2024
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Received: from AS8PR02MB8687.eurprd02.prod.outlook.com (2603:10a6:20b:560::20)
+ by GVXPR02MB10805.eurprd02.prod.outlook.com with HTTPS; Thu, 4 Apr 2024
+ 09:44:44 +0000
+Received: from SI2PR02CA0025.apcprd02.prod.outlook.com (2603:1096:4:195::21)
+ by AS8PR02MB8687.eurprd02.prod.outlook.com (2603:10a6:20b:560::20) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7409.46; Thu, 4 Apr
+ 2024 09:44:42 +0000
+Received: from SG1PEPF000082E8.apcprd02.prod.outlook.com
+ (2603:1096:4:195:cafe::e4) by SI2PR02CA0025.outlook.office365.com
+ (2603:1096:4:195::21) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.7452.28 via Frontend
+ Transport; Thu, 4 Apr 2024 09:44:42 +0000
+Authentication-Results: spf=pass (sender IP is 54.240.59.48)
+ smtp.mailfrom=mail.firefox.com; dkim=pass (signature was verified)
+ header.d=firefox.com;dmarc=pass action=none
+ header.from=firefox.com;compauth=pass reason=100
+Received-SPF: Pass (protection.outlook.com: domain of mail.firefox.com
+ designates 54.240.59.48 as permitted sender) receiver=protection.outlook.com;
+ client-ip=54.240.59.48; helo=a59-48.smtp-out.us-west-2.amazonses.com; pr=C
+Received: from a59-48.smtp-out.us-west-2.amazonses.com (54.240.59.48) by
+ SG1PEPF000082E8.mail.protection.outlook.com (10.167.240.11) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.7452.22 via Frontend Transport; Thu, 4 Apr 2024 09:44:41 +0000
+X-IncomingTopHeaderMarker:
+ OriginalChecksum:6ABBABAF0CF3FF4763632BB74C542F4DFE54711596A04B5A918353E6E83E6C89;UpperCasedChecksum:EF88235F1592F63563D0CF187758538FC90EED22D0150CE847408E035ECC65ED;SizeAsReceived:1824;Count:22
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=ewhfj4b4gqlc3du3533gea5feuzxb5b5; d=firefox.com; t=1712223879;
+	h=Content-Type:From:Sender:To:Cc:Subject:Message-ID:Date:MIME-Version;
+	bh=PLOSMVfgpiQ1npkuWJHYBNxT+Mkl72YnyAH5pJxxM7k=;
+	b=mVhziaLWAsuYS6pXQ4rIhznwXcinwIflX/wcL+Xn3G3vB3FdBXkXY6LlkonDYAwc
+	I7hs1zmUVWdbf9qY2Rg7Yo1FZuMn9JSrkZ+pqor/zFY/1Ko0YvBPlQdaCTebqcCDTBr
+	1kZL1syfzoWAcMXUfSAoXGX5Sdf8EazIHJ/37syg=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=7v7vs6w47njt4pimodk5mmttbegzsi6n; d=amazonses.com; t=1712223879;
+	h=Content-Type:From:Sender:To:Cc:Subject:Message-ID:Date:MIME-Version:Feedback-ID;
+	bh=PLOSMVfgpiQ1npkuWJHYBNxT+Mkl72YnyAH5pJxxM7k=;
+	b=SkqyVx7KsiJTv4tRWExHOno3HmVkaW85nV6gI9GRWB0zGOiObnkzF1BL4eGN95o1
+	JCwKlxUjho2abUPW+4YdRu584lC5J0XLMlmONHLrEEqNq+HzULxtWtdqHFM2G7L6tHK
+	3DoqLWfpH1Kx2SP6FwkCvH1unbrblLPIFeOQ+xn0=
+Content-Type: multipart/alternative;
+ boundary="--_NmP-6c08bdfcabbd9947-Part_1"
+Content-Language: de
+X-Template-Name: newDeviceLogin
+X-Template-Version: 7
+X-Link:
+ https://accounts.firefox.com/settings/change_password?email=gkalaitzis57%40gmail.com
+X-Device-ID: ad670c567b574b75b61652cc30dd38d6
+X-Flow-ID: 76022979523b9d729cba9a9790dca729f104bf69ae64cc29b4a5774119880448
+X-Flow-Begin-Time: 1712223853813
+X-Service-ID: sync
+X-Uid: a27c4f0b17fc4760a45f513593f1b2e5
+From: Mozilla <accounts@firefox.com>
+Sender: Mozilla <accounts@firefox.com>
+To: gkalaitzis57@gmail.com
+Cc: georg.kalaitzis@hotmail.com
+Subject: Neue Anmeldung bei Firefox
+Message-ID: <0101018ea87effbd-91e0a8c1-f875-4132-9fb7-1006e0750faf-000000@us-west-2.amazonses.com>
+Date: Thu, 4 Apr 2024 09:44:39 +0000
+Feedback-ID: 1.us-west-2.9obwqSuHxAmNPKpejVDo3cEAmnSHOVLO3+B/64gdyXQ=:AmazonSES
+X-SES-Outgoing: 2024.04.04-54.240.59.48
+X-IncomingHeaderCount: 22
+Return-Path:
+ 0101018ea87effbd-91e0a8c1-f875-4132-9fb7-1006e0750faf-000000@mail.firefox.com
+X-MS-Exchange-Organization-ExpirationStartTime: 04 Apr 2024 09:44:41.7480
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id:
+ cbe809ea-2b87-4b93-2e3f-08dc548bda2f
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic:
+ SG1PEPF000082E8:EE_|AS8PR02MB8687:EE_|GVXPR02MB10805:EE_
+X-MS-Exchange-Organization-AuthSource:
+ SG1PEPF000082E8.apcprd02.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-UserLastLogonTime: 4/4/2024 9:34:03 AM
+X-MS-Office365-Filtering-Correlation-Id: cbe809ea-2b87-4b93-2e3f-08dc548bda2f
+X-MS-Exchange-EOPDirect: true
+X-Sender-IP: 54.240.59.48
+X-SID-PRA: ACCOUNTS@FIREFOX.COM
+X-SID-Result: PASS
+X-MS-Exchange-Organization-PCL: 2
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Antispam: BCL:4;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 04 Apr 2024 09:44:41.0761
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: cbe809ea-2b87-4b93-2e3f-08dc548bda2f
+X-MS-Exchange-CrossTenant-Id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-AuthSource:
+ SG1PEPF000082E8.apcprd02.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg:
+ 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: AS8PR02MB8687
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:03.5808039
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.7409.037
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;ex:0;auth:1;dest:I;ENG:(5062000305)(920221119095)(90000117)(920221120095)(90012020)(91020020)(91040095)(9050020)(9100341)(944500132)(2008001134)(4810010)(4910033)(9575002)(10195002)(9320005)(120001);
+X-Message-Info:
+	qZelhIiYnPkx84CNH6AeQs2r1mfbx475RiI5K0+Xb2co4FyeG9R6dWIglcgmiSxbAEcxd4+FKyUvQT5gxtY0+9v2McP/eZSrAMcnbKj5CTEPD0fzbTnqw5HkgCFZNCv21tZESGbimkdDqw6+EEJgJ9E/xUiclF9Q8aj+e2tPnolOkAdHL2gzRZE+zNaFS+x1rwQzBXjlDoZgHNWBea+fEw==
+X-Message-Delivery: Vj0xLjE7dXM9MDtsPTA7YT0xO0Q9MTtHRD0xO1NDTD0z
+X-Microsoft-Antispam-Message-Info:
+	=?utf-8?B?OWtFd0hFQytoNGZoeVNEaWNwc0VBcU45NVpYZ1REaStESGJpRldGa0F1cjJQ?=
+ =?utf-8?B?eU8yM01xajFhbXcwL2J0S3JqT096TUdWSTBRUFFycVZmVEVjb0N6SE9maWZB?=
+ =?utf-8?B?a3E5bE9pdGo5WDVQMjk3a2FILzJ0MHhBWDl1cFh6aGdYMEd5cFRwZGxMQWpS?=
+ =?utf-8?B?OHc1elZaQW10dXBJS2UwNDcrOHpscnAzZkczRGxtSmFmNXYrTmhoS2ErUWhZ?=
+ =?utf-8?B?SEovRzVTdGQyQjQvN1dMTXMxNkQzMkNkMEdaSy9ZU2ZDZWlOc0RaRHlNTjVH?=
+ =?utf-8?B?RHk1WjhxS0R1RDJuNGVIeVZDb1FuODBLS0tIb2d5OUVvOGxQZS9NZFpNVXM3?=
+ =?utf-8?B?ZnJxOGtRRlRMY0NsZzk1ZTN6UWpPZGNyMFdqbFc5MU1XVGtQNFF6ekVNNjJQ?=
+ =?utf-8?B?SStPUWRRbEFZeTBOVkJBZWVJbUZFWEpPK3RvN2NGeXhsVndvSHJmcWtCd0lL?=
+ =?utf-8?B?bVpCMGxvaENvU2FGaUhzY2VJK055U2hJS2wxUllQcHpqNmRwaFRTSkIxWnpv?=
+ =?utf-8?B?bmQvMFpOR29PbC93K0dRWk5iUFBGMlhHYkpJZWt3NE9kNTFVd0NtTGZmaFpj?=
+ =?utf-8?B?UVpMUUw0YlhoTTlWdVVUSnBsK0xnTUVaRzl1OW4xUW9rL1ZzNDlEQ3ZBMVFB?=
+ =?utf-8?B?Tkx0Z0lsNGRkbityMjBPSFJqbG91a2ZzV3NlZzEydkVjNUpGT0NiYTdiYkRv?=
+ =?utf-8?B?bmVsQ0hGZEQySWhLVWM4NFgzOHVENk5OSTNpTUZzeVp0N01ieUk5cnU0aE9Z?=
+ =?utf-8?B?T00xT2laKzFzR2hnTVg0SnVoeUtER08wTktNV0s0NnA0MzdGcm5OeEpLZmRQ?=
+ =?utf-8?B?d1dudjRXeE53ZWNuLzZCUThvUjVld1pLQUJUdXRyenJJallxM0FTV2lGMVp5?=
+ =?utf-8?B?S0d4QTBlTDFYMUh0RVByZWxXTHh6RXQ0L0tDUVRudHhKU0NKR21hbmh1NTZm?=
+ =?utf-8?B?aXZGNElWUmxta1o5QkZMaFdpMDJIa2tvVEdjVnV2OEVlWUI2WnVLelBnVUpo?=
+ =?utf-8?B?OEZ3enBFUVRwcjRPVE03M1Roak1nQktRK2tseGlZdXJVdVVJa1F0MVRxbk91?=
+ =?utf-8?B?Mk1hOXVaS1hwN1ZtVVFNc1ZQc005czhTenRXRnczbzJkWTgvQ0dtMHhna3dX?=
+ =?utf-8?B?UExwblI4Q09RN2hoVThEY09OYW9JVWx4dmlRci9NeXVaM0VMQVJzRG5BcDB6?=
+ =?utf-8?B?Q3dEK2JpWk1xRDBpdnYxZmxCU29BYWVZWTZ5VEdvazl6LzBXUXNNcTNrb2ow?=
+ =?utf-8?B?Z3VRdXRZZzVRQk8xRFdxQVkzeFlvSW9yenJRZDk4bDlWWC9mYjJQSG50eDRv?=
+ =?utf-8?B?emRFb2VyZVRwdldaQXpyeXdlY1RGUXg4am00K1V0b1dQWFRPZDcxSXlmWUJL?=
+ =?utf-8?B?NHFDcVkrbFlVdjZXTHhOdXJCcjJIN1RwWWt4cVFlVFNzWjZKMlQ2WFhEZXNC?=
+ =?utf-8?B?RHpWVFg0bWozcnh5SmtrL3VsZ3BGakFNMDE3YUhJWjMxZVAwZ2k5TU10OU9F?=
+ =?utf-8?B?YkVOMGZFdGtKbUdsTjA5d1pQRUo1R2pmajFublZqUXBYSG5IUUswZjZMdVNr?=
+ =?utf-8?B?ZW1iVThRakYydFRpTlY2bktoa1NuZzV6Nkdkcy80dmZyQXJnQThYblB0WjJW?=
+ =?utf-8?B?aEpSUUU2RWFyYk1vdmZDT3VrdDRFcjFwMVlaYmF1YXBCSFgrMWxRWkR0QjBx?=
+ =?utf-8?B?cmlFYVRrZ2RBalBsRENnMS9va3M2dVIydjJmVTlKb2F6K3pDcnh0dEppTFYr?=
+ =?utf-8?B?Y0FmVm4vRWtva2pCZ3plbFc4djJYeTMzb1dXamlVRnFJQzB5dVExVnF4Y1lP?=
+ =?utf-8?B?R1hqSVNneUVUeXNjNnMvODdvelloZ2k4QlkrN3hGbmRmaUJ0M3R1NjRkN1ZP?=
+ =?utf-8?B?WXBpMUk4SVllb25zaDlvaE1XLzZoNGlaaVJwaFphRFVjV1FNWmU0Yk9nTWRZ?=
+ =?utf-8?B?dEFkZGliVzNwZGppUTNLSmZuNHZpcEljMVJGYU1yWHlOOEMzRCszbkVOSUJW?=
+ =?utf-8?B?aTFwcXdGMytQeW1BbTB4NXJsZkNtQzdtL2VHWFlvMFFONzFOdmhpVDg4ZFNT?=
+ =?utf-8?B?QUhhRmxuQW1ROW9vRkMvQ2c0WWZWVmRpbmlPQ1hDYjZtNm5xUG9rZTByellj?=
+ =?utf-8?B?Y2pXTkZnWkg3elRra3ZZRjRrbWlUQkd4ZjFSWWJzaWpWS2VmZDY0cHRuOUhp?=
+ =?utf-8?B?aFU4a1R4dDZPYStJdEhyeEFRMnN5cFVTZE5IZ0JrdXlDLzkvVWE1WFBnUFpO?=
+ =?utf-8?B?aGcrNGY0QnFCZ3psR2d5K2ZXSklwQnRWL21ZTjhNSzl3akZLRFEzTzh6UzFL?=
+ =?utf-8?B?eWdVeU9HME1rNE1xK1VNRURicnFFNGZNdENxSG1YRkMxRmpTdWZkdUNydytx?=
+ =?utf-8?B?bGVPS3dUcHBJbk9zMk1mTE1uRzZ1Nll0UXgyNVh2RUNKcWFCNFFxWFNVbENh?=
+ =?utf-8?B?RkMrVUJ6YThIdHJDQUE9PQ==?=
+MIME-Version: 1.0
+
+----_NmP-6c08bdfcabbd9947-Part_1
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+Ihr Mozilla-Konto wurde zur Anmeldung verwendet
+
+Firefox auf Linux
+Donnerstag, 4. Apr. 2024
+12:44:38 (EEST)
+
+Das sind nicht Sie? =C3=84ndern =
+Sie Ihr Passwort:
+https://accounts.firefox.com/settings/change_password?=
+email=3Dgkalaitzis57%40gmail.com
+
+Benutzerkonto verwalten:
+https://accounts.firefox.com/settings?email=3Dgkalaitzis57%40gmail.=
+com&uid=3Da27c4f0b17fc4760a45f513593f1b2e5
+
+Dies ist eine automatisierte =
+E-Mail. Wenn Sie sie versehentlich erhalten haben, brauchen Sie nichts zu =
+tun.
+
+Weitere Informationen erhalten Sie bei der Mozilla-Hilfe: =
+https://support.mozilla.org/kb/im-having-problems-my-firefox-account.
+
+Mozilla. 149 New Montgomery St, 4th Floor, San Francisco, CA 94105
+
+Datenschutzhinweis von Mozilla-Konten
+https://www.mozilla.=
+org/privacy/mozilla-accounts/
+
+Nutzungsbedingungen von Mozilla-Konten
+https://www.mozilla.org/about/legal/terms/services/
+
+----_NmP-6c08bdfcabbd9947-Part_1
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><t=
+itle>
+      Neue Anmeldung bei Firefox
+    </title>
+    <!--[if !mso]><!-->
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+    <!--<![endif]-->
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1">
+    <style type=3D"text/css">
+      #outlook a { padding:0; }
+      body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size=
+-adjust:100%; }
+      table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-r=
+space:0pt; }
+      img { border:0;height:auto;line-height:100%; outline:none;text-decora=
+tion:none;-ms-interpolation-mode:bicubic; }
+      p { display:block;margin:13px 0; }
+    </style>
+    <!--[if mso]>
+    <noscript>
+    <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    </noscript>
+    <![endif]-->
+    <!--[if lte mso 11]>
+    <style type=3D"text/css">
+      .mj-outlook-group-fix { width:100% !important; }
+    </style>
+    <![endif]-->
+   =20
+      <!--[if !mso]><!-->
+        <link href=3D"https://fonts.googleapis.com/css?family=3DUbuntu:300,=
+400,500,700" rel=3D"stylesheet" type=3D"text/css">
+        <style type=3D"text/css">
+          @import url(https://fonts.googleapis.com/css?family=3DUbuntu:300,=
+400,500,700);
+        </style>
+      <!--<![endif]-->
+
+   =20
+   =20
+    <style type=3D"text/css">
+      @media only screen and (min-width:480px) {
+        .mj-column-per-100 { width:100% !important; max-width: 100%; }
+      }
+    </style>
+    <style media=3D"screen and (min-width:480px)">
+      .moz-text-html .mj-column-per-100 { width:100% !important; max-width:=
+ 100%; }
+    </style>
+   =20
+ =20
+    <style type=3D"text/css">
+   =20
+   =20
+
+    @media only screen and (max-width:480px) {
+      table.mj-full-width-mobile { width: 100% !important; }
+      td.mj-full-width-mobile { width: auto !important; }
+    }
+ =20
+    </style>
+    <style type=3D"text/css">
+    .ltr div {
+  direction: ltr !important;
+}
+.ltr td {
+  direction: ltr !important;
+}
+
+.rtl div {
+  direction: rtl !important;
+}
+.rtl td {
+  direction: rtl !important;
+}
+    </style>
+   =20
+
+  </head>
+  <body style=3D"word-spacing:normal;">
+   =20
+   =20
+      <div style=3D"">
+       =20
+     =20
+      <!--[if mso | IE]><table align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" class=3D"body-outlook" role=3D"presentation" style=3D=
+"width:600px;" width=3D"600" ><tr><td style=3D"line-height:0px;font-size:0p=
+x;mso-line-height-rule:exactly;"><![endif]-->
+   =20
+     =20
+      <div class=3D"body" style=3D"max-width: 310px; margin: 0px auto;">
+       =20
+        <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" style=3D"width:100%;">
+          <tbody>
+            <tr>
+              <td style=3D"direction: ltr; font-size: 0px; text-align: cent=
+er; padding: 0px;" align=3D"center">
+                <!--[if mso | IE]><table role=3D"presentation" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0"><tr><td class=3D"" width=3D"600px" ><t=
+able align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" clas=
+s=3D"" role=3D"presentation" style=3D"width:600px;" width=3D"600" ><tr><td =
+style=3D"line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![en=
+dif]-->
+   =20
+     =20
+      <div style=3D"margin:0px auto;max-width:600px;">
+       =20
+        <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" style=3D"width:100%;">
+          <tbody>
+            <tr>
+              <td style=3D"direction: ltr; font-size: 0px; text-align: cent=
+er; padding: 0px;" align=3D"center">
+                <!--[if mso | IE]><table role=3D"presentation" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0"><tr><td class=3D"" style=3D"vertical-a=
+lign:top;width:600px;" ><![endif]-->
+           =20
+      <div class=3D"mj-column-per-100 mj-outlook-group-fix" style=3D"font-s=
+ize:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:t=
+op;width:100%;">
+       =20
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"prese=
+ntation" style=3D"vertical-align:top;" width=3D"100%">
+        <tbody>
+         =20
+              <tr>
+                <td align=3D"center" class=3D"mozilla-logo" style=3D"align-=
+items: center; font-size: 0px; word-break: break-word; padding: 40px 0px; m=
+argin: 0 auto; display: block;">
+                 =20
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"prese=
+ntation" style=3D"border-collapse:collapse;border-spacing:0px;">
+        <tbody>
+          <tr>
+            <td style=3D"width: 120px; padding: 0px;" data-l10n-id=3D"fxa-h=
+eader-mozilla-logo" width=3D"120"><img alt=3D"Mozilla-Logo" height=3D"auto"=
+ src=3D"https://accounts-static.cdn.mozilla.net/product-icons/mozilla-logo.=
+png" style=3D"border:0;display:block;outline:none;text-decoration:none;heig=
+ht:auto;width:100%;font-size:13px;" width=3D"120" data-l10n-name=3D"mozilla=
+-logo"></td>
+          </tr>
+        </tbody>
+      </table>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table></td></tr><tr><td class=3D"" widt=
+h=3D"600px" ><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" class=3D"" role=3D"presentation" style=3D"width:600px;" width=3D=
+"600" ><tr><td style=3D"line-height:0px;font-size:0px;mso-line-height-rule:=
+exactly;"><![endif]-->
+   =20
+     =20
+      <div style=3D"margin:0px auto;max-width:600px;">
+       =20
+        <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" style=3D"width:100%;">
+          <tbody>
+            <tr>
+              <td style=3D"direction: ltr; font-size: 0px; text-align: cent=
+er; padding: 0px;" align=3D"center">
+                <!--[if mso | IE]><table role=3D"presentation" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0"><tr><td class=3D"" style=3D"vertical-a=
+lign:top;width:600px;" ><![endif]-->
+           =20
+      <div class=3D"mj-column-per-100 mj-outlook-group-fix" style=3D"font-s=
+ize:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:t=
+op;width:100%;">
+       =20
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"prese=
+ntation" style=3D"vertical-align:top;" width=3D"100%">
+        <tbody>
+         =20
+              <tr>
+                <td align=3D"left" class=3D"text-header" style=3D"font-size=
+: 0px; word-break: break-word; padding: 0px;">
+                 =20
+      <div style=3D"color: #000000; font-size: 20px; line-height: 28px; fon=
+t-family: sans-serif; margin-bottom: 12px; text-align: center;"><span data-=
+l10n-id=3D"newDeviceLogin-title-3">Ihr Mozilla-Konto wurde zur Anmeldung ve=
+rwendet</span></div>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table></td></tr><tr><td class=3D"" widt=
+h=3D"600px" ><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" class=3D"" role=3D"presentation" style=3D"width:600px;" width=3D=
+"600" ><tr><td style=3D"line-height:0px;font-size:0px;mso-line-height-rule:=
+exactly;"><![endif]-->
+   =20
+     =20
+      <div style=3D"margin:0px auto;max-width:600px;">
+       =20
+        <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" style=3D"width:100%;">
+          <tbody>
+            <tr>
+              <td style=3D"direction: ltr; font-size: 0px; text-align: cent=
+er; padding: 0px;" align=3D"center">
+                <!--[if mso | IE]><table role=3D"presentation" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0"><tr><td class=3D"" style=3D"vertical-a=
+lign:top;width:600px;" ><![endif]-->
+           =20
+      <div class=3D"mj-column-per-100 mj-outlook-group-fix" style=3D"font-s=
+ize:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:t=
+op;width:100%;">
+       =20
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"prese=
+ntation" style=3D"vertical-align:top;" width=3D"100%">
+        <tbody>
+         =20
+              <tr>
+                <td align=3D"left" class=3D"text-body-grey" style=3D"font-s=
+ize: 0px; word-break: break-word; padding: 0px;">
+                 =20
+      <div style=3D"font-size: 14px; line-height: 22px; font-family: sans-s=
+erif; margin-bottom: 24px; text-align: center; color: #4b5563;"><span data-=
+l10n-id=3D"device-browser-os" data-l10n-args=3D"{&quot;uaBrowser&quot;:&quo=
+t;Firefox&quot;,&quot;uaOS&quot;:&quot;Linux&quot;}">Firefox auf Linux</spa=
+n>
+     =20
+   =20
+ =20
+
+        <br>
+     =20
+     =20
+        Donnerstag, 4. Apr. 2024
+        <br>
+     =20
+     =20
+        12:44:38 (EEST)
+        <br></div>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table></td></tr><tr><td class=3D"" widt=
+h=3D"600px" ><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" class=3D"" role=3D"presentation" style=3D"width:600px;" width=3D=
+"600" ><tr><td style=3D"line-height:0px;font-size:0px;mso-line-height-rule:=
+exactly;"><![endif]-->
+   =20
+     =20
+      <div style=3D"margin:0px auto;max-width:600px;">
+       =20
+        <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" style=3D"width:100%;">
+          <tbody>
+            <tr>
+              <td style=3D"direction: ltr; font-size: 0px; text-align: cent=
+er; padding: 0px;" align=3D"center">
+                <!--[if mso | IE]><table role=3D"presentation" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0"><tr><td class=3D"" style=3D"vertical-a=
+lign:top;width:600px;" ><![endif]-->
+           =20
+      <div class=3D"mj-column-per-100 mj-outlook-group-fix" style=3D"font-s=
+ize:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:t=
+op;width:100%;">
+       =20
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"prese=
+ntation" style=3D"vertical-align:top;" width=3D"100%">
+        <tbody>
+         =20
+              <tr>
+                <td align=3D"left" class=3D"text-body" style=3D"font-size: =
+0px; word-break: break-word; padding: 0px;">
+                 =20
+      <div style=3D"color: #000000; font-size: 14px; line-height: 22px; fon=
+t-family: sans-serif; margin-bottom: 20px; text-align: center;"><span data-=
+l10n-id=3D"newDeviceLogin-change-password">Das sind nicht Sie? <a class=3D"=
+link-blue" href=3D"https://accounts.firefox.com/settings/change_password?em=
+ail=3Dgkalaitzis57%40gmail.com" data-l10n-name=3D"passwordChangeLink" style=
+=3D"color: #0060df; text-decoration: none; font-family: sans-serif;">=C3=84=
+ndern Sie Ihr Passwort</a>.</span></div>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table></td></tr><tr><td class=3D"" widt=
+h=3D"600px" ><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" class=3D"" role=3D"presentation" style=3D"width:600px;" width=3D=
+"600" ><tr><td style=3D"line-height:0px;font-size:0px;mso-line-height-rule:=
+exactly;"><![endif]-->
+   =20
+     =20
+      <div style=3D"margin:0px auto;max-width:600px;">
+       =20
+        <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" style=3D"width:100%;">
+          <tbody>
+            <tr>
+              <td style=3D"direction: ltr; font-size: 0px; text-align: cent=
+er; padding: 0px;" align=3D"center">
+                <!--[if mso | IE]><table role=3D"presentation" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0"><tr><td class=3D"" style=3D"vertical-a=
+lign:top;width:600px;" ><![endif]-->
+           =20
+      <div class=3D"mj-column-per-100 mj-outlook-group-fix" style=3D"font-s=
+ize:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:t=
+op;width:100%;">
+       =20
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"prese=
+ntation" style=3D"vertical-align:top;" width=3D"100%">
+        <tbody>
+         =20
+              <tr>
+                <td align=3D"center" vertical-align=3D"middle" class=3D"pri=
+mary-button" style=3D"font-size: 0px; word-break: break-word; padding: 0px;=
+ height: 56px; max-width: 310px;" height=3D"56">
+                 =20
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"prese=
+ntation" style=3D"border-collapse:separate;line-height:100%;">
+        <tbody>
+          <tr>
+            <td align=3D"center" bgcolor=3D"#414141" role=3D"presentation" =
+style=3D"border: none; border-radius: 3px; cursor: auto; mso-padding-alt: 1=
+0px 25px; background: #414141; padding: 0px;" valign=3D"middle">
+              <a href=3D"https://accounts.firefox.com/settings?email=3Dgkal=
+aitzis57%40gmail.com&amp;uid=3Da27c4f0b17fc4760a45f513593f1b2e5" style=3D"d=
+isplay: inline-block; color: #ffffff; font-weight: normal; margin: 0; text-=
+decoration: none; text-transform: none; mso-padding-alt: 0px; font-size: 18=
+px; line-height: 26px; font-family: sans-serif; background: #0060df; max-wi=
+dth: 310px; padding: 8px 16px; border-radius: 4px;" target=3D"_blank">
+                <span data-l10n-id=3D"newDeviceLogin-action">Benutzerkonto =
+verwalten</span>
+              </a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table></td></tr><tr><td class=3D"" widt=
+h=3D"600px" ><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" class=3D"" role=3D"presentation" style=3D"width:600px;" width=3D=
+"600" ><tr><td style=3D"line-height:0px;font-size:0px;mso-line-height-rule:=
+exactly;"><![endif]-->
+   =20
+     =20
+      <div style=3D"margin:0px auto;max-width:600px;">
+       =20
+        <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" style=3D"width:100%;">
+          <tbody>
+            <tr>
+              <td style=3D"direction: ltr; font-size: 0px; text-align: cent=
+er; padding: 0px;" align=3D"center">
+                <!--[if mso | IE]><table role=3D"presentation" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0"><tr><td class=3D"" style=3D"vertical-a=
+lign:top;width:600px;" ><![endif]-->
+           =20
+      <div class=3D"mj-column-per-100 mj-outlook-group-fix" style=3D"font-s=
+ize:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:t=
+op;width:100%;">
+       =20
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"prese=
+ntation" style=3D"vertical-align:top;" width=3D"100%">
+        <tbody>
+         =20
+              <tr>
+                <td align=3D"left" class=3D"text-footer-automatedEmail" sty=
+le=3D"font-size: 0px; word-break: break-word; padding: 0px;">
+                 =20
+      <div style=3D"font-size: 12px; line-height: 20px; font-family: sans-s=
+erif; margin-top: 40px; margin-bottom: 12px; text-align: center; color: #6d=
+6d6e;"><span data-l10n-id=3D"automated-email-no-action">Dies ist eine autom=
+atisierte E-Mail. Wenn Sie sie versehentlich erhalten haben, brauchen Sie n=
+ichts zu tun. Weitere Informationen erhalten Sie bei der <a class=3D"link-b=
+lue" href=3D"https://support.mozilla.org/kb/im-having-problems-my-firefox-a=
+ccount" data-l10n-name=3D"supportLink" style=3D"color: #0060df; text-decora=
+tion: none; font-family: sans-serif;">Mozilla-Hilfe</a>.</span></div>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table></td></tr><tr><td class=3D"" widt=
+h=3D"600px" ><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" class=3D"" role=3D"presentation" style=3D"width:600px;" width=3D=
+"600" ><tr><td style=3D"line-height:0px;font-size:0px;mso-line-height-rule:=
+exactly;"><![endif]-->
+   =20
+     =20
+      <div style=3D"margin:0px auto;max-width:600px;">
+       =20
+        <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" style=3D"width:100%;">
+          <tbody>
+            <tr>
+              <td style=3D"direction: ltr; font-size: 0px; text-align: cent=
+er; padding: 0px;" align=3D"center">
+                <!--[if mso | IE]><table role=3D"presentation" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0"><tr><td class=3D"" style=3D"vertical-a=
+lign:top;width:600px;" ><![endif]-->
+           =20
+      <div class=3D"mj-column-per-100 mj-outlook-group-fix" style=3D"font-s=
+ize:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:t=
+op;width:100%;">
+       =20
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"prese=
+ntation" style=3D"vertical-align:top;" width=3D"100%">
+        <tbody>
+         =20
+              <tr>
+                <td align=3D"left" class=3D"text-footer" style=3D"font-size=
+: 0px; word-break: break-word; padding: 0px;">
+                 =20
+      <div style=3D"font-size: 12px; line-height: 20px; font-family: sans-s=
+erif; text-align: center; color: #6d6d6e;">Mozilla. 149 New Montgomery St, =
+4th Floor, San Francisco, CA 94105</div>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td align=3D"left" class=3D"text-footer" style=3D"font-size=
+: 0px; word-break: break-word; padding: 0px;">
+                 =20
+      <div style=3D"font-size: 12px; line-height: 20px; font-family: sans-s=
+erif; text-align: center; color: #6d6d6e;"><a class=3D"link-blue" data-l10n=
+-id=3D"moz-accounts-privacy-url-2" href=3D"https://www.mozilla.org/privacy/=
+mozilla-accounts/" style=3D"color: #0060df; text-decoration: none; font-fam=
+ily: sans-serif;">Datenschutzhinweis von Mozilla-Konten</a></div>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td align=3D"left" class=3D"text-footer" style=3D"font-size=
+: 0px; word-break: break-word; padding: 0px;">
+                 =20
+      <div style=3D"font-size: 12px; line-height: 20px; font-family: sans-s=
+erif; text-align: center; color: #6d6d6e;"><a class=3D"link-blue" data-l10n=
+-id=3D"moz-accounts-terms-url" href=3D"https://www.mozilla.org/about/legal/=
+terms/services/" style=3D"color: #0060df; text-decoration: none; font-famil=
+y: sans-serif;">Nutzungsbedingungen von Mozilla-Konten</a></div>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table><![endif]-->
+   =20
+   =20
+      </div>
+   =20
+ =20
+
+  </body></html>=
+
+----_NmP-6c08bdfcabbd9947-Part_1--

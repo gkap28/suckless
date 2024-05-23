@@ -1,0 +1,98 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (B8=X-GM-THRID)(B9=X-GM-LABELS)(BA=MRUTime)
+  (BB=dobayes.mailnews@mozilla.org#junk.empty)
+  (BC=dobayes.mailnews@mozilla.org#junk)(BD=preview)(BE=storeToken)
+  (BF=gloda-id)(C0=gloda-dirty)(C1=junkscore)(C2=overrideCharset)
+  (C3=originalSubject)(C4=keywords)(C5=ns:msg:db:row:scope:ops:all)
+  (C6=ns:msg:db:table:kind:ops)(C7=columnStates)(C8=sortType)
+  (C9=sortOrder)(CA=viewFlags)(CB=viewType)(CC=sortColumns)
+  (CD=customSortCol)(CE=sender_name)(CF=imageSize)(D0=op)(D1=msgKey)
+  (D2=opFlags)(D3=newFlags)(D4=moveDest)(D5=msgSize)(D6=inPlayback)
+  (D7=applyIncomingFilters.empty)(D8=applyIncomingFilters)
+  (D9=remoteContentPolicy)(DA=notAPhishMessage)(DB=replyTo)(DC=enigmail)
+  (DD=account)(DE=useServerRetention)(DF=retainBy)(E0=daysToKeepHdrs)
+  (E1=numHdrsToKeep)(E2=daysToKeepBodies)(E3=useServerDefaults)
+  (E4=cleanupBodies)(E5=applyToFlaggedMessages)
+  (80=ns:msg:db:row:scope:msgs:all)(81=subject)(82=sender)(83=message-id)
+  (84=references)(85=recipients)(86=date)(87=size)(88=flags)(89=priority)
+  (8A=label)(8B=numLines)(8C=ccList)(8D=bccList)(8E=msgThreadId)
+  (8F=threadId)(90=threadFlags)(91=threadNewestMsgDate)(92=children)
+  (93=unreadChildren)(94=threadSubject)(95=msgCharSet)
+  (96=ns:msg:db:table:kind:msgs)(97=ns:msg:db:table:kind:thread)
+  (98=ns:msg:db:table:kind:allthreads)
+  (99=ns:msg:db:row:scope:threads:all)(9A=threadParent)(9B=threadRoot)
+  (9C=msgOffset)(9D=offlineMsgSize)
+  (9E=ns:msg:db:row:scope:dbfolderinfo:all)
+  (9F=ns:msg:db:table:kind:dbfolderinfo)(A0=numMsgs)(A1=numNewMsgs)
+  (A2=folderSize)(A3=expungedBytes)(A4=folderDate)(A5=highWaterKey)
+  (A6=mailboxName)(A7=UIDValidity)(A8=totPendingMsgs)
+  (A9=unreadPendingMsgs)(AA=expiredMark)(AB=version)(AC=forceReparse)
+  (AD=fixedBadRefThreading)(AE=onlineName)(AF=highestModSeq)
+  (B0=imapFlags)(B1=highestRecordedUID)
+  (B2=ns:msg:db:row:scope:pending:all)(B3=ns:msg:db:table:kind:pending)
+  (B4=dateReceived)(B5=ProtoThreadFlags)(B6=folderName)(B7=X-GM-MSGID)>
+<(4A5=1290)(81=0)>[32:m(^9B^4A5)(^8F^4A5)(^91=0)(^90=0)(^92=0)(^93=0)]
+<(4D8=1292)(4D4=6610faee)(80=1)>
+[33:m(^9B^4D8)(^8F^4D8)(^91^4D4)(^90=0)(^92=1)(^93=0)]
+
+<(4CF=undelivered@plaisio.gr)(4D0
+    ==?UTF-8?B?UGxhaXNpbw==?= <plaisio@newsletter.plaisio.gr>)(4D1
+    =gkalaitzis57@gmail.com)(4D2
+    ==?UTF-8?B?8J+Yjs6Sz4HOtc+CIGNhbWVyYXMsIGRyb25lcywgc2Nvb3RlcnMgJiDOt8+HzrX\
+Or86xIM6zzrnOsSDPhM65z4IgzrHOvc6/zrnOvs65zqzPhM65zrrOtc+CIM6xz4DOv860z4HOrM+Dz\
+rXOuc+CIM+Dzr/PhSE=?=)(4D3
+    =6610faee.df0a0220.7fc5f.c917SMTPIN_ADDED_MISSING@mx.google.com)
+  (4D5=UTF-8)(4D6=1606a)(4D7=ffffffff)(4DA=1795569847185929511)(86=)
+  (4DD=3|Plaisio)>
+{1:^80 {(k^96:c)(s=9)} 
+  [1292(^88=1)(^DB^4CF)(^82^4D0)(^85^4D1)(^81^4D2)(^83^4D3)(^B4^4D4)
+    (^86^4D4)(^89=1)(^95^4D5)(^87^4D6)(^9A^4D7)(^8E^4D8)(^B5=0)(^B7^4DA)
+    (^B8^4DA)(^B9=)(^BD=)(^CE^4DD)(^C4=)]}
+{1292:^80 {(k^97:c)(s=9)33:m } 1292 }
+{FFFFFFFD:^99 {(k^98:c)(s=9)} [1292(^94^4D2)]}
+
+<(82=INBOX)(83=88083014)(4CE=674598)(85=e000)(4DC=1712391691)(11F=12)
+  (4CD=3e663)>
+{1:^9E {(k^9F:c)(s=9)} 
+  [1(^AB=1)(^AC=0)(^AD=1)(^AE^82)(^88^83)(^A6^82)(^AF^4CE)(^B0^85)(^A7=1)
+    (^B1^4D8)(^A0=1)(^A5^4D8)(^A1=0)(^BA^4DC)(^C8=12)(^C9=1)(^CA=0)
+    (^CB=0)(^CC=)(^A3^4CD)(^DE=1)]}
+[1290:^C5]
+
+@$${311{@
+<(4C5=98083014)>[1:^9E(^88^4C5)]
+{-1:^C5 {(k^C6:c)(s=9)} 
+  [-1292(^D1^4D8)(^D3=1)]}
+@$$}311}@
+
+@$${312{@
+[-FFFFFFEF:^80(^88=1)(^DB^4CF)(^82^4D0)(^85^4D1)(^81^4D2)(^83^4D3)
+    (^B4^4D4)(^86^4D4)(^89=1)(^95^4D5)(^87^4D6)(^9A^4D7)(^8E^4D8)(^B5=0)
+    (^B7^4DA)(^B8^4DA)(^B9=)(^BD=)(^CE^4DD)(^C4=)]
+<(4C6=imap://gkalaitzis57%40gmail.com@imap.gmail.com/[Gmail]/Papierkorb)
+  (4C7=2)>[-1292:^C5(^D1^4D8)(^D3=1)(^D4^4C6)(^D0=2)(^D5^4D6)]
+@$$}312}@
+
+@$${313{@
+[-33:m(^9B^4D8)(^8F^4D8)(^91=0)(^90=0)(^92=0)(^93=0)]
+{-1:^80 {(k^96:c)(s=9)} }
+{-1292:^80 {(k^97:c)(s=9)33:m } }[-1292:^80]
+{-FFFFFFFD:^99 {(k^98:c)(s=9)} }
+[1:^9E(^A0=0)]
+@$$}313}@
+
+@$${314{@
+[1:^9E(^88^83)]
+{-1:^C5 {(k^C6:c)(s=9)} }
+[-1292:^C5]
+@$$}314}@
+
+@$${315{@
+@$$}315}@
+
+@$${316{@
+@$$}316}@
+
+@$${317{@
+@$$}317}@

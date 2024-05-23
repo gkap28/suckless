@@ -1,0 +1,2552 @@
+From - Tue Nov  7 11:10:51 2023
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <gkalaitzis.karditsa@gmail.com>
+Received: from [192.168.1.16] (adsl-211.109.242.100.tellas.gr. [109.242.100.211])
+        by smtp.gmail.com with ESMTPSA id i5-20020a170906850500b0098951bb4dc3sm5368665ejx.184.2023.08.14.01.33.12
+        for <jake@jpedmedia.com>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Mon, 14 Aug 2023 01:33:13 -0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="------------xNkFLLmlSm0fZxgb0aHDEoTK"
+Message-ID: <ef1832eb-d7b2-4b16-b275-5afcdc80a8ae@gmail.com>
+Date: Mon, 14 Aug 2023 08:33:12 +0000
+MIME-Version: 1.0
+User-Agent: Mozilla Thunderbird
+Subject: Re: voidlinux virt vmach.sh script
+To: Jacob Pedersen <jake@jpedmedia.com>
+References: <3891cd3c-7dcb-06d5-3af9-0f16944e0c79@gmail.com>
+ <d1f6b80c-2582-4484-977b-d0629dfcd416@jpedmedia.com>
+ <c437c291-03d0-def1-947e-e68191fc040d@gmail.com>
+ <44b2ddbb-3f48-456f-9870-44558e997852@jpedmedia.com>
+ <f1150444-226c-40a5-7626-b3525a5995aa@gmail.com>
+ <cbac6ff0-b4d0-4611-a39f-1b13ca8111d2@jpedmedia.com>
+ <5e2878b2-1837-d514-1c10-e79360659c13@gmail.com>
+ <02668a6f-85e7-4d14-a088-925b2fcb4891@jpedmedia.com>
+Content-Language: en-US
+From: kalaitzis georg <gkalaitzis.karditsa@gmail.com>
+In-Reply-To: <02668a6f-85e7-4d14-a088-925b2fcb4891@jpedmedia.com>
+
+This is a multi-part message in MIME format.
+--------------xNkFLLmlSm0fZxgb0aHDEoTK
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+
+hey jake,
+i have successfully installed your new script,after some obstacles,i 
+managed to get the virtual machine to open. Good work my friend, now I 
+downloaded an iso, and saved it in /var/lib/libvirt/images. so far so 
+good--------
+now I have e.g. archlinux, postinstall after successful installation 
+umount /mnt, and reboot. and NOW,what now jake????
+i get a hint bash from hard disk boot and that's it.... when i restart 
+the machine then i have NO CHOICE choose a VM archlinux is not listed. 
+what am i doing wrong.
+
+
+
+
+
+Am 11.08.23 um 21:34 schrieb Jacob Pedersen:
+> Vmach.sh script updated, it works on my system now so give it a try on 
+> yours. Keep me posted on further issues.
+>
+> Jake Pedersen
+> Jake@Linux
+>
+> Aug 4, 2023 12:15:56 PM kalaitzis georg <gkalaitzis.karditsa@gmail.com>:
+>
+>     hey Jake,
+>
+>     thank you,
+>
+>     i installed it,and it worked, noww i waiting to solved the scripts
+>
+>
+>     thang you again
+>
+>
+>
+>     Am 03.08.23 um 23:19 schrieb Jacob Pedersen:
+>>     I have had a little free time to attempt to address my script,
+>>     however no solution yet. I did push my vimrc to my repos so you
+>>     should have access to it now.
+>>
+>>     Thanks for your patience
+>>     Jake Pedersen
+>>     Jake@Linix
+>>
+>>     Aug 3, 2023 3:58:59 AM kalaitzis georg
+>>     <gkalaitzis.karditsa@gmail.com>:
+>>
+>>         hey Jake,
+>>
+>>         i was wondering if you had time to work on your scripts??????
+>>         and by the way, where can i get your /.config/vim/.vimrc?
+>>         on github i can't find it,there is only your .vim which you
+>>         have under $HOME. i would like to install your .vimrc. i hope
+>>         you have a solution for your script soon,because none of the
+>>         scripts work.
+>>
+>>         thanks for the effort
+>>
+>>
+>>
+>>         Am 24.07.23 um 02:48 schrieb Jacob Pedersen:
+>>>         Hey Georg,
+>>>         There is an issue with my script, something has changed and
+>>>         is causing issues, it is suddenly not working for me either.
+>>>         Let me do some troubleshooting and get back with you.
+>>>
+>>>         Thanks for your patience
+>>>         Jake Pedersen
+>>>         Jake@Linux
+>>>
+>>>         Jul 23, 2023 3:16:40 AM kalaitzis georg
+>>>         <gkalaitzis.karditsa@gmail.com>:
+>>>
+>>>             Hello Jake,
+>>>             Thanks for replying, I have managed so far, that when I
+>>>             enter vmach.sh in the terminal (alacritty,st), a window
+>>>             opens where I can select Add:. with arrow key I select
+>>>             Add, it opens the second window where I then select
+>>>             (What distro,CPU,Mem,OS etc.). ). but when I press enter
+>>>             at the end, nothing works. that's where you come in,
+>>>             what can I do? how can I open your script with key
+>>>             combination (alt+shift+v)?
+>>>
+>>>             thank you
+>>>
+>>>
+>>>
+>>>
+>>>             Am 21.07.2023 um 17:15 schrieb Jacob Pedersen:
+>>>>             … 
+>>>
+>>>             -- 
+>>>             ミ★ 𝘮𝘧𝘨
+>>>             𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+>>>             43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+>>>
+>>         -- 
+>>         ミ★ 𝘮𝘧𝘨
+>>         𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+>>         43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+>>
+>     -- 
+>     ミ★ 𝘮𝘧𝘨
+>     𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+>     43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+>
+-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+
+--------------xNkFLLmlSm0fZxgb0aHDEoTK
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  </head>
+  <body>
+    <p><br>
+    </p>
+    <p>hey jake,<br>
+      i have successfully installed your new script,after some
+      obstacles,i managed to get the virtual machine to open. Good work
+      my friend, now I downloaded an iso, and saved it in
+      /var/lib/libvirt/images. so far so good--------<br>
+      now I have e.g. archlinux, postinstall after successful
+      installation umount /mnt, and reboot. and NOW,what now jake????<br>
+      i get a hint bash from hard disk boot and that's it.... when i
+      restart the machine then i have NO CHOICE choose a VM archlinux is
+      not listed. what am i doing wrong.<br>
+      <br>
+      <br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <div class="moz-cite-prefix">Am 11.08.23 um 21:34 schrieb Jacob
+      Pedersen:<br>
+    </div>
+    <blockquote type="cite"
+      cite="mid:02668a6f-85e7-4d14-a088-925b2fcb4891@jpedmedia.com">
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+      <meta name="viewport"
+        content="width=device-width, initial-scale=1.0">
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">Vmach.sh
+        script updated, it works on my system now so give it a try on
+        yours. Keep me posted on further issues.</span> <br>
+      <br>
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">Jake
+        Pedersen </span> <br>
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">Jake@Linux</span>
+      <br>
+      <div><br>
+        <div>
+          <p>Aug 4, 2023 12:15:56 PM kalaitzis georg
+            <a class="moz-txt-link-rfc2396E" href="mailto:gkalaitzis.karditsa@gmail.com">&lt;gkalaitzis.karditsa@gmail.com&gt;</a>:</p>
+        </div>
+        <blockquote
+          style="margin:0;border-left:3px solid #ccc; padding-left:10px">
+          <p>hey Jake,</p>
+          <p>thank you,</p>
+          <p>i installed it,and it worked, noww i waiting to solved the
+            scripts <br>
+          </p>
+          <p><br>
+          </p>
+          <p>thang you again</p>
+          <p><br>
+          </p>
+          <p><br>
+          </p>
+          <div class="moz-cite-prefix"> Am 03.08.23 um 23:19 schrieb
+            Jacob Pedersen:<br>
+          </div>
+          <blockquote type="cite"
+cite="mid:cbac6ff0-b4d0-4611-a39f-1b13ca8111d2@jpedmedia.com">
+            <meta http-equiv="content-type"
+              content="text/html; charset=UTF-8">
+            <meta name="viewport"
+              content="width=device-width, initial-scale=1.0">
+            <span dir="ltr" style="margin-top:0; margin-bottom:0">I have
+              had a little free time to attempt to address my script,
+              however no solution yet. I did push my vimrc to my repos
+              so you should have access to it now. </span> <br>
+            <br>
+            <span dir="ltr" style="margin-top:0; margin-bottom:0">Thanks
+              for your patience</span> <br>
+            <span dir="ltr" style="margin-top:0; margin-bottom:0">Jake
+              Pedersen</span> <br>
+            <span dir="ltr" style="margin-top:0; margin-bottom:0">Jake@Linix</span>
+            <br>
+            <div><br>
+              <div>
+                <p>Aug 3, 2023 3:58:59 AM kalaitzis georg <a
+                    class="moz-txt-link-rfc2396E"
+                    href="mailto:gkalaitzis.karditsa@gmail.com"
+                    moz-do-not-send="true">&lt;gkalaitzis.karditsa@gmail.com&gt;</a>:</p>
+              </div>
+              <blockquote
+style="margin:0;border-left:3px solid #ccc; padding-left:10px">
+                <p>hey Jake,</p>
+                <p>i was wondering if you had time to work on your
+                  scripts?????? and by the way, where can i get your
+                  /.config/vim/.vimrc?<br>
+                  on github i can't find it,there is only your .vim
+                  which you have under $HOME. i would like to install
+                  your .vimrc. i hope you have a solution for your
+                  script soon,because none of the scripts work.<br>
+                  <br>
+                  thanks for the effort<br>
+                </p>
+                <p><br>
+                </p>
+                <p><br>
+                </p>
+                <div class="moz-cite-prefix"> Am 24.07.23 um 02:48
+                  schrieb Jacob Pedersen:<br>
+                </div>
+                <blockquote type="cite"
+cite="mid:44b2ddbb-3f48-456f-9870-44558e997852@jpedmedia.com">
+                  <meta http-equiv="content-type"
+                    content="text/html; charset=UTF-8">
+                  <meta name="viewport"
+                    content="width=device-width, initial-scale=1.0">
+                  <span dir="ltr" style="margin-top:0; margin-bottom:0">Hey
+                    Georg,</span> <br>
+                  <span dir="ltr" style="margin-top:0; margin-bottom:0">There
+                    is an issue with my script, something has changed
+                    and is causing issues, it is suddenly not working
+                    for me either. Let me do some troubleshooting and
+                    get back with you.</span> <br>
+                  <br>
+                  <span dir="ltr" style="margin-top:0; margin-bottom:0">Thanks
+                    for your patience</span> <br>
+                  <span dir="ltr" style="margin-top:0; margin-bottom:0">Jake
+                    Pedersen</span> <br>
+                  <span dir="ltr" style="margin-top:0; margin-bottom:0">Jake@Linux</span>
+                  <br>
+                  <div> <br>
+                    <div>
+                      <p>Jul 23, 2023 3:16:40 AM kalaitzis georg <a
+                          class="moz-txt-link-rfc2396E"
+                          href="mailto:gkalaitzis.karditsa@gmail.com"
+                          moz-do-not-send="true">&lt;gkalaitzis.karditsa@gmail.com&gt;</a>:</p>
+                    </div>
+                    <blockquote
+style="margin:0;border-left:3px solid #ccc; padding-left:10px">
+                      <p>Hello Jake,<br>
+                        Thanks for replying, I have managed so far, that
+                        when I enter vmach.sh in the terminal
+                        (alacritty,st), a window opens where I can
+                        select Add:. with arrow key I select Add, it
+                        opens the second window where I then select
+                        (What distro,CPU,Mem,OS etc.). ). but when I
+                        press enter at the end, nothing works. that's
+                        where you come in, what can I do? how can I open
+                        your script with key combination (alt+shift+v)?<br>
+                        <br>
+                        thank you<br>
+                      </p>
+                      <p><br>
+                      </p>
+                      <p><br>
+                      </p>
+                      <p><br>
+                      </p>
+                      <div class="moz-cite-prefix"> Am 21.07.2023 um
+                        17:15 schrieb Jacob Pedersen:<br>
+                      </div>
+                      <blockquote type="cite"
+cite="mid:d1f6b80c-2582-4484-977b-d0629dfcd416@jpedmedia.com"> … </blockquote>
+                      <pre class="moz-signature" cols="72">-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡</pre>
+                    </blockquote>
+                  </div>
+                </blockquote>
+                <pre class="moz-signature" cols="72">-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡</pre>
+              </blockquote>
+            </div>
+          </blockquote>
+          <pre class="moz-signature" cols="72">-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡</pre>
+        </blockquote>
+      </div>
+    </blockquote>
+    <pre class="moz-signature" cols="72">-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡</pre>
+  </body>
+</html>
+
+--------------xNkFLLmlSm0fZxgb0aHDEoTK--
+From - Tue Nov  7 11:10:51 2023
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <gkalaitzis.karditsa@gmail.com>
+Received: from [192.168.1.16] (adsl-211.109.242.100.tellas.gr. [109.242.100.211])
+        by smtp.gmail.com with ESMTPSA id c8-20020a17090654c800b0099cf91fe297sm5857708ejp.13.2023.08.14.07.44.51
+        for <jake@jpedmedia.com>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Mon, 14 Aug 2023 07:44:51 -0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="------------xE0uaD0f49J6Vq53jgSblrvB"
+Message-ID: <9d606016-5a8b-4320-919a-3ad234b3eb9b@gmail.com>
+Date: Mon, 14 Aug 2023 14:44:50 +0000
+MIME-Version: 1.0
+User-Agent: Mozilla Thunderbird
+Subject: Re: voidlinux virt vmach.sh script
+To: Jacob Pedersen <jake@jpedmedia.com>
+References: <3891cd3c-7dcb-06d5-3af9-0f16944e0c79@gmail.com>
+ <d1f6b80c-2582-4484-977b-d0629dfcd416@jpedmedia.com>
+ <c437c291-03d0-def1-947e-e68191fc040d@gmail.com>
+ <44b2ddbb-3f48-456f-9870-44558e997852@jpedmedia.com>
+ <f1150444-226c-40a5-7626-b3525a5995aa@gmail.com>
+ <cbac6ff0-b4d0-4611-a39f-1b13ca8111d2@jpedmedia.com>
+ <5e2878b2-1837-d514-1c10-e79360659c13@gmail.com>
+ <02668a6f-85e7-4d14-a088-925b2fcb4891@jpedmedia.com>
+Content-Language: en-US
+From: kalaitzis georg <gkalaitzis.karditsa@gmail.com>
+In-Reply-To: <02668a6f-85e7-4d14-a088-925b2fcb4891@jpedmedia.com>
+
+This is a multi-part message in MIME format.
+--------------xE0uaD0f49J6Vq53jgSblrvB
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Good Afternoon Jake,
+
+it is 5.300 p.m. in greece!
+
+in the morning the vmach script work,but no more ,i dont no why????
+
+can you sent me your installed packages list .txt
+
+pacman -Qqen > pkglist.txt
+
+please
+
+only if you don't mind, i know i'm getting on your nerves, and i'm so 
+sorry , but i'd like to get this script working for me too
+
+
+Am 11.08.23 um 21:34 schrieb Jacob Pedersen:
+> Vmach.sh script updated, it works on my system now so give it a try on 
+> yours. Keep me posted on further issues.
+>
+> Jake Pedersen
+> Jake@Linux
+>
+> Aug 4, 2023 12:15:56 PM kalaitzis georg <gkalaitzis.karditsa@gmail.com>:
+>
+>     hey Jake,
+>
+>     thank you,
+>
+>     i installed it,and it worked, noww i waiting to solved the scripts
+>
+>
+>     thang you again
+>
+>
+>
+>     Am 03.08.23 um 23:19 schrieb Jacob Pedersen:
+>>     I have had a little free time to attempt to address my script,
+>>     however no solution yet. I did push my vimrc to my repos so you
+>>     should have access to it now.
+>>
+>>     Thanks for your patience
+>>     Jake Pedersen
+>>     Jake@Linix
+>>
+>>     Aug 3, 2023 3:58:59 AM kalaitzis georg
+>>     <gkalaitzis.karditsa@gmail.com>:
+>>
+>>         hey Jake,
+>>
+>>         i was wondering if you had time to work on your scripts??????
+>>         and by the way, where can i get your /.config/vim/.vimrc?
+>>         on github i can't find it,there is only your .vim which you
+>>         have under $HOME. i would like to install your .vimrc. i hope
+>>         you have a solution for your script soon,because none of the
+>>         scripts work.
+>>
+>>         thanks for the effort
+>>
+>>
+>>
+>>         Am 24.07.23 um 02:48 schrieb Jacob Pedersen:
+>>>         Hey Georg,
+>>>         There is an issue with my script, something has changed and
+>>>         is causing issues, it is suddenly not working for me either.
+>>>         Let me do some troubleshooting and get back with you.
+>>>
+>>>         Thanks for your patience
+>>>         Jake Pedersen
+>>>         Jake@Linux
+>>>
+>>>         Jul 23, 2023 3:16:40 AM kalaitzis georg
+>>>         <gkalaitzis.karditsa@gmail.com>:
+>>>
+>>>             Hello Jake,
+>>>             Thanks for replying, I have managed so far, that when I
+>>>             enter vmach.sh in the terminal (alacritty,st), a window
+>>>             opens where I can select Add:. with arrow key I select
+>>>             Add, it opens the second window where I then select
+>>>             (What distro,CPU,Mem,OS etc.). ). but when I press enter
+>>>             at the end, nothing works. that's where you come in,
+>>>             what can I do? how can I open your script with key
+>>>             combination (alt+shift+v)?
+>>>
+>>>             thank you
+>>>
+>>>
+>>>
+>>>
+>>>             Am 21.07.2023 um 17:15 schrieb Jacob Pedersen:
+>>>>             … 
+>>>
+>>>             -- 
+>>>             ミ★ 𝘮𝘧𝘨
+>>>             𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+>>>             43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+>>>
+>>         -- 
+>>         ミ★ 𝘮𝘧𝘨
+>>         𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+>>         43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+>>
+>     -- 
+>     ミ★ 𝘮𝘧𝘨
+>     𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+>     43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+>
+-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+
+--------------xE0uaD0f49J6Vq53jgSblrvB
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  </head>
+  <body>
+    <p>Good Afternoon Jake,</p>
+    <p>it is 5.300 p.m. in greece!</p>
+    <p>in the morning the vmach script work,but no more ,i dont no
+      why????</p>
+    <p>can you sent me your installed packages list .txt  <br>
+    </p>
+    <p>pacman -Qqen &gt; pkglist.txt</p>
+    <p>please <br>
+    </p>
+    <p>only if you don't mind, i know i'm getting on your nerves, and
+      i'm so sorry , but i'd like to get this script working for me too<br>
+    </p>
+    <p><br>
+    </p>
+    <div class="moz-cite-prefix">Am 11.08.23 um 21:34 schrieb Jacob
+      Pedersen:<br>
+    </div>
+    <blockquote type="cite"
+      cite="mid:02668a6f-85e7-4d14-a088-925b2fcb4891@jpedmedia.com">
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+      <meta name="viewport"
+        content="width=device-width, initial-scale=1.0">
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">Vmach.sh
+        script updated, it works on my system now so give it a try on
+        yours. Keep me posted on further issues.</span> <br>
+      <br>
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">Jake
+        Pedersen </span> <br>
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">Jake@Linux</span>
+      <br>
+      <div><br>
+        <div>
+          <p>Aug 4, 2023 12:15:56 PM kalaitzis georg
+            <a class="moz-txt-link-rfc2396E" href="mailto:gkalaitzis.karditsa@gmail.com">&lt;gkalaitzis.karditsa@gmail.com&gt;</a>:</p>
+        </div>
+        <blockquote
+          style="margin:0;border-left:3px solid #ccc; padding-left:10px">
+          <p>hey Jake,</p>
+          <p>thank you,</p>
+          <p>i installed it,and it worked, noww i waiting to solved the
+            scripts <br>
+          </p>
+          <p><br>
+          </p>
+          <p>thang you again</p>
+          <p><br>
+          </p>
+          <p><br>
+          </p>
+          <div class="moz-cite-prefix"> Am 03.08.23 um 23:19 schrieb
+            Jacob Pedersen:<br>
+          </div>
+          <blockquote type="cite"
+cite="mid:cbac6ff0-b4d0-4611-a39f-1b13ca8111d2@jpedmedia.com">
+            <meta http-equiv="content-type"
+              content="text/html; charset=UTF-8">
+            <meta name="viewport"
+              content="width=device-width, initial-scale=1.0">
+            <span dir="ltr" style="margin-top:0; margin-bottom:0">I have
+              had a little free time to attempt to address my script,
+              however no solution yet. I did push my vimrc to my repos
+              so you should have access to it now. </span> <br>
+            <br>
+            <span dir="ltr" style="margin-top:0; margin-bottom:0">Thanks
+              for your patience</span> <br>
+            <span dir="ltr" style="margin-top:0; margin-bottom:0">Jake
+              Pedersen</span> <br>
+            <span dir="ltr" style="margin-top:0; margin-bottom:0">Jake@Linix</span>
+            <br>
+            <div><br>
+              <div>
+                <p>Aug 3, 2023 3:58:59 AM kalaitzis georg <a
+                    class="moz-txt-link-rfc2396E"
+                    href="mailto:gkalaitzis.karditsa@gmail.com"
+                    moz-do-not-send="true">&lt;gkalaitzis.karditsa@gmail.com&gt;</a>:</p>
+              </div>
+              <blockquote
+style="margin:0;border-left:3px solid #ccc; padding-left:10px">
+                <p>hey Jake,</p>
+                <p>i was wondering if you had time to work on your
+                  scripts?????? and by the way, where can i get your
+                  /.config/vim/.vimrc?<br>
+                  on github i can't find it,there is only your .vim
+                  which you have under $HOME. i would like to install
+                  your .vimrc. i hope you have a solution for your
+                  script soon,because none of the scripts work.<br>
+                  <br>
+                  thanks for the effort<br>
+                </p>
+                <p><br>
+                </p>
+                <p><br>
+                </p>
+                <div class="moz-cite-prefix"> Am 24.07.23 um 02:48
+                  schrieb Jacob Pedersen:<br>
+                </div>
+                <blockquote type="cite"
+cite="mid:44b2ddbb-3f48-456f-9870-44558e997852@jpedmedia.com">
+                  <meta http-equiv="content-type"
+                    content="text/html; charset=UTF-8">
+                  <meta name="viewport"
+                    content="width=device-width, initial-scale=1.0">
+                  <span dir="ltr" style="margin-top:0; margin-bottom:0">Hey
+                    Georg,</span> <br>
+                  <span dir="ltr" style="margin-top:0; margin-bottom:0">There
+                    is an issue with my script, something has changed
+                    and is causing issues, it is suddenly not working
+                    for me either. Let me do some troubleshooting and
+                    get back with you.</span> <br>
+                  <br>
+                  <span dir="ltr" style="margin-top:0; margin-bottom:0">Thanks
+                    for your patience</span> <br>
+                  <span dir="ltr" style="margin-top:0; margin-bottom:0">Jake
+                    Pedersen</span> <br>
+                  <span dir="ltr" style="margin-top:0; margin-bottom:0">Jake@Linux</span>
+                  <br>
+                  <div> <br>
+                    <div>
+                      <p>Jul 23, 2023 3:16:40 AM kalaitzis georg <a
+                          class="moz-txt-link-rfc2396E"
+                          href="mailto:gkalaitzis.karditsa@gmail.com"
+                          moz-do-not-send="true">&lt;gkalaitzis.karditsa@gmail.com&gt;</a>:</p>
+                    </div>
+                    <blockquote
+style="margin:0;border-left:3px solid #ccc; padding-left:10px">
+                      <p>Hello Jake,<br>
+                        Thanks for replying, I have managed so far, that
+                        when I enter vmach.sh in the terminal
+                        (alacritty,st), a window opens where I can
+                        select Add:. with arrow key I select Add, it
+                        opens the second window where I then select
+                        (What distro,CPU,Mem,OS etc.). ). but when I
+                        press enter at the end, nothing works. that's
+                        where you come in, what can I do? how can I open
+                        your script with key combination (alt+shift+v)?<br>
+                        <br>
+                        thank you<br>
+                      </p>
+                      <p><br>
+                      </p>
+                      <p><br>
+                      </p>
+                      <p><br>
+                      </p>
+                      <div class="moz-cite-prefix"> Am 21.07.2023 um
+                        17:15 schrieb Jacob Pedersen:<br>
+                      </div>
+                      <blockquote type="cite"
+cite="mid:d1f6b80c-2582-4484-977b-d0629dfcd416@jpedmedia.com"> … </blockquote>
+                      <pre class="moz-signature" cols="72">-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡</pre>
+                    </blockquote>
+                  </div>
+                </blockquote>
+                <pre class="moz-signature" cols="72">-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡</pre>
+              </blockquote>
+            </div>
+          </blockquote>
+          <pre class="moz-signature" cols="72">-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡</pre>
+        </blockquote>
+      </div>
+    </blockquote>
+    <pre class="moz-signature" cols="72">-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡</pre>
+  </body>
+</html>
+
+--------------xE0uaD0f49J6Vq53jgSblrvB--
+From - Tue Nov  7 11:10:51 2023
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <gkalaitzis.karditsa@gmail.com>
+Received: from [192.168.1.22] (adsl-211.109.242.100.tellas.gr. [109.242.100.211])
+        by smtp.gmail.com with ESMTPSA id jt11-20020a170906dfcb00b0098921e1b064sm1532045ejc.181.2023.08.18.12.31.29
+        for <jake@jpedmedia.com>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Fri, 18 Aug 2023 12:31:29 -0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="------------Z3D3wCnJk8lRkTqhQWZ3rLTU"
+Message-ID: <093de7c8-6ccc-40e2-8d09-b42dcbb71d7a@gmail.com>
+Date: Fri, 18 Aug 2023 22:31:31 +0300
+MIME-Version: 1.0
+User-Agent: Mozilla Thunderbird
+Subject: Re: voidlinux virt vmach.sh script
+To: Jacob Pedersen <jake@jpedmedia.com>
+References: <3891cd3c-7dcb-06d5-3af9-0f16944e0c79@gmail.com>
+ <d1f6b80c-2582-4484-977b-d0629dfcd416@jpedmedia.com>
+ <c437c291-03d0-def1-947e-e68191fc040d@gmail.com>
+ <44b2ddbb-3f48-456f-9870-44558e997852@jpedmedia.com>
+ <f1150444-226c-40a5-7626-b3525a5995aa@gmail.com>
+ <cbac6ff0-b4d0-4611-a39f-1b13ca8111d2@jpedmedia.com>
+ <5e2878b2-1837-d514-1c10-e79360659c13@gmail.com>
+ <02668a6f-85e7-4d14-a088-925b2fcb4891@jpedmedia.com>
+Content-Language: en-US
+From: kalaitzis georg <gkalaitzis.karditsa@gmail.com>
+In-Reply-To: <02668a6f-85e7-4d14-a088-925b2fcb4891@jpedmedia.com>
+
+This is a multi-part message in MIME format.
+--------------Z3D3wCnJk8lRkTqhQWZ3rLTU
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Hi Jake,
+I'm on voidlinux DWM installed your script, and your script as such 
+works, but I can't get it to work. it would be helpful to have a 
+complete video, from start to finish. I know it's a lot of work, but 
+you're a professional, and you can do it. I think there are many who 
+would want to do this.
+
+Thank Jake.......
+
+
+
+
+
+Am 12.08.23 um 00:34 schrieb Jacob Pedersen:
+> Vmach.sh script updated, it works on my system now so give it a try on 
+> yours. Keep me posted on further issues.
+>
+> Jake Pedersen
+> Jake@Linux
+>
+> Aug 4, 2023 12:15:56 PM kalaitzis georg <gkalaitzis.karditsa@gmail.com>:
+>
+>     hey Jake,
+>
+>     thank you,
+>
+>     i installed it,and it worked, noww i waiting to solved the scripts
+>
+>
+>     thang you again
+>
+>
+>
+>     Am 03.08.23 um 23:19 schrieb Jacob Pedersen:
+>>     I have had a little free time to attempt to address my script,
+>>     however no solution yet. I did push my vimrc to my repos so you
+>>     should have access to it now.
+>>
+>>     Thanks for your patience
+>>     Jake Pedersen
+>>     Jake@Linix
+>>
+>>     Aug 3, 2023 3:58:59 AM kalaitzis georg
+>>     <gkalaitzis.karditsa@gmail.com>:
+>>
+>>         hey Jake,
+>>
+>>         i was wondering if you had time to work on your scripts??????
+>>         and by the way, where can i get your /.config/vim/.vimrc?
+>>         on github i can't find it,there is only your .vim which you
+>>         have under $HOME. i would like to install your .vimrc. i hope
+>>         you have a solution for your script soon,because none of the
+>>         scripts work.
+>>
+>>         thanks for the effort
+>>
+>>
+>>
+>>         Am 24.07.23 um 02:48 schrieb Jacob Pedersen:
+>>>         Hey Georg,
+>>>         There is an issue with my script, something has changed and
+>>>         is causing issues, it is suddenly not working for me either.
+>>>         Let me do some troubleshooting and get back with you.
+>>>
+>>>         Thanks for your patience
+>>>         Jake Pedersen
+>>>         Jake@Linux
+>>>
+>>>         Jul 23, 2023 3:16:40 AM kalaitzis georg
+>>>         <gkalaitzis.karditsa@gmail.com>:
+>>>
+>>>             Hello Jake,
+>>>             Thanks for replying, I have managed so far, that when I
+>>>             enter vmach.sh in the terminal (alacritty,st), a window
+>>>             opens where I can select Add:. with arrow key I select
+>>>             Add, it opens the second window where I then select
+>>>             (What distro,CPU,Mem,OS etc.). ). but when I press enter
+>>>             at the end, nothing works. that's where you come in,
+>>>             what can I do? how can I open your script with key
+>>>             combination (alt+shift+v)?
+>>>
+>>>             thank you
+>>>
+>>>
+>>>
+>>>
+>>>             Am 21.07.2023 um 17:15 schrieb Jacob Pedersen:
+>>>>             … 
+>>>
+>>>             -- 
+>>>             ミ★ 𝘮𝘧𝘨
+>>>             𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+>>>             43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+>>>
+>>         -- 
+>>         ミ★ 𝘮𝘧𝘨
+>>         𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+>>         43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+>>
+>     -- 
+>     ミ★ 𝘮𝘧𝘨
+>     𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+>     43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+>
+-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+
+--------------Z3D3wCnJk8lRkTqhQWZ3rLTU
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  </head>
+  <body>
+    <p>Hi Jake,<br>
+      I'm on voidlinux DWM installed your script, and your script as
+      such works, but I can't get it to work. it would be helpful to
+      have a complete video, from start to finish. I know it's a lot of
+      work, but you're a professional, and you can do it. I think there
+      are many who would want to do this.</p>
+    <p>Thank Jake.......<br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <div class="moz-cite-prefix">Am 12.08.23 um 00:34 schrieb Jacob
+      Pedersen:<br>
+    </div>
+    <blockquote type="cite"
+      cite="mid:02668a6f-85e7-4d14-a088-925b2fcb4891@jpedmedia.com">
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+      <meta name="viewport"
+        content="width=device-width, initial-scale=1.0">
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">Vmach.sh
+        script updated, it works on my system now so give it a try on
+        yours. Keep me posted on further issues.</span> <br>
+      <br>
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">Jake
+        Pedersen </span> <br>
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">Jake@Linux</span>
+      <br>
+      <div><br>
+        <div>
+          <p>Aug 4, 2023 12:15:56 PM kalaitzis georg
+            <a class="moz-txt-link-rfc2396E" href="mailto:gkalaitzis.karditsa@gmail.com">&lt;gkalaitzis.karditsa@gmail.com&gt;</a>:</p>
+        </div>
+        <blockquote
+          style="margin:0;border-left:3px solid #ccc; padding-left:10px">
+          <p>hey Jake,</p>
+          <p>thank you,</p>
+          <p>i installed it,and it worked, noww i waiting to solved the
+            scripts <br>
+          </p>
+          <p><br>
+          </p>
+          <p>thang you again</p>
+          <p><br>
+          </p>
+          <p><br>
+          </p>
+          <div class="moz-cite-prefix"> Am 03.08.23 um 23:19 schrieb
+            Jacob Pedersen:<br>
+          </div>
+          <blockquote type="cite"
+cite="mid:cbac6ff0-b4d0-4611-a39f-1b13ca8111d2@jpedmedia.com">
+            <meta http-equiv="content-type"
+              content="text/html; charset=UTF-8">
+            <meta name="viewport"
+              content="width=device-width, initial-scale=1.0">
+            <span dir="ltr" style="margin-top:0; margin-bottom:0">I have
+              had a little free time to attempt to address my script,
+              however no solution yet. I did push my vimrc to my repos
+              so you should have access to it now. </span> <br>
+            <br>
+            <span dir="ltr" style="margin-top:0; margin-bottom:0">Thanks
+              for your patience</span> <br>
+            <span dir="ltr" style="margin-top:0; margin-bottom:0">Jake
+              Pedersen</span> <br>
+            <span dir="ltr" style="margin-top:0; margin-bottom:0">Jake@Linix</span>
+            <br>
+            <div><br>
+              <div>
+                <p>Aug 3, 2023 3:58:59 AM kalaitzis georg <a
+                    class="moz-txt-link-rfc2396E"
+                    href="mailto:gkalaitzis.karditsa@gmail.com"
+                    moz-do-not-send="true">&lt;gkalaitzis.karditsa@gmail.com&gt;</a>:</p>
+              </div>
+              <blockquote
+style="margin:0;border-left:3px solid #ccc; padding-left:10px">
+                <p>hey Jake,</p>
+                <p>i was wondering if you had time to work on your
+                  scripts?????? and by the way, where can i get your
+                  /.config/vim/.vimrc?<br>
+                  on github i can't find it,there is only your .vim
+                  which you have under $HOME. i would like to install
+                  your .vimrc. i hope you have a solution for your
+                  script soon,because none of the scripts work.<br>
+                  <br>
+                  thanks for the effort<br>
+                </p>
+                <p><br>
+                </p>
+                <p><br>
+                </p>
+                <div class="moz-cite-prefix"> Am 24.07.23 um 02:48
+                  schrieb Jacob Pedersen:<br>
+                </div>
+                <blockquote type="cite"
+cite="mid:44b2ddbb-3f48-456f-9870-44558e997852@jpedmedia.com">
+                  <meta http-equiv="content-type"
+                    content="text/html; charset=UTF-8">
+                  <meta name="viewport"
+                    content="width=device-width, initial-scale=1.0">
+                  <span dir="ltr" style="margin-top:0; margin-bottom:0">Hey
+                    Georg,</span> <br>
+                  <span dir="ltr" style="margin-top:0; margin-bottom:0">There
+                    is an issue with my script, something has changed
+                    and is causing issues, it is suddenly not working
+                    for me either. Let me do some troubleshooting and
+                    get back with you.</span> <br>
+                  <br>
+                  <span dir="ltr" style="margin-top:0; margin-bottom:0">Thanks
+                    for your patience</span> <br>
+                  <span dir="ltr" style="margin-top:0; margin-bottom:0">Jake
+                    Pedersen</span> <br>
+                  <span dir="ltr" style="margin-top:0; margin-bottom:0">Jake@Linux</span>
+                  <br>
+                  <div> <br>
+                    <div>
+                      <p>Jul 23, 2023 3:16:40 AM kalaitzis georg <a
+                          class="moz-txt-link-rfc2396E"
+                          href="mailto:gkalaitzis.karditsa@gmail.com"
+                          moz-do-not-send="true">&lt;gkalaitzis.karditsa@gmail.com&gt;</a>:</p>
+                    </div>
+                    <blockquote
+style="margin:0;border-left:3px solid #ccc; padding-left:10px">
+                      <p>Hello Jake,<br>
+                        Thanks for replying, I have managed so far, that
+                        when I enter vmach.sh in the terminal
+                        (alacritty,st), a window opens where I can
+                        select Add:. with arrow key I select Add, it
+                        opens the second window where I then select
+                        (What distro,CPU,Mem,OS etc.). ). but when I
+                        press enter at the end, nothing works. that's
+                        where you come in, what can I do? how can I open
+                        your script with key combination (alt+shift+v)?<br>
+                        <br>
+                        thank you<br>
+                      </p>
+                      <p><br>
+                      </p>
+                      <p><br>
+                      </p>
+                      <p><br>
+                      </p>
+                      <div class="moz-cite-prefix"> Am 21.07.2023 um
+                        17:15 schrieb Jacob Pedersen:<br>
+                      </div>
+                      <blockquote type="cite"
+cite="mid:d1f6b80c-2582-4484-977b-d0629dfcd416@jpedmedia.com"> … </blockquote>
+                      <pre class="moz-signature" cols="72">-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡</pre>
+                    </blockquote>
+                  </div>
+                </blockquote>
+                <pre class="moz-signature" cols="72">-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡</pre>
+              </blockquote>
+            </div>
+          </blockquote>
+          <pre class="moz-signature" cols="72">-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡</pre>
+        </blockquote>
+      </div>
+    </blockquote>
+    <pre class="moz-signature" cols="72">-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡</pre>
+  </body>
+</html>
+
+--------------Z3D3wCnJk8lRkTqhQWZ3rLTU--
+From - Tue Nov  7 11:10:51 2023
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <gkalaitzis.karditsa@gmail.com>
+Received: from [192.168.1.22] (adsl-211.109.242.100.tellas.gr. [109.242.100.211])
+        by smtp.gmail.com with ESMTPSA id n16-20020a05640206d000b00527e7087d5dsm10456088edy.15.2023.08.24.06.34.38
+        for <pixelsuft@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Thu, 24 Aug 2023 06:34:39 -0700 (PDT)
+Message-ID: <3d1ef72b-9e24-4cde-aaa3-e52a2534c401@gmail.com>
+Date: Thu, 24 Aug 2023 16:34:55 +0300
+MIME-Version: 1.0
+User-Agent: Mozilla Thunderbird
+Content-Language: en-US
+To: pixelsuft@gmail.com
+From: kalaitzis georg <gkalaitzis.karditsa@gmail.com>
+Subject: voidlinux
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Hello Pixel Pixel,
+I am on voidlinux on my computer, and try for days, virt-manager virsh 
+on terminal basis, as well as teamviewer to bring to run, but what does 
+not work for me.can you help me there maybe further?? what do I have to 
+install the virt-manager goes teamviewer also, I always come to 
+(teamviewer --daemon-start) a complete instruction would be very 
+helpful, maybe a video???? THANKS IN ADVANCE
+GEORG
+
+Translated with www.DeepL.com/Translator (free version)
+
+-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+
+From - Tue Nov  7 11:10:51 2023
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <gkalaitzis.karditsa@gmail.com>
+Received: from [192.168.1.23] (adsl-211.109.242.100.tellas.gr. [109.242.100.211])
+        by smtp.gmail.com with ESMTPSA id h14-20020a05600c260e00b003fefb94ccc9sm6983665wma.11.2023.08.27.00.26.08
+        for <speedie@duck.com>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Sun, 27 Aug 2023 00:26:09 -0700 (PDT)
+Message-ID: <55f57929-b47c-4741-b595-6b8af5623fb5@gmail.com>
+Date: Sun, 27 Aug 2023 10:26:10 +0300
+MIME-Version: 1.0
+User-Agent: Mozilla Thunderbird
+Content-Language: en-US
+To: speedie@duck.com
+From: kalaitzis georg <gkalaitzis.karditsa@gmail.com>
+Subject: speedwm
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Hello Speedie,
+I am George and I am from Greece.
+Your dwm are just very good. I have speedwm installed, and get along 
+quite well with it, clear.
+But what I can not manage is
+I have two monitors and the bars are also displayed on both monitors, 
+but if I have Thuner open on the left monitor on tag 2, and want to have 
+sublime-text on the right monitor on tag 8, and click with the mouse on 
+tag 8, then the LEFT MONITOR WITH TAG 2 (THUNAR) goes ON TAG 8. So in 
+short which tag I have on monitor 1 left. So it mirrors itself also on 
+monitor 2 right. I want to change tags independently. Surely you have 
+something in the option.h, but I just do not recognize it.
+Would be happy if I can have a solution there.
+
+Thanks a lot
+George
+
+-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+
+From - Tue Nov  7 11:10:52 2023
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <gkalaitzis.karditsa@gmail.com>
+Received: from [192.168.1.1] (adsl-183.109.242.100.tellas.gr. [109.242.100.183])
+        by smtp.gmail.com with ESMTPSA id bo1-20020a0564020b2100b00521cc0b348bsm4411751edb.28.2023.07.23.01.16.35
+        for <jake@jpedmedia.com>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Sun, 23 Jul 2023 01:16:36 -0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="------------TKHyA9U7Iz1aGIOyrfVtPYch"
+Message-ID: <c437c291-03d0-def1-947e-e68191fc040d@gmail.com>
+Date: Sun, 23 Jul 2023 08:16:46 +0300
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101
+ Thunderbird/102.13.0
+Subject: Re: voidlinux virt vmach.sh script
+To: Jacob Pedersen <jake@jpedmedia.com>
+References: <3891cd3c-7dcb-06d5-3af9-0f16944e0c79@gmail.com>
+ <d1f6b80c-2582-4484-977b-d0629dfcd416@jpedmedia.com>
+From: kalaitzis georg <gkalaitzis.karditsa@gmail.com>
+In-Reply-To: <d1f6b80c-2582-4484-977b-d0629dfcd416@jpedmedia.com>
+
+This is a multi-part message in MIME format.
+--------------TKHyA9U7Iz1aGIOyrfVtPYch
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Hello Jake,
+Thanks for replying, I have managed so far, that when I enter vmach.sh 
+in the terminal (alacritty,st), a window opens where I can select Add:. 
+with arrow key I select Add, it opens the second window where I then 
+select (What distro,CPU,Mem,OS etc.). ). but when I press enter at the 
+end, nothing works. that's where you come in, what can I do? how can I 
+open your script with key combination (alt+shift+v)?
+
+thank you
+
+
+
+
+Am 21.07.2023 um 17:15 schrieb Jacob Pedersen:
+> Hello georg,
+>
+> I apologize for not responding to your last email, either I missed it 
+> or as happens sometimes, I just forgot to respond, either way I 
+> apologize, I do try to respond to every email and comment I get, 
+> sometimes it is hard and I miss some.
+>
+> That being said, what type of issue are you having, maybe I can shed a 
+> little light on the issue, if not I would be happy to go over the set 
+> up of the script.
+>
+> Thanks for reaching out again,
+> Jake Pedersen
+> Jake@Linux
+>
+> Jul 21, 2023 9:11:36 AM kalaitzis georg <gkalaitzis.karditsa@gmail.com>:
+>
+>     good afternoon Jake,
+>     I wrote you an email before,but unfortunately I didn't get an
+>     answer,I assume that you either don't have time,or you don't
+>     answer mails in general.Now I'm trying again,because I'm on
+>     voidlinux,and I'm very interested in your script,for vmach.sh.I
+>     just can't get your script to work for me.Could you maybe give me
+>     detailed instructions,or maybe make a video-- step by step
+>     instructions.????
+>     thank you already
+>
+>     Translated with www.DeepL.com/Translator (free version)
+>
+>     -- 
+>     ミ★ 𝘮𝘧𝘨
+>     𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+>     43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+>
+-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+
+--------------TKHyA9U7Iz1aGIOyrfVtPYch
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  </head>
+  <body>
+    <p>Hello Jake,<br>
+      Thanks for replying, I have managed so far, that when I enter
+      vmach.sh in the terminal (alacritty,st), a window opens where I
+      can select Add:. with arrow key I select Add, it opens the second
+      window where I then select (What distro,CPU,Mem,OS etc.). ). but
+      when I press enter at the end, nothing works. that's where you
+      come in, what can I do? how can I open your script with key
+      combination (alt+shift+v)?<br>
+      <br>
+      thank you<br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <div class="moz-cite-prefix">Am 21.07.2023 um 17:15 schrieb Jacob
+      Pedersen:<br>
+    </div>
+    <blockquote type="cite"
+      cite="mid:d1f6b80c-2582-4484-977b-d0629dfcd416@jpedmedia.com">
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+      <meta name="viewport" content="width=device-width,
+        initial-scale=1.0">
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">Hello
+        georg,</span> <br>
+      <br>
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">I apologize
+        for not responding to your last email, either I missed it or as
+        happens sometimes, I just forgot to respond, either way I
+        apologize, I do try to respond to every email and comment I get,
+        sometimes it is hard and I miss some. </span> <br>
+      <br>
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">That being
+        said, what type of issue are you having, maybe I can shed a
+        little light on the issue, if not I would be happy to go over
+        the set up of the script. </span> <br>
+      <br>
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">Thanks for
+        reaching out again,</span> <br>
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">Jake
+        Pedersen</span> <br>
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">Jake@Linux</span>
+      <br>
+      <div><br>
+        <div>
+          <p>Jul 21, 2023 9:11:36 AM kalaitzis georg
+            <a class="moz-txt-link-rfc2396E" href="mailto:gkalaitzis.karditsa@gmail.com">&lt;gkalaitzis.karditsa@gmail.com&gt;</a>:</p>
+        </div>
+        <blockquote style="margin:0;border-left:3px solid #ccc;
+          padding-left:10px">
+          <div> good afternoon Jake,<br>
+            I wrote you an email before,but unfortunately I didn't get
+            an answer,I assume that you either don't have time,or you
+            don't answer mails in general.Now I'm trying again,because
+            I'm on voidlinux,and I'm very interested in your script,for
+            vmach.sh.I just can't get your script to work for me.Could
+            you maybe give me detailed instructions,or maybe make a
+            video-- step by step instructions.????<br>
+            thank you already<br>
+            <br>
+            Translated with <a class="moz-txt-link-abbreviated" href="http://www.DeepL.com/Translator">www.DeepL.com/Translator</a> (free version)<br>
+            <br>
+            -- <br>
+            ミ★ 𝘮𝘧𝘨<br>
+            𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴<br>
+            43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28
+            ★彡<br>
+          </div>
+        </blockquote>
+      </div>
+    </blockquote>
+    <pre class="moz-signature" cols="72">-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡</pre>
+  </body>
+</html>
+
+--------------TKHyA9U7Iz1aGIOyrfVtPYch--
+From - Tue Nov  7 11:10:52 2023
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <gkalaitzis.karditsa@gmail.com>
+Received: from [192.168.1.1] (adsl-183.109.242.100.tellas.gr. [109.242.100.183])
+        by smtp.gmail.com with ESMTPSA id w10-20020aa7d28a000000b00521f4ee396fsm3909991edq.12.2023.07.24.02.51.41
+        for <jake@jpedmedia.com>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Mon, 24 Jul 2023 02:51:41 -0700 (PDT)
+Message-ID: <ab7638a0-e635-d548-f3a5-1b48e0bdeb71@gmail.com>
+Date: Mon, 24 Jul 2023 12:51:53 +0300
+MIME-Version: 1.0
+User-Agent: Mozilla Thunderbird
+Subject: Re: voidlinux virt vmach.sh script
+To: Jacob Pedersen <jake@jpedmedia.com>
+References: <3891cd3c-7dcb-06d5-3af9-0f16944e0c79@gmail.com>
+ <d1f6b80c-2582-4484-977b-d0629dfcd416@jpedmedia.com>
+ <c437c291-03d0-def1-947e-e68191fc040d@gmail.com>
+ <44b2ddbb-3f48-456f-9870-44558e997852@jpedmedia.com>
+Content-Language: en-US
+From: kalaitzis georg <gkalaitzis.karditsa@gmail.com>
+In-Reply-To: <44b2ddbb-3f48-456f-9870-44558e997852@jpedmedia.com>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Hey jake,
+
+thank you, and i am waiting for the new script
+
+
+
+
+Am 24.07.23 um 02:48 schrieb Jacob Pedersen:
+> There is an issue with my script, something has changed and is causing 
+> issues, it is suddenly not working for me either. Let me do some 
+> troubleshooting and get back with you.
+
+-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+
+From - Tue Nov  7 11:10:52 2023
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <gkalaitzis.karditsa@gmail.com>
+Received: from [192.168.1.7] (adsl-211.109.242.100.tellas.gr. [109.242.100.211])
+        by smtp.gmail.com with ESMTPSA id f5-20020a50ee85000000b005227f4530fdsm9754006edr.37.2023.08.03.01.58.54
+        for <jake@jpedmedia.com>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Thu, 03 Aug 2023 01:58:55 -0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="------------c054qVy9QOiFPxmKgUoKeqJq"
+Message-ID: <f1150444-226c-40a5-7626-b3525a5995aa@gmail.com>
+Date: Thu, 3 Aug 2023 11:58:53 +0300
+MIME-Version: 1.0
+User-Agent: Mozilla Thunderbird
+Subject: Re: voidlinux virt vmach.sh script
+To: Jacob Pedersen <jake@jpedmedia.com>
+References: <3891cd3c-7dcb-06d5-3af9-0f16944e0c79@gmail.com>
+ <d1f6b80c-2582-4484-977b-d0629dfcd416@jpedmedia.com>
+ <c437c291-03d0-def1-947e-e68191fc040d@gmail.com>
+ <44b2ddbb-3f48-456f-9870-44558e997852@jpedmedia.com>
+Content-Language: en-US
+From: kalaitzis georg <gkalaitzis.karditsa@gmail.com>
+In-Reply-To: <44b2ddbb-3f48-456f-9870-44558e997852@jpedmedia.com>
+
+This is a multi-part message in MIME format.
+--------------c054qVy9QOiFPxmKgUoKeqJq
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+hey Jake,
+
+i was wondering if you had time to work on your scripts?????? and by the 
+way, where can i get your /.config/vim/.vimrc?
+on github i can't find it,there is only your .vim which you have under 
+$HOME. i would like to install your .vimrc. i hope you have a solution 
+for your script soon,because none of the scripts work.
+
+thanks for the effort
+
+
+
+Am 24.07.23 um 02:48 schrieb Jacob Pedersen:
+> Hey Georg,
+> There is an issue with my script, something has changed and is causing 
+> issues, it is suddenly not working for me either. Let me do some 
+> troubleshooting and get back with you.
+>
+> Thanks for your patience
+> Jake Pedersen
+> Jake@Linux
+>
+> Jul 23, 2023 3:16:40 AM kalaitzis georg <gkalaitzis.karditsa@gmail.com>:
+>
+>     Hello Jake,
+>     Thanks for replying, I have managed so far, that when I enter
+>     vmach.sh in the terminal (alacritty,st), a window opens where I
+>     can select Add:. with arrow key I select Add, it opens the second
+>     window where I then select (What distro,CPU,Mem,OS etc.). ). but
+>     when I press enter at the end, nothing works. that's where you
+>     come in, what can I do? how can I open your script with key
+>     combination (alt+shift+v)?
+>
+>     thank you
+>
+>
+>
+>
+>     Am 21.07.2023 um 17:15 schrieb Jacob Pedersen:
+>>     Hello georg,
+>>
+>>     I apologize for not responding to your last email, either I
+>>     missed it or as happens sometimes, I just forgot to respond,
+>>     either way I apologize, I do try to respond to every email and
+>>     comment I get, sometimes it is hard and I miss some.
+>>
+>>     That being said, what type of issue are you having, maybe I can
+>>     shed a little light on the issue, if not I would be happy to go
+>>     over the set up of the script.
+>>
+>>     Thanks for reaching out again,
+>>     Jake Pedersen
+>>     Jake@Linux
+>>
+>>     Jul 21, 2023 9:11:36 AM kalaitzis georg
+>>     <gkalaitzis.karditsa@gmail.com>:
+>>
+>>         good afternoon Jake,
+>>         I wrote you an email before,but unfortunately I didn't get an
+>>         answer,I assume that you either don't have time,or you don't
+>>         answer mails in general.Now I'm trying again,because I'm on
+>>         voidlinux,and I'm very interested in your script,for
+>>         vmach.sh.I just can't get your script to work for me.Could
+>>         you maybe give me detailed instructions,or maybe make a
+>>         video-- step by step instructions.????
+>>         thank you already
+>>
+>>         Translated with www.DeepL.com/Translator (free version)
+>>
+>>         -- 
+>>         ミ★ 𝘮𝘧𝘨
+>>         𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+>>         43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+>>
+>     -- 
+>     ミ★ 𝘮𝘧𝘨
+>     𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+>     43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+>
+-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+
+--------------c054qVy9QOiFPxmKgUoKeqJq
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  </head>
+  <body>
+    <p>hey Jake,</p>
+    <p>i was wondering if you had time to work on your scripts?????? and
+      by the way, where can i get your /.config/vim/.vimrc?<br>
+      on github i can't find it,there is only your .vim which you have
+      under $HOME. i would like to install your .vimrc. i hope you have
+      a solution for your script soon,because none of the scripts work.<br>
+      <br>
+      thanks for the effort<br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <div class="moz-cite-prefix">Am 24.07.23 um 02:48 schrieb Jacob
+      Pedersen:<br>
+    </div>
+    <blockquote type="cite"
+      cite="mid:44b2ddbb-3f48-456f-9870-44558e997852@jpedmedia.com">
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+      <meta name="viewport"
+        content="width=device-width, initial-scale=1.0">
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">Hey Georg,</span>
+      <br>
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">There is an
+        issue with my script, something has changed and is causing
+        issues, it is suddenly not working for me either. Let me do some
+        troubleshooting and get back with you.</span> <br>
+      <br>
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">Thanks for
+        your patience</span> <br>
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">Jake
+        Pedersen</span> <br>
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">Jake@Linux</span>
+      <br>
+      <div> <br>
+        <div>
+          <p>Jul 23, 2023 3:16:40 AM kalaitzis georg
+            <a class="moz-txt-link-rfc2396E" href="mailto:gkalaitzis.karditsa@gmail.com">&lt;gkalaitzis.karditsa@gmail.com&gt;</a>:</p>
+        </div>
+        <blockquote
+          style="margin:0;border-left:3px solid #ccc; padding-left:10px">
+          <p>Hello Jake,<br>
+            Thanks for replying, I have managed so far, that when I
+            enter vmach.sh in the terminal (alacritty,st), a window
+            opens where I can select Add:. with arrow key I select Add,
+            it opens the second window where I then select (What
+            distro,CPU,Mem,OS etc.). ). but when I press enter at the
+            end, nothing works. that's where you come in, what can I do?
+            how can I open your script with key combination
+            (alt+shift+v)?<br>
+            <br>
+            thank you<br>
+          </p>
+          <p><br>
+          </p>
+          <p><br>
+          </p>
+          <p><br>
+          </p>
+          <div class="moz-cite-prefix"> Am 21.07.2023 um 17:15 schrieb
+            Jacob Pedersen:<br>
+          </div>
+          <blockquote type="cite"
+cite="mid:d1f6b80c-2582-4484-977b-d0629dfcd416@jpedmedia.com">
+            <meta http-equiv="content-type"
+              content="text/html; charset=UTF-8">
+            <meta name="viewport"
+              content="width=device-width,
+        initial-scale=1.0">
+            <span dir="ltr" style="margin-top:0; margin-bottom:0">Hello
+              georg,</span> <br>
+            <br>
+            <span dir="ltr" style="margin-top:0; margin-bottom:0">I
+              apologize for not responding to your last email, either I
+              missed it or as happens sometimes, I just forgot to
+              respond, either way I apologize, I do try to respond to
+              every email and comment I get, sometimes it is hard and I
+              miss some. </span> <br>
+            <br>
+            <span dir="ltr" style="margin-top:0; margin-bottom:0">That
+              being said, what type of issue are you having, maybe I can
+              shed a little light on the issue, if not I would be happy
+              to go over the set up of the script. </span> <br>
+            <br>
+            <span dir="ltr" style="margin-top:0; margin-bottom:0">Thanks
+              for reaching out again,</span> <br>
+            <span dir="ltr" style="margin-top:0; margin-bottom:0">Jake
+              Pedersen</span> <br>
+            <span dir="ltr" style="margin-top:0; margin-bottom:0">Jake@Linux</span>
+            <br>
+            <div> <br>
+              <div>
+                <p>Jul 21, 2023 9:11:36 AM kalaitzis georg <a
+                    class="moz-txt-link-rfc2396E"
+                    href="mailto:gkalaitzis.karditsa@gmail.com"
+                    moz-do-not-send="true">&lt;gkalaitzis.karditsa@gmail.com&gt;</a>:</p>
+              </div>
+              <blockquote
+style="margin:0;border-left:3px solid #ccc;
+          padding-left:10px">
+                <div> good afternoon Jake,<br>
+                  I wrote you an email before,but unfortunately I didn't
+                  get an answer,I assume that you either don't have
+                  time,or you don't answer mails in general.Now I'm
+                  trying again,because I'm on voidlinux,and I'm very
+                  interested in your script,for vmach.sh.I just can't
+                  get your script to work for me.Could you maybe give me
+                  detailed instructions,or maybe make a video-- step by
+                  step instructions.????<br>
+                  thank you already<br>
+                  <br>
+                  Translated with <a class="moz-txt-link-abbreviated"
+                    href="http://www.DeepL.com/Translator"
+                    moz-do-not-send="true">www.DeepL.com/Translator</a>
+                  (free version)<br>
+                  <br>
+                  -- <br>
+                  ミ★ 𝘮𝘧𝘨<br>
+                  𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴<br>
+                  43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢
+                  𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡<br>
+                </div>
+              </blockquote>
+            </div>
+          </blockquote>
+          <pre class="moz-signature" cols="72">-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡</pre>
+        </blockquote>
+      </div>
+    </blockquote>
+    <pre class="moz-signature" cols="72">-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡</pre>
+  </body>
+</html>
+
+--------------c054qVy9QOiFPxmKgUoKeqJq--
+From - Tue Nov  7 11:10:52 2023
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <gkalaitzis.karditsa@gmail.com>
+Received: from [192.168.1.7] (adsl-211.109.242.100.tellas.gr. [109.242.100.211])
+        by smtp.gmail.com with ESMTPSA id t6-20020a1709060c4600b0099bcb44493fsm1586068ejf.147.2023.08.04.10.15.51
+        for <jake@jpedmedia.com>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Fri, 04 Aug 2023 10:15:52 -0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="------------zOM0LwiakFtRESKWZi71pQm4"
+Message-ID: <5e2878b2-1837-d514-1c10-e79360659c13@gmail.com>
+Date: Fri, 4 Aug 2023 20:15:52 +0300
+MIME-Version: 1.0
+User-Agent: Mozilla Thunderbird
+Subject: Re: voidlinux virt vmach.sh script
+To: Jacob Pedersen <jake@jpedmedia.com>
+References: <3891cd3c-7dcb-06d5-3af9-0f16944e0c79@gmail.com>
+ <d1f6b80c-2582-4484-977b-d0629dfcd416@jpedmedia.com>
+ <c437c291-03d0-def1-947e-e68191fc040d@gmail.com>
+ <44b2ddbb-3f48-456f-9870-44558e997852@jpedmedia.com>
+ <f1150444-226c-40a5-7626-b3525a5995aa@gmail.com>
+ <cbac6ff0-b4d0-4611-a39f-1b13ca8111d2@jpedmedia.com>
+Content-Language: en-US
+From: kalaitzis georg <gkalaitzis.karditsa@gmail.com>
+In-Reply-To: <cbac6ff0-b4d0-4611-a39f-1b13ca8111d2@jpedmedia.com>
+
+This is a multi-part message in MIME format.
+--------------zOM0LwiakFtRESKWZi71pQm4
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+hey Jake,
+
+thank you,
+
+i installed it,and it worked, noww i waiting to solved the scripts
+
+
+thang you again
+
+
+
+Am 03.08.23 um 23:19 schrieb Jacob Pedersen:
+> I have had a little free time to attempt to address my script, however 
+> no solution yet. I did push my vimrc to my repos so you should have 
+> access to it now.
+>
+> Thanks for your patience
+> Jake Pedersen
+> Jake@Linix
+>
+> Aug 3, 2023 3:58:59 AM kalaitzis georg <gkalaitzis.karditsa@gmail.com>:
+>
+>     hey Jake,
+>
+>     i was wondering if you had time to work on your scripts?????? and
+>     by the way, where can i get your /.config/vim/.vimrc?
+>     on github i can't find it,there is only your .vim which you have
+>     under $HOME. i would like to install your .vimrc. i hope you have
+>     a solution for your script soon,because none of the scripts work.
+>
+>     thanks for the effort
+>
+>
+>
+>     Am 24.07.23 um 02:48 schrieb Jacob Pedersen:
+>>     Hey Georg,
+>>     There is an issue with my script, something has changed and is
+>>     causing issues, it is suddenly not working for me either. Let me
+>>     do some troubleshooting and get back with you.
+>>
+>>     Thanks for your patience
+>>     Jake Pedersen
+>>     Jake@Linux
+>>
+>>     Jul 23, 2023 3:16:40 AM kalaitzis georg
+>>     <gkalaitzis.karditsa@gmail.com>:
+>>
+>>         Hello Jake,
+>>         Thanks for replying, I have managed so far, that when I enter
+>>         vmach.sh in the terminal (alacritty,st), a window opens where
+>>         I can select Add:. with arrow key I select Add, it opens the
+>>         second window where I then select (What distro,CPU,Mem,OS
+>>         etc.). ). but when I press enter at the end, nothing works.
+>>         that's where you come in, what can I do? how can I open your
+>>         script with key combination (alt+shift+v)?
+>>
+>>         thank you
+>>
+>>
+>>
+>>
+>>         Am 21.07.2023 um 17:15 schrieb Jacob Pedersen:
+>>>         Hello georg,
+>>>
+>>>         I apologize for not responding to your last email, either I
+>>>         missed it or as happens sometimes, I just forgot to respond,
+>>>         either way I apologize, I do try to respond to every email
+>>>         and comment I get, sometimes it is hard and I miss some.
+>>>
+>>>         That being said, what type of issue are you having, maybe I
+>>>         can shed a little light on the issue, if not I would be
+>>>         happy to go over the set up of the script.
+>>>
+>>>         Thanks for reaching out again,
+>>>         Jake Pedersen
+>>>         Jake@Linux
+>>>
+>>>         Jul 21, 2023 9:11:36 AM kalaitzis georg
+>>>         <gkalaitzis.karditsa@gmail.com>:
+>>>
+>>>             good afternoon Jake,
+>>>             I wrote you an email before,but unfortunately I didn't
+>>>             get an answer,I assume that you either don't have
+>>>             time,or you don't answer mails in general.Now I'm trying
+>>>             again,because I'm on voidlinux,and I'm very interested
+>>>             in your script,for vmach.sh.I just can't get your script
+>>>             to work for me.Could you maybe give me detailed
+>>>             instructions,or maybe make a video-- step by step
+>>>             instructions.????
+>>>             thank you already
+>>>
+>>>             Translated with www.DeepL.com/Translator (free version)
+>>>
+>>>             -- 
+>>>             ミ★ 𝘮𝘧𝘨
+>>>             𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+>>>             43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+>>>
+>>         -- 
+>>         ミ★ 𝘮𝘧𝘨
+>>         𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+>>         43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+>>
+>     -- 
+>     ミ★ 𝘮𝘧𝘨
+>     𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+>     43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+>
+-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+
+--------------zOM0LwiakFtRESKWZi71pQm4
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  </head>
+  <body>
+    <p>hey Jake,</p>
+    <p>thank you,</p>
+    <p>i installed it,and it worked, noww i waiting to solved the
+      scripts <br>
+    </p>
+    <p><br>
+    </p>
+    <p>thang you again</p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <div class="moz-cite-prefix">Am 03.08.23 um 23:19 schrieb Jacob
+      Pedersen:<br>
+    </div>
+    <blockquote type="cite"
+      cite="mid:cbac6ff0-b4d0-4611-a39f-1b13ca8111d2@jpedmedia.com">
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+      <meta name="viewport"
+        content="width=device-width, initial-scale=1.0">
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">I have had
+        a little free time to attempt to address my script, however no
+        solution yet. I did push my vimrc to my repos so you should have
+        access to it now. </span> <br>
+      <br>
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">Thanks for
+        your patience</span> <br>
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">Jake
+        Pedersen</span> <br>
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">Jake@Linix</span>
+      <br>
+      <div><br>
+        <div>
+          <p>Aug 3, 2023 3:58:59 AM kalaitzis georg
+            <a class="moz-txt-link-rfc2396E" href="mailto:gkalaitzis.karditsa@gmail.com">&lt;gkalaitzis.karditsa@gmail.com&gt;</a>:</p>
+        </div>
+        <blockquote
+          style="margin:0;border-left:3px solid #ccc; padding-left:10px">
+          <p>hey Jake,</p>
+          <p>i was wondering if you had time to work on your
+            scripts?????? and by the way, where can i get your
+            /.config/vim/.vimrc?<br>
+            on github i can't find it,there is only your .vim which you
+            have under $HOME. i would like to install your .vimrc. i
+            hope you have a solution for your script soon,because none
+            of the scripts work.<br>
+            <br>
+            thanks for the effort<br>
+          </p>
+          <p><br>
+          </p>
+          <p><br>
+          </p>
+          <div class="moz-cite-prefix"> Am 24.07.23 um 02:48 schrieb
+            Jacob Pedersen:<br>
+          </div>
+          <blockquote type="cite"
+cite="mid:44b2ddbb-3f48-456f-9870-44558e997852@jpedmedia.com">
+            <meta http-equiv="content-type"
+              content="text/html; charset=UTF-8">
+            <meta name="viewport"
+              content="width=device-width, initial-scale=1.0">
+            <span dir="ltr" style="margin-top:0; margin-bottom:0">Hey
+              Georg,</span> <br>
+            <span dir="ltr" style="margin-top:0; margin-bottom:0">There
+              is an issue with my script, something has changed and is
+              causing issues, it is suddenly not working for me either.
+              Let me do some troubleshooting and get back with you.</span>
+            <br>
+            <br>
+            <span dir="ltr" style="margin-top:0; margin-bottom:0">Thanks
+              for your patience</span> <br>
+            <span dir="ltr" style="margin-top:0; margin-bottom:0">Jake
+              Pedersen</span> <br>
+            <span dir="ltr" style="margin-top:0; margin-bottom:0">Jake@Linux</span>
+            <br>
+            <div> <br>
+              <div>
+                <p>Jul 23, 2023 3:16:40 AM kalaitzis georg <a
+                    class="moz-txt-link-rfc2396E"
+                    href="mailto:gkalaitzis.karditsa@gmail.com"
+                    moz-do-not-send="true">&lt;gkalaitzis.karditsa@gmail.com&gt;</a>:</p>
+              </div>
+              <blockquote
+style="margin:0;border-left:3px solid #ccc; padding-left:10px">
+                <p>Hello Jake,<br>
+                  Thanks for replying, I have managed so far, that when
+                  I enter vmach.sh in the terminal (alacritty,st), a
+                  window opens where I can select Add:. with arrow key I
+                  select Add, it opens the second window where I then
+                  select (What distro,CPU,Mem,OS etc.). ). but when I
+                  press enter at the end, nothing works. that's where
+                  you come in, what can I do? how can I open your script
+                  with key combination (alt+shift+v)?<br>
+                  <br>
+                  thank you<br>
+                </p>
+                <p><br>
+                </p>
+                <p><br>
+                </p>
+                <p><br>
+                </p>
+                <div class="moz-cite-prefix"> Am 21.07.2023 um 17:15
+                  schrieb Jacob Pedersen:<br>
+                </div>
+                <blockquote type="cite"
+cite="mid:d1f6b80c-2582-4484-977b-d0629dfcd416@jpedmedia.com">
+                  <meta http-equiv="content-type"
+                    content="text/html; charset=UTF-8">
+                  <meta name="viewport"
+content="width=device-width,
+        initial-scale=1.0">
+                  <span dir="ltr" style="margin-top:0; margin-bottom:0">Hello
+                    georg,</span> <br>
+                  <br>
+                  <span dir="ltr" style="margin-top:0; margin-bottom:0">I
+                    apologize for not responding to your last email,
+                    either I missed it or as happens sometimes, I just
+                    forgot to respond, either way I apologize, I do try
+                    to respond to every email and comment I get,
+                    sometimes it is hard and I miss some. </span> <br>
+                  <br>
+                  <span dir="ltr" style="margin-top:0; margin-bottom:0">That
+                    being said, what type of issue are you having, maybe
+                    I can shed a little light on the issue, if not I
+                    would be happy to go over the set up of the script.
+                  </span> <br>
+                  <br>
+                  <span dir="ltr" style="margin-top:0; margin-bottom:0">Thanks
+                    for reaching out again,</span> <br>
+                  <span dir="ltr" style="margin-top:0; margin-bottom:0">Jake
+                    Pedersen</span> <br>
+                  <span dir="ltr" style="margin-top:0; margin-bottom:0">Jake@Linux</span>
+                  <br>
+                  <div> <br>
+                    <div>
+                      <p>Jul 21, 2023 9:11:36 AM kalaitzis georg <a
+                          class="moz-txt-link-rfc2396E"
+                          href="mailto:gkalaitzis.karditsa@gmail.com"
+                          moz-do-not-send="true">&lt;gkalaitzis.karditsa@gmail.com&gt;</a>:</p>
+                    </div>
+                    <blockquote
+style="margin:0;border-left:3px solid #ccc;
+          padding-left:10px">
+                      <div> good afternoon Jake,<br>
+                        I wrote you an email before,but unfortunately I
+                        didn't get an answer,I assume that you either
+                        don't have time,or you don't answer mails in
+                        general.Now I'm trying again,because I'm on
+                        voidlinux,and I'm very interested in your
+                        script,for vmach.sh.I just can't get your script
+                        to work for me.Could you maybe give me detailed
+                        instructions,or maybe make a video-- step by
+                        step instructions.????<br>
+                        thank you already<br>
+                        <br>
+                        Translated with <a
+                          class="moz-txt-link-abbreviated"
+                          href="http://www.DeepL.com/Translator"
+                          moz-do-not-send="true">www.DeepL.com/Translator</a>
+                        (free version)<br>
+                        <br>
+                        -- <br>
+                        ミ★ 𝘮𝘧𝘨<br>
+                        𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴<br>
+                        43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢
+                        𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡<br>
+                      </div>
+                    </blockquote>
+                  </div>
+                </blockquote>
+                <pre class="moz-signature" cols="72">-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡</pre>
+              </blockquote>
+            </div>
+          </blockquote>
+          <pre class="moz-signature" cols="72">-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡</pre>
+        </blockquote>
+      </div>
+    </blockquote>
+    <pre class="moz-signature" cols="72">-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡</pre>
+  </body>
+</html>
+
+--------------zOM0LwiakFtRESKWZi71pQm4--
+From - Tue Nov  7 11:10:52 2023
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <gkalaitzis.karditsa@gmail.com>
+Received: from [192.168.1.16] (adsl-211.109.242.100.tellas.gr. [109.242.100.211])
+        by smtp.gmail.com with ESMTPSA id f8-20020a17090624c800b009894b476310sm4316383ejb.163.2023.08.13.02.03.56
+        for <jake@jpedmedia.com>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Sun, 13 Aug 2023 02:03:57 -0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="------------bCT0hTphh94M5TAENULAM1SZ"
+Message-ID: <e3690915-ae44-4e40-84ab-58003a9bc499@gmail.com>
+Date: Sun, 13 Aug 2023 09:03:56 +0000
+MIME-Version: 1.0
+User-Agent: Mozilla Thunderbird
+Subject: Re: voidlinux virt vmach.sh script
+To: Jacob Pedersen <jake@jpedmedia.com>
+References: <3891cd3c-7dcb-06d5-3af9-0f16944e0c79@gmail.com>
+ <d1f6b80c-2582-4484-977b-d0629dfcd416@jpedmedia.com>
+ <c437c291-03d0-def1-947e-e68191fc040d@gmail.com>
+ <44b2ddbb-3f48-456f-9870-44558e997852@jpedmedia.com>
+ <f1150444-226c-40a5-7626-b3525a5995aa@gmail.com>
+ <cbac6ff0-b4d0-4611-a39f-1b13ca8111d2@jpedmedia.com>
+ <5e2878b2-1837-d514-1c10-e79360659c13@gmail.com>
+ <02668a6f-85e7-4d14-a088-925b2fcb4891@jpedmedia.com>
+Content-Language: en-US
+From: kalaitzis georg <gkalaitzis.karditsa@gmail.com>
+In-Reply-To: <02668a6f-85e7-4d14-a088-925b2fcb4891@jpedmedia.com>
+
+This is a multi-part message in MIME format.
+--------------bCT0hTphh94M5TAENULAM1SZ
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+
+Hi Jake,
+
+Thank you, I'll try it as soon as I'm free and I'll get back to you 
+right away
+
+Which programs do I have to install with the exception of virt-viewer 
+and devour and ................
+
+
+
+
+
+
+Am 11.08.23 um 21:34 schrieb Jacob Pedersen:
+> Vmach.sh script updated, it works on my system now so give it a try on 
+> yours. Keep me posted on further issues.
+>
+> Jake Pedersen
+> Jake@Linux
+>
+> Aug 4, 2023 12:15:56 PM kalaitzis georg <gkalaitzis.karditsa@gmail.com>:
+>
+>     hey Jake,
+>
+>     thank you,
+>
+>     i installed it,and it worked, noww i waiting to solved the scripts
+>
+>
+>     thang you again
+>
+>
+>
+>     Am 03.08.23 um 23:19 schrieb Jacob Pedersen:
+>>     I have had a little free time to attempt to address my script,
+>>     however no solution yet. I did push my vimrc to my repos so you
+>>     should have access to it now.
+>>
+>>     Thanks for your patience
+>>     Jake Pedersen
+>>     Jake@Linix
+>>
+>>     Aug 3, 2023 3:58:59 AM kalaitzis georg
+>>     <gkalaitzis.karditsa@gmail.com>:
+>>
+>>         hey Jake,
+>>
+>>         i was wondering if you had time to work on your scripts??????
+>>         and by the way, where can i get your /.config/vim/.vimrc?
+>>         on github i can't find it,there is only your .vim which you
+>>         have under $HOME. i would like to install your .vimrc. i hope
+>>         you have a solution for your script soon,because none of the
+>>         scripts work.
+>>
+>>         thanks for the effort
+>>
+>>
+>>
+>>         Am 24.07.23 um 02:48 schrieb Jacob Pedersen:
+>>>         Hey Georg,
+>>>         There is an issue with my script, something has changed and
+>>>         is causing issues, it is suddenly not working for me either.
+>>>         Let me do some troubleshooting and get back with you.
+>>>
+>>>         Thanks for your patience
+>>>         Jake Pedersen
+>>>         Jake@Linux
+>>>
+>>>         Jul 23, 2023 3:16:40 AM kalaitzis georg
+>>>         <gkalaitzis.karditsa@gmail.com>:
+>>>
+>>>             Hello Jake,
+>>>             Thanks for replying, I have managed so far, that when I
+>>>             enter vmach.sh in the terminal (alacritty,st), a window
+>>>             opens where I can select Add:. with arrow key I select
+>>>             Add, it opens the second window where I then select
+>>>             (What distro,CPU,Mem,OS etc.). ). but when I press enter
+>>>             at the end, nothing works. that's where you come in,
+>>>             what can I do? how can I open your script with key
+>>>             combination (alt+shift+v)?
+>>>
+>>>             thank you
+>>>
+>>>
+>>>
+>>>
+>>>             Am 21.07.2023 um 17:15 schrieb Jacob Pedersen:
+>>>>             … 
+>>>
+>>>             -- 
+>>>             ミ★ 𝘮𝘧𝘨
+>>>             𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+>>>             43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+>>>
+>>         -- 
+>>         ミ★ 𝘮𝘧𝘨
+>>         𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+>>         43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+>>
+>     -- 
+>     ミ★ 𝘮𝘧𝘨
+>     𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+>     43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+>
+-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+
+--------------bCT0hTphh94M5TAENULAM1SZ
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  </head>
+  <body>
+    <p><br>
+    </p>
+    <p>Hi Jake,</p>
+    <p>Thank you, I'll try it as soon as I'm free and I'll get back to
+      you right away</p>
+    <p>Which programs do I have to install with the exception of
+      virt-viewer and devour and ................<br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <div class="moz-cite-prefix">Am 11.08.23 um 21:34 schrieb Jacob
+      Pedersen:<br>
+    </div>
+    <blockquote type="cite"
+      cite="mid:02668a6f-85e7-4d14-a088-925b2fcb4891@jpedmedia.com">
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+      <meta name="viewport"
+        content="width=device-width, initial-scale=1.0">
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">Vmach.sh
+        script updated, it works on my system now so give it a try on
+        yours. Keep me posted on further issues.</span> <br>
+      <br>
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">Jake
+        Pedersen </span> <br>
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">Jake@Linux</span>
+      <br>
+      <div><br>
+        <div>
+          <p>Aug 4, 2023 12:15:56 PM kalaitzis georg
+            <a class="moz-txt-link-rfc2396E" href="mailto:gkalaitzis.karditsa@gmail.com">&lt;gkalaitzis.karditsa@gmail.com&gt;</a>:</p>
+        </div>
+        <blockquote
+          style="margin:0;border-left:3px solid #ccc; padding-left:10px">
+          <p>hey Jake,</p>
+          <p>thank you,</p>
+          <p>i installed it,and it worked, noww i waiting to solved the
+            scripts <br>
+          </p>
+          <p><br>
+          </p>
+          <p>thang you again</p>
+          <p><br>
+          </p>
+          <p><br>
+          </p>
+          <div class="moz-cite-prefix"> Am 03.08.23 um 23:19 schrieb
+            Jacob Pedersen:<br>
+          </div>
+          <blockquote type="cite"
+cite="mid:cbac6ff0-b4d0-4611-a39f-1b13ca8111d2@jpedmedia.com">
+            <meta http-equiv="content-type"
+              content="text/html; charset=UTF-8">
+            <meta name="viewport"
+              content="width=device-width, initial-scale=1.0">
+            <span dir="ltr" style="margin-top:0; margin-bottom:0">I have
+              had a little free time to attempt to address my script,
+              however no solution yet. I did push my vimrc to my repos
+              so you should have access to it now. </span> <br>
+            <br>
+            <span dir="ltr" style="margin-top:0; margin-bottom:0">Thanks
+              for your patience</span> <br>
+            <span dir="ltr" style="margin-top:0; margin-bottom:0">Jake
+              Pedersen</span> <br>
+            <span dir="ltr" style="margin-top:0; margin-bottom:0">Jake@Linix</span>
+            <br>
+            <div><br>
+              <div>
+                <p>Aug 3, 2023 3:58:59 AM kalaitzis georg <a
+                    class="moz-txt-link-rfc2396E"
+                    href="mailto:gkalaitzis.karditsa@gmail.com"
+                    moz-do-not-send="true">&lt;gkalaitzis.karditsa@gmail.com&gt;</a>:</p>
+              </div>
+              <blockquote
+style="margin:0;border-left:3px solid #ccc; padding-left:10px">
+                <p>hey Jake,</p>
+                <p>i was wondering if you had time to work on your
+                  scripts?????? and by the way, where can i get your
+                  /.config/vim/.vimrc?<br>
+                  on github i can't find it,there is only your .vim
+                  which you have under $HOME. i would like to install
+                  your .vimrc. i hope you have a solution for your
+                  script soon,because none of the scripts work.<br>
+                  <br>
+                  thanks for the effort<br>
+                </p>
+                <p><br>
+                </p>
+                <p><br>
+                </p>
+                <div class="moz-cite-prefix"> Am 24.07.23 um 02:48
+                  schrieb Jacob Pedersen:<br>
+                </div>
+                <blockquote type="cite"
+cite="mid:44b2ddbb-3f48-456f-9870-44558e997852@jpedmedia.com">
+                  <meta http-equiv="content-type"
+                    content="text/html; charset=UTF-8">
+                  <meta name="viewport"
+                    content="width=device-width, initial-scale=1.0">
+                  <span dir="ltr" style="margin-top:0; margin-bottom:0">Hey
+                    Georg,</span> <br>
+                  <span dir="ltr" style="margin-top:0; margin-bottom:0">There
+                    is an issue with my script, something has changed
+                    and is causing issues, it is suddenly not working
+                    for me either. Let me do some troubleshooting and
+                    get back with you.</span> <br>
+                  <br>
+                  <span dir="ltr" style="margin-top:0; margin-bottom:0">Thanks
+                    for your patience</span> <br>
+                  <span dir="ltr" style="margin-top:0; margin-bottom:0">Jake
+                    Pedersen</span> <br>
+                  <span dir="ltr" style="margin-top:0; margin-bottom:0">Jake@Linux</span>
+                  <br>
+                  <div> <br>
+                    <div>
+                      <p>Jul 23, 2023 3:16:40 AM kalaitzis georg <a
+                          class="moz-txt-link-rfc2396E"
+                          href="mailto:gkalaitzis.karditsa@gmail.com"
+                          moz-do-not-send="true">&lt;gkalaitzis.karditsa@gmail.com&gt;</a>:</p>
+                    </div>
+                    <blockquote
+style="margin:0;border-left:3px solid #ccc; padding-left:10px">
+                      <p>Hello Jake,<br>
+                        Thanks for replying, I have managed so far, that
+                        when I enter vmach.sh in the terminal
+                        (alacritty,st), a window opens where I can
+                        select Add:. with arrow key I select Add, it
+                        opens the second window where I then select
+                        (What distro,CPU,Mem,OS etc.). ). but when I
+                        press enter at the end, nothing works. that's
+                        where you come in, what can I do? how can I open
+                        your script with key combination (alt+shift+v)?<br>
+                        <br>
+                        thank you<br>
+                      </p>
+                      <p><br>
+                      </p>
+                      <p><br>
+                      </p>
+                      <p><br>
+                      </p>
+                      <div class="moz-cite-prefix"> Am 21.07.2023 um
+                        17:15 schrieb Jacob Pedersen:<br>
+                      </div>
+                      <blockquote type="cite"
+cite="mid:d1f6b80c-2582-4484-977b-d0629dfcd416@jpedmedia.com"> … </blockquote>
+                      <pre class="moz-signature" cols="72">-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡</pre>
+                    </blockquote>
+                  </div>
+                </blockquote>
+                <pre class="moz-signature" cols="72">-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡</pre>
+              </blockquote>
+            </div>
+          </blockquote>
+          <pre class="moz-signature" cols="72">-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡</pre>
+        </blockquote>
+      </div>
+    </blockquote>
+    <pre class="moz-signature" cols="72">-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡</pre>
+  </body>
+</html>
+
+--------------bCT0hTphh94M5TAENULAM1SZ--
+From - Tue Nov  7 11:10:52 2023
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <gkalaitzis.karditsa@gmail.com>
+Received: from [192.168.1.10] (adsl-80.109.242.108.tellas.gr. [109.242.108.80])
+        by smtp.gmail.com with ESMTPSA id og31-20020a1709071ddf00b00965c6c63ea3sm2892717ejc.35.2023.05.22.02.32.59
+        for <info@florian-dalwigk.de>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Mon, 22 May 2023 02:33:00 -0700 (PDT)
+Message-ID: <b2a3fa4d-ebfb-d8bc-277d-cc3c2369ed54@gmail.com>
+Date: Mon, 22 May 2023 12:33:00 +0300
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101
+ Thunderbird/102.10.0
+To: info@florian-dalwigk.de
+From: kalaitzis georg <gkalaitzis.karditsa@gmail.com>
+Subject: word_to_pdf
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Hallo Florian,
+
+ich beobachte sehr gerne dich auf Youtube,vorwiegent die Videos uber 
+Python und pycharm.
+
+ich bin ein absoluter Anfänger,und versuche dir,so gut es geht zu folgen.
+
+ich wollte mit deinem Video über python pycharm code pdf to docx 
+convertieren,habe dein Code auch sehr aufmerksam,nachgeschrieben,aben 
+was mich auf ein problem stossen lies,ist
+
+1. wo speicherst du die Dokumente die du convertieren möchtest?
+
+2. muss ich den erstellten Code zum Ordner,wo sich die zu convertierten 
+Dokumente befinden,speichern?
+
+3. muss ich sie umbenennen, (z.B. ich habe im Ordner eine docx Dokument 
+mit den namen "Lebenslauf")
+
+muss ich im Code das erwaehnen
+
+tut mir leid wenn ich das nicht tscheke!
+
+
+wie sollte mein Code aussehen wenn ich im Ordner Dokumente ein docx 
+habe, mit den Namen Lebenslauf,und dieses zu pdf konvertieren mochte? 
+und umgekehrt pdf zu docx
+
+Danke dir wenn du dir Zeit dafuer nimmst,vieleicht auch ein Video.
+
+-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+
+From - Tue Nov  7 11:10:52 2023
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <gkalaitzis.karditsa@gmail.com>
+Received: from [192.168.1.9] (adsl-21.46.190.85.tellas.gr. [46.190.85.21])
+        by smtp.gmail.com with ESMTPSA id q8-20020a056402032800b0051de52f8adesm1844871edw.32.2023.07.07.02.58.13
+        for <jake@jpedmedia.com>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Fri, 07 Jul 2023 02:58:13 -0700 (PDT)
+Message-ID: <c645a368-a374-3d25-fce1-3267b158494e@gmail.com>
+Date: Fri, 7 Jul 2023 12:58:12 +0300
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101
+ Thunderbird/102.12.0
+Content-Language: en-US
+To: jake@jpedmedia.com
+From: kalaitzis georg <gkalaitzis.karditsa@gmail.com>
+Subject: voidlinux
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Hi Jake,
+Voidlinux is a good distribution, I tried to install it, which I succeeded.
+But now I had the problem,that I have no disks displayed in the 
+filemanager thunar.I have 3 harddisks,(Windows,MacOS,Linux).none was 
+recognized. have with udisksctl -b mount /dev/sdxx got error,, udiskctl 
+not found. but have udisks2,and udiskie installed . also my /home 
+folders were not displayed (Document,Picture,Video,Desktop, etc....)
+what do i need to install, how do i solve it....
+THANKS IN ADVANCE.
+
+-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+
+From - Tue Nov  7 11:10:52 2023
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <gkalaitzis.karditsa@gmail.com>
+Received: from [192.168.1.1] (adsl-79.109.242.103.tellas.gr. [109.242.103.79])
+        by smtp.gmail.com with ESMTPSA id re2-20020a170906d8c200b0098e78ff1a87sm2206591ejb.120.2023.07.21.07.11.31
+        for <jake@jpedmedia.com>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Fri, 21 Jul 2023 07:11:32 -0700 (PDT)
+Message-ID: <3891cd3c-7dcb-06d5-3af9-0f16944e0c79@gmail.com>
+Date: Fri, 21 Jul 2023 17:11:16 +0300
+MIME-Version: 1.0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101
+ Thunderbird/102.6.1
+Content-Language: en-US
+To: jake@jpedmedia.com
+From: kalaitzis georg <gkalaitzis.karditsa@gmail.com>
+Subject: voidlinux virt vmach.sh script
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+good afternoon Jake,
+I wrote you an email before,but unfortunately I didn't get an answer,I 
+assume that you either don't have time,or you don't answer mails in 
+general.Now I'm trying again,because I'm on voidlinux,and I'm very 
+interested in your script,for vmach.sh.I just can't get your script to 
+work for me.Could you maybe give me detailed instructions,or maybe make 
+a video-- step by step instructions.????
+thank you already
+
+Translated with www.DeepL.com/Translator (free version)
+
+-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+
+From - Tue Nov  7 11:10:52 2023
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+Return-Path: <gkalaitzis.karditsa@gmail.com>
+Received: from [192.168.1.1] (adsl-183.109.242.100.tellas.gr. [109.242.100.183])
+        by smtp.gmail.com with ESMTPSA id q13-20020aa7da8d000000b0051e0f8aac74sm3197182eds.8.2023.07.22.02.51.21
+        for <jake@jpedmedia.com>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Sat, 22 Jul 2023 02:51:21 -0700 (PDT)
+Content-Type: multipart/alternative;
+ boundary="------------XtW8h35ap0Mjeusk3Iplbaq6"
+Message-ID: <0566873c-553b-e407-9ebf-4c7e7a4ababd@gmail.com>
+Date: Sat, 22 Jul 2023 12:51:31 +0300
+MIME-Version: 1.0
+User-Agent: Mozilla Thunderbird
+Subject: Re: voidlinux virt vmach.sh script
+To: Jacob Pedersen <jake@jpedmedia.com>
+References: <3891cd3c-7dcb-06d5-3af9-0f16944e0c79@gmail.com>
+ <d1f6b80c-2582-4484-977b-d0629dfcd416@jpedmedia.com>
+Content-Language: en-US
+From: kalaitzis georg <gkalaitzis.karditsa@gmail.com>
+In-Reply-To: <d1f6b80c-2582-4484-977b-d0629dfcd416@jpedmedia.com>
+
+This is a multi-part message in MIME format.
+--------------XtW8h35ap0Mjeusk3Iplbaq6
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+thank you Jake,
+and I suspected that you might have missed it, too, however.
+I like your virt manager, and I tried to install it too. so let's start 
+from the beginning.
+I install your script on /.local/share/ so far so good, and now???
+i want to use alt+shitf+v to open my terminal kitty or alacritty like 
+you did. where do i set the keycompination? in config.def.h (dwm)?? and 
+then what software do i have to install voidlinux??how about if you 
+could make a video some step by step. what to install,where to copy 
+what, just everything. please.
+thank you for your understanding
+
+georg
+
+
+
+Am 21.07.23 um 17:15 schrieb Jacob Pedersen:
+> Hello georg,
+>
+> I apologize for not responding to your last email, either I missed it 
+> or as happens sometimes, I just forgot to respond, either way I 
+> apologize, I do try to respond to every email and comment I get, 
+> sometimes it is hard and I miss some.
+>
+> That being said, what type of issue are you having, maybe I can shed a 
+> little light on the issue, if not I would be happy to go over the set 
+> up of the script.
+>
+> Thanks for reaching out again,
+> Jake Pedersen
+> Jake@Linux
+>
+> Jul 21, 2023 9:11:36 AM kalaitzis georg <gkalaitzis.karditsa@gmail.com>:
+>
+>     good afternoon Jake,
+>     I wrote you an email before,but unfortunately I didn't get an
+>     answer,I assume that you either don't have time,or you don't
+>     answer mails in general.Now I'm trying again,because I'm on
+>     voidlinux,and I'm very interested in your script,for vmach.sh.I
+>     just can't get your script to work for me.Could you maybe give me
+>     detailed instructions,or maybe make a video-- step by step
+>     instructions.????
+>     thank you already
+>
+>     Translated with www.DeepL.com/Translator (free version)
+>
+>     -- 
+>     ミ★ 𝘮𝘧𝘨
+>     𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+>     43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+>
+-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡
+
+--------------XtW8h35ap0Mjeusk3Iplbaq6
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  </head>
+  <body>
+    <p>thank you Jake,<br>
+      and I suspected that you might have missed it, too, however.<br>
+      I like your virt manager, and I tried to install it too. so let's
+      start from the beginning.<br>
+      I install your script on /.local/share/ so far so good, and now???<br>
+      i want to use alt+shitf+v to open my terminal kitty or alacritty
+      like you did. where do i set the keycompination? in config.def.h
+      (dwm)?? and then what software do i have to install voidlinux??how
+      about if you could make a video some step by step. what to
+      install,where to copy what, just everything. please.<br>
+      thank you for your understanding<br>
+      <br>
+      georg<br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <div class="moz-cite-prefix">Am 21.07.23 um 17:15 schrieb Jacob
+      Pedersen:<br>
+    </div>
+    <blockquote type="cite"
+      cite="mid:d1f6b80c-2582-4484-977b-d0629dfcd416@jpedmedia.com">
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+      <meta name="viewport"
+        content="width=device-width, initial-scale=1.0">
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">Hello
+        georg,</span> <br>
+      <br>
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">I apologize
+        for not responding to your last email, either I missed it or as
+        happens sometimes, I just forgot to respond, either way I
+        apologize, I do try to respond to every email and comment I get,
+        sometimes it is hard and I miss some. </span> <br>
+      <br>
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">That being
+        said, what type of issue are you having, maybe I can shed a
+        little light on the issue, if not I would be happy to go over
+        the set up of the script. </span> <br>
+      <br>
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">Thanks for
+        reaching out again,</span> <br>
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">Jake
+        Pedersen</span> <br>
+      <span dir="ltr" style="margin-top:0; margin-bottom:0;">Jake@Linux</span>
+      <br>
+      <div><br>
+        <div>
+          <p>Jul 21, 2023 9:11:36 AM kalaitzis georg
+            <a class="moz-txt-link-rfc2396E" href="mailto:gkalaitzis.karditsa@gmail.com">&lt;gkalaitzis.karditsa@gmail.com&gt;</a>:</p>
+        </div>
+        <blockquote
+          style="margin:0;border-left:3px solid #ccc; padding-left:10px">
+          <div> good afternoon Jake,<br>
+            I wrote you an email before,but unfortunately I didn't get
+            an answer,I assume that you either don't have time,or you
+            don't answer mails in general.Now I'm trying again,because
+            I'm on voidlinux,and I'm very interested in your script,for
+            vmach.sh.I just can't get your script to work for me.Could
+            you maybe give me detailed instructions,or maybe make a
+            video-- step by step instructions.????<br>
+            thank you already<br>
+            <br>
+            Translated with <a class="moz-txt-link-abbreviated" href="http://www.DeepL.com/Translator">www.DeepL.com/Translator</a> (free version)<br>
+            <br>
+            -- <br>
+            ミ★ 𝘮𝘧𝘨<br>
+            𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴<br>
+            43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28
+            ★彡<br>
+          </div>
+        </blockquote>
+      </div>
+    </blockquote>
+    <pre class="moz-signature" cols="72">-- 
+ミ★ 𝘮𝘧𝘨
+𝘨𝘦𝘰𝘳𝘨 𝘬𝘢𝘭𝘢𝘪𝘵𝘻𝘪𝘴
+43100 𝘒𝘢𝘳𝘥𝘪𝘵𝘴𝘢 𝘈𝘯𝘥𝘳𝘦𝘢 𝘗𝘢𝘱𝘢𝘯𝘥𝘳𝘦𝘰𝘶 28 ★彡</pre>
+  </body>
+</html>
+
+--------------XtW8h35ap0Mjeusk3Iplbaq6--

@@ -1,0 +1,421 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (B8=highestRecordedUID)(B9=ns:msg:db:row:scope:pending:all)
+  (BA=ns:msg:db:table:kind:pending)(BB=dateReceived)(BC=ProtoThreadFlags)
+  (BD=sender_name)(BE=keywords)(BF=imageSize)(C0=junkscore)
+  (C1=X-GM-MSGID)(C2=X-GM-THRID)(C3=X-GM-LABELS)(C4=replyTo)(C5=gloda-id)
+  (C6=gloda-dirty)(C7=dobayes.mailnews@mozilla.org#junk.empty)
+  (C8=dobayes.mailnews@mozilla.org#junk)(C9=folderName)
+  (CA=numDeletedHeaders)(CB=storeToken)(CC=pseudoHdr)
+  (CD=ns:msg:db:row:scope:ops:all)(CE=ns:msg:db:table:kind:ops)(CF=op)
+  (D0=msgKey)(D1=opFlags)(D2=newFlags)(D3=srcFolderURI)(D4=srcMsgKey)
+  (D5=preview)(D6=columnStates)(D7=applyIncomingFilters.empty)
+  (D8=applyIncomingFilters)(D9=customSortCol)(DA=overrideCharset)
+  (DB=useServerRetention)(DC=retainBy)(DD=daysToKeepHdrs)
+  (DE=numHdrsToKeep)(DF=daysToKeepBodies)(E0=useServerDefaults)
+  (E1=cleanupBodies)(E2=applyToFlaggedMessages)(E3=remoteContentPolicy)
+  (E4=recipient_names)(E5=notAPhishMessage)
+  (80=ns:msg:db:row:scope:msgs:all)(81=subject)(82=sender)(83=message-id)
+  (84=references)(85=recipients)(86=date)(87=size)(88=flags)(89=priority)
+  (8A=label)(8B=numLines)(8C=ccList)(8D=bccList)(8E=msgThreadId)
+  (8F=threadId)(90=threadFlags)(91=threadNewestMsgDate)(92=children)
+  (93=unreadChildren)(94=threadSubject)(95=msgCharSet)
+  (96=ns:msg:db:table:kind:msgs)(97=ns:msg:db:table:kind:thread)
+  (98=ns:msg:db:table:kind:allthreads)
+  (99=ns:msg:db:row:scope:threads:all)(9A=threadParent)(9B=threadRoot)
+  (9C=msgOffset)(9D=offlineMsgSize)
+  (9E=ns:msg:db:row:scope:dbfolderinfo:all)
+  (9F=ns:msg:db:table:kind:dbfolderinfo)(A0=numMsgs)(A1=numNewMsgs)
+  (A2=folderSize)(A3=expungedBytes)(A4=folderDate)(A5=highWaterKey)
+  (A6=mailboxName)(A7=UIDValidity)(A8=totPendingMsgs)
+  (A9=unreadPendingMsgs)(AA=expiredMark)(AB=version)(AC=forceReparse)
+  (AD=fixedBadRefThreading)(AE=onlineName)(AF=indexingPriority)
+  (B0=MRUTime)(B1=sortType)(B2=sortOrder)(B3=viewFlags)(B4=viewType)
+  (B5=sortColumns)(B6=highestModSeq)(B7=imapFlags)>
+<(6CF=1260)(81=0)>[98:m(^9B^6CF)(^8F^6CF)(^91=0)(^90=0)(^92=0)]
+<(6E2=1261)>[99:m(^9B^6E2)(^8F^6E2)(^91=0)(^90=0)(^92=0)]
+<(707=1262)>[9A:m(^9B^707)(^8F^707)(^91=0)(^90=0)(^92=0)]
+<(71A=1263)>[9B:m(^9B^71A)(^8F^71A)(^91=0)(^90=0)(^92=0)]
+<(729=1264)>[9C:m(^9B^729)(^8F^729)(^91=0)(^90=0)(^92=0)]
+<(739=1265)>[9D:m(^9B^739)(^8F^739)(^91=0)(^90=0)(^92=0)]
+<(745=1266)>[9E:m(^9B^745)(^8F^745)(^91=0)(^90=0)(^92=0)]
+<(76C=129d)(76A=6601575c)(80=1)>
+[9F:m(^9B^76C)(^8F^76C)(^91^76A)(^90=0)(^92=1)]
+<(774=129e)(772=6603efff)>[A0:m(^9B^774)(^8F^774)(^91^772)(^90=0)(^92=1)]
+<(77B=129f)(779=66045c28)>[A1:m(^9B^77B)(^8F^77B)(^91^779)(^90=0)(^92=1)]
+<(649=12a0)(780=66056373)>[A2:m(^9B^649)(^8F^649)(^91^780)(^90=0)(^92=1)]
+<(788=12a1)(786=660562fb)>[A3:m(^9B^788)(^8F^788)(^91^786)(^90=0)(^92=1)]
+<(791=12a2)(78D=66056ad0)>[A4:m(^9B^791)(^8F^791)(^91^78D)(^90=0)(^92=1)]
+<(798=12a3)(796=660567b1)>[A5:m(^9B^798)(^8F^798)(^91^796)(^90=0)(^92=1)]
+<(79E=12a4)(79C=6605c88e)>[A6:m(^9B^79E)(^8F^79E)(^91^79C)(^90=0)(^92=1)]
+<(7A4=12a5)(7A2=6608fd4c)>[A7:m(^9B^7A4)(^8F^7A4)(^91^7A2)(^90=0)(^92=1)]
+<(7AA=12a6)(7A8=660bbc8d)>[A8:m(^9B^7AA)(^8F^7AA)(^91^7A8)(^90=0)(^92=1)]
+<(7B0=12a7)(7AE=660b86b2)>[A9:m(^9B^7B0)(^8F^7B0)(^91^7AE)(^90=0)(^92=1)]
+<(7B5=12a8)(7B3=660d70de)>[AA:m(^9B^7B5)(^8F^7B5)(^91^7B3)(^90=0)(^92=1)]
+<(7BB=12a9)(7B9=660d92b1)>[AB:m(^9B^7BB)(^8F^7BB)(^91^7B9)(^90=0)(^92=1)]
+<(7C0=12aa)(7BE=660d3eb4)>[AC:m(^9B^7C0)(^8F^7C0)(^91^7BE)(^90=0)(^92=1)]
+<(7C2=12ab)(6FD=660e7687)>[AD:m(^9B^7C2)(^8F^7C2)(^91^6FD)(^90=0)(^92=1)]
+<(7C3=12ac)(710=660e9ee0)>[AE:m(^9B^7C3)(^8F^7C3)(^91^710)(^90=0)(^92=1)]
+<(7C4=12ad)(720=660fb24f)>[AF:m(^9B^7C4)(^8F^7C4)(^91^720)(^90=0)(^92=1)]
+<(7C5=12ae)(730=660ff85e)>[B0:m(^9B^7C5)(^8F^7C5)(^91^730)(^90=0)(^92=1)]
+<(7C6=12af)(73E=661013c4)>[B1:m(^9B^7C6)(^8F^7C6)(^91^73E)(^90=0)(^92=1)]
+<(62C=1256)>[90:m(^9B^62C)(^8F^62C)(^91=0)(^90=0)(^92=0)]
+<(651=1258)(642=1257)>[91:m(^9B^651)(^8F^642)(^91=0)(^90=0)(^92=0)]
+<(661=1259)>[92:m(^9B^661)(^8F^661)(^91=0)(^90=0)(^92=0)]
+<(671=125a)>[93:m(^9B^671)(^8F^671)(^91=0)(^90=0)(^92=0)]
+<(683=125b)>[94:m(^9B^683)(^8F^683)(^91=0)(^90=0)(^92=0)]
+<(694=125c)>[95:m(^9B^694)(^8F^694)(^91=0)(^90=0)(^92=0)]
+<(6B0=125e)(6A6=125d)>[96:m(^9B^6B0)(^8F^6A6)(^91=0)(^90=0)(^92=0)]
+<(6C2=125f)>[97:m(^9B^6C2)(^8F^6C2)(^91=0)(^90=0)(^92=0)]
+
+<(70C=undelivered@plaisio.gr)(70D
+    ==?UTF-8?B?UGxhaXNpbw==?= <plaisio@newsletter.plaisio.gr>)(6F9
+    =gkalaitzis57@gmail.com)(768
+    ==?UTF-8?B?8J+Tgs6az4HOrM+EzrEgz4TOsSDOsc+Bz4fOtc6vzrEgz4POv8+FIM6xz4PPhs6\
+xzrvOriAtIEvOrM69zrUgQmFjayBVcCDwn5GN?=)(769
+    =20240325105212.1E7C5A51@s041.bl040.cpigsv32.com)(1D6=UTF-8)(76B=1655c)
+  (93=ffffffff)(713=3|Plaisio)(76D=1794495160162613701)(89=)(76E
+    =recommendations@reply.pinterest.com)(76F
+    =Pinterest <recommendations@discover.pinterest.com>)(8E
+    =georg kalaitzis <gkalaitzis57@gmail.com>)(770
+    =Wir aktualisieren unsere AGB und Datenschutzrichtlinien.)(771
+    =20240327100759.3bf6f97163ba3e18@discover.pinterest.com)(773=97ac)
+  (775=3|Pinterest)(776=1794673559357695022)(777
+    ==?UTF-8?B?8J+UtExvZ2l0ZWNoIEcgz4DOv869z4TOr866zrkgzpzOn86dzp8gNTkuOTkg4oK\
+sIFsgzqDOoc6fzpvOkc6SzpUgXQ==?=)(778
+    =66045c29.050a0220.41c0b.d8b5SMTPIN_ADDED_MISSING@mx.google.com)
+  (77A=168ec)(77C=1794702594080537526)(77D
+    =Google <no-reply@accounts.google.com>)(77E
+    ==?UTF-8?Q?Sicherheitswarnung_f=C3=BCr_gkalaitzis=2Ekarditsa=40gmail=2Eco?\
+= =?UTF-8?Q?m?=)(77F=B4_zLaZQkhSgJ-0UHEzztQ@notifications.google.com)
+  (781=3acd)(782=3|Google)(783=1794773270714362268)(6F8
+    =Mozilla <accounts@firefox.com>)(6FA=georg.kalaitzis@hotmail.com)
+  (784=Anmeldung bei Firefox genehmigen)(785
+    =0101018e850aa809-0432a6c2-988b-4f1c-b065-efc351248620-000000@us-west-2.am\
+azonses.com)(787=66d9)(700=3|Mozilla)(789=1794773145681799543)(790
+    =10000001)(78A=ebill_fixed@cosmote.gr)(78B
+    ==?utf-8?B?zojOus60zr/Pg863IGUtzrvOv86zzrHPgc65zrHPg868zr/P?= =?utf-8?B?jS\
+DPg8+EzrHOuM61z4HOrs+CIDE3NDUzMTAxIM6czrHPgc+Ezq/Ov8+F?=)(78C
+    =20240328130405.25AF5148CA@turing.ote.gr)(78F=1729d8)(792
+    =3|ebill_fixed@cosmote.gr)(793=1794775249149245895)(794
+    ==?UTF-8?B?8J+ToiDOnM6fzpvOmc6jIM6XzqHOmM6VOiBLaXRjaGVuQWlkLCDOtyDPgM65zr8\
+gz4DOv867z43Ph8+Bz4nOvM63IM+DzrXOuc+BzqwgzrPOuc6xIM+EzrfOvSDOus6/z4XOts6vzr3Os\
+SDPg86/z4Uh?=)(795
+    =660567b0.050a0220.fd484.8eeeSMTPIN_ADDED_MISSING@mx.google.com)
+  (797=1696a)(799=1794774407678095456)(79A=Du hast ein gutes Auge, georg!)
+  (79B=20240328194414.da295c9c462d6215@discover.pinterest.com)(79D=14872)
+  (79F=1794800413209424663)(7A0
+    ==?UTF-8?B?8J+ToiBXRUVLTFkgUkVQT1JUOiDOlyDOuM61z4HOvM6/zrrPgc6xz4POr86xIM6\
+xzr3Orc6yzrfOus61IM66zrHOuSDPhM6xIM69zq3OsSDOtc6vzr3Osc65IEhPVCEgIA==?=)
+  (7A1=6608fd4c.5d0a0220.84ea3.214cSMTPIN_ADDED_MISSING@mx.google.com)
+  (7A3=16b11)(7A5=1795020726279988481)(72D
+    =Fysiko Aerio <e-bill@fysikoaerioellados.gr>)(7A6
+    ==?utf-8?B?ZS1iaWxsOiDOlc69zrfOvM6tz4HPic+Dzrcgzq3Ous60zr/P?= =?utf-8?B?g8\
+63z4IgzrvOv86zzrHPgc65zrHPg868zr/PjSDOps+Fz4POuc66zr/P?= =?utf-8?B?jSDOkc61z4H\
+Or86/z4U=?=)(7A7
+    =0102018e9dd887ac-62f66442-5d0f-4acb-9a28-20c0bc1f91a5-000000@eu-west-1.am\
+azonses.com)(731=utf-8)(7A9=4cc6)(7AB=1795209505392943989)(734
+    =3|Fysiko Aerio)(7AC
+    ==?UTF-8?B?8J+Ogc6Iz4fOtc65z4IgzpTOqc6hzp/Olc6gzpnOpM6RzpPOlyDOrc+Jz4IgMTU\
+w4oKsIM6zzrnOsSDPhM6xIM6gzrHPg8+HzrHOu865zr3OrCDPg86/z4UgzpTOqc6hzpEhIPCfkLA=?\
+=)(7AD=660b86b2.050a0220.32e62.727aSMTPIN_ADDED_MISSING@mx.google.com)
+  (7AF=1486d)(7B1=1795195048539744640)(7B2
+    =20240403150814.85bb0f29aa526397@discover.pinterest.com)(7B4=14e5b)
+  (7B6=1795326629484538491)(7B7
+    ==?UTF-8?B?8J+UtM6czp/Onc6fIDY5LDk54oKsIM+DzrUgR2FtaW5nIEhlYWRzZXQgQ29yc2F\
+pciEgzpzOn86dzp8gzpPOmc6RIM6bzpnOk86VzqMgzqnOoc6VzqMhIA==?=)(7B8
+    =660d92b2.5d0a0220.34a32.98d6SMTPIN_ADDED_MISSING@mx.google.com)
+  (7BA=16b3c)(7BC=1795335708509835555)(7BD
+    =0101018ea3bcef5b-d39df332-43c6-4f4b-896d-3884f300d083-000000@us-west-2.am\
+azonses.com)(7BF=66cf)(7C1=1795313162453028703)(127=81)(6FB
+    =Neue Anmeldung bei Firefox)(6FC
+    =0101018ea87effbd-91e0a8c1-f875-4132-9fb7-1006e0750faf-000000@us-west-2.am\
+azonses.com)(701=1795396866909569631)(706=d7)(6FE=6c9d)(70A=15bc970)
+  (709=22792560)(70E
+    ==?UTF-8?B?VG8gR2FsYXh5IEFJIM61zq/Ovc6xzrkgzrXOtM+OIOKcqCBbzpHOnc6RzprOkc6\
+bzqXOqM6VIM6kzp9d?=)(70F=20240404123648.84EB580@s036.bl036.cpigsv32.com)
+  (714=1795407701483643472)(719=d9)(711=158d7)(71D=15c360d)(71C=22820365)
+  (71E
+    ==?UTF-8?B?8J+UtCBTbWFydCBUViA1MCcnIE1PTk8gMjM54oKsISDOis+DzrEgz4DOv8+FIM+\
+Az4HOv867zrHOss6xzq/Ovc61zrnPgiE=?=)(71F
+    =660fb24f.050a0220.2b4e8.0edcSMTPIN_ADDED_MISSING@mx.google.com)
+  (723=1795481633287523313)(728=db)(721=16613)(72C=15d8ee4)(72B=22908644)
+  (72E
+    ==?utf-8?B?ZS1iaWxsOiDOlc69zrfOvM6tz4HPic+Dzrcgzq3Ous60zr/P?= =?utf-8?B?g8\
+63z4IgzrvOv86zzrHPgc65zrHPg868zr/PjSDOl867zrXOus+Ez4HO?= =?utf-8?B?uc66zr/PjSD\
+Ooc61z43OvM6xz4TOv8+C?=)(72F
+    =0102018eae6230a9-33991315-b627-4371-b94a-81ae2491e466-000000@eu-west-1.am\
+azonses.com)(735=1795500440410481917)(738=d3)(732=4ca8)(73C=15ef4f7)
+  (73B=23000311)(73D
+    =0101018eaecd3917-dddf834a-afd4-4e1d-9d88-7e0ee87a5def-000000@us-west-2.am\
+azonses.com)(741=1795507795268561553)(645=d4)(73F=6c95)(748=15f419f)
+  (747=23019935)>
+{1:^80 {(k^96:c)(s=9)} 
+  [129D(^88=1)(^C4^70C)(^82^70D)(^85^6F9)(^81^768)(^83^769)(^BB^76A)
+    (^86^76A)(^89=1)(^95^1D6)(^87^76B)(^9A^93)(^8E^76C)(^BC=0)(^BD^713)
+    (^C1^76D)(^C2^76D)(^C3=)]
+  [129E(^88=1)(^C4^76E)(^82^76F)(^85^8E)(^81^770)(^83^771)(^BB^772)
+    (^86^772)(^89=1)(^87^773)(^9A^93)(^8E^774)(^BC=0)(^BD^775)(^C1^776)
+    (^C2^776)(^C3=)]
+  [129F(^88=1)(^C4^70C)(^82^70D)(^85^6F9)(^81^777)(^83^778)(^BB^779)
+    (^86^779)(^89=1)(^95^1D6)(^87^77A)(^9A^93)(^8E^77B)(^BC=0)(^BD^713)
+    (^C1^77C)(^C2^77C)(^C3=)(^E3=1)]
+  [12A0(^88=1)(^82^77D)(^85^6F9)(^81^77E)(^83^77F)(^BB^780)(^86^780)
+    (^89=1)(^87^781)(^9A^93)(^8E^649)(^BC=0)(^BD^782)(^C1^783)(^C2^783)
+    (^C3=)]
+  [12A1(^88=1)(^82^6F8)(^85^6F9)(^8C^6FA)(^81^784)(^83^785)(^BB^786)
+    (^86^786)(^89=1)(^87^787)(^9A^93)(^8E^788)(^BC=0)(^BD^700)(^C1^789)
+    (^C2^789)(^C3=)]
+  [12A2(^88^790)(^82^78A)(^85^6F9)(^81^78B)(^83^78C)(^BB^78D)(^86^78D)
+    (^89=1)(^87^78F)(^9A^93)(^8E^791)(^BC=0)(^BD^792)(^C1^793)(^C2^793)
+    (^C3=)]
+  [12A3(^88=1)(^C4^70C)(^82^70D)(^85^6F9)(^81^794)(^83^795)(^BB^796)
+    (^86^796)(^89=1)(^95^1D6)(^87^797)(^9A^93)(^8E^798)(^BC=0)(^BD^713)
+    (^C1^799)(^C2^799)(^C3=)]
+  [12A4(^88=1)(^C4^76E)(^82^76F)(^85^8E)(^81^79A)(^83^79B)(^BB^79C)
+    (^86^79C)(^89=1)(^87^79D)(^9A^93)(^8E^79E)(^BC=0)(^BD^775)(^C1^79F)
+    (^C2^79F)(^C3=)]
+  [12A5(^88=1)(^C4^70C)(^82^70D)(^85^6F9)(^81^7A0)(^83^7A1)(^BB^7A2)
+    (^86^7A2)(^89=1)(^95^1D6)(^87^7A3)(^9A^93)(^8E^7A4)(^BC=0)(^C1^7A5)
+    (^C2^7A5)(^C3=)(^BD^713)]
+  [12A6(^88=1)(^82^72D)(^85^6F9)(^81^7A6)(^83^7A7)(^BB^7A8)(^86^7A8)
+    (^89=1)(^95^731)(^87^7A9)(^9A^93)(^8E^7AA)(^BC=0)(^C1^7AB)(^C2^7AB)
+    (^C3=)(^BD^734)]
+  [12A7(^88=1)(^C4^70C)(^82^70D)(^85^6F9)(^81^7AC)(^83^7AD)(^BB^7AE)
+    (^86^7AE)(^89=1)(^95^1D6)(^87^7AF)(^9A^93)(^8E^7B0)(^BC=0)(^BD^713)
+    (^C1^7B1)(^C2^7B1)(^C3=)]
+  [12A8(^88=1)(^C4^76E)(^82^76F)(^85^8E)(^81^79A)(^83^7B2)(^BB^7B3)
+    (^86^7B3)(^89=1)(^87^7B4)(^9A^93)(^8E^7B5)(^BC=0)(^C1^7B6)(^C2^7B6)
+    (^C3=)(^BD^775)]
+  [12A9(^88=1)(^C4^70C)(^82^70D)(^85^6F9)(^81^7B7)(^83^7B8)(^BB^7B9)
+    (^86^7B9)(^89=1)(^95^1D6)(^87^7BA)(^9A^93)(^8E^7BB)(^BC=0)(^C1^7BC)
+    (^C2^7BC)(^C3=)(^BD^713)]
+  [12AA(^88=1)(^82^6F8)(^85^6F9)(^8C^6FA)(^81^784)(^83^7BD)(^BB^7BE)
+    (^86^7BE)(^89=1)(^87^7BF)(^9A^93)(^8E^7C0)(^BC=0)(^C1^7C1)(^C2^7C1)
+    (^C3=)(^BD^700)]
+  [12AB(^88=81)(^82^6F8)(^85^6F9)(^8C^6FA)(^81^6FB)(^83^6FC)(^BB^6FD)
+    (^86^6FD)(^BD^700)(^C1^701)(^C2^701)(^C3=)(^D5=)(^C5=d7)(^C6=1)
+    (^9D^6FE)(^9C^70A)(^CB^709)(^89=1)(^87^6FE)(^9A^93)(^8E^7C2)(^BC=0)]
+  [12AC(^88=81)(^C4^70C)(^82^70D)(^85^6F9)(^81^70E)(^83^70F)(^BB^710)
+    (^86^710)(^95^1D6)(^BD^713)(^C1^714)(^C2^714)(^C3=)(^C5=d9)(^C6=1)
+    (^9D^711)(^9C^71D)(^CB^71C)(^89=1)(^87^711)(^9A^93)(^8E^7C3)(^BC=0)]
+  [12AD(^88=81)(^C4^70C)(^82^70D)(^85^6F9)(^81^71E)(^83^71F)(^BB^720)
+    (^86^720)(^95^1D6)(^BD^713)(^C1^723)(^C2^723)(^C3=)(^C5=db)(^C6=1)
+    (^9D^721)(^9C^72C)(^CB^72B)(^89=1)(^87^721)(^9A^93)(^8E^7C4)(^BC=0)]
+  [12AE(^88=81)(^82^72D)(^85^6F9)(^81^72E)(^83^72F)(^BB^730)(^86^730)
+    (^95^731)(^BD^734)(^C1^735)(^C2^735)(^C3=)(^C5=d3)(^C6=1)(^9D^732)
+    (^9C^73C)(^CB^73B)(^89=1)(^87^732)(^9A^93)(^8E^7C5)(^BC=0)]
+  [12AF(^88=81)(^82^6F8)(^85^6F9)(^8C^6FA)(^81^6FB)(^83^73D)(^BB^73E)
+    (^86^73E)(^BD^700)(^C1^741)(^C2^741)(^C3=)(^C5=d4)(^C6=1)(^9D^73F)
+    (^9C^748)(^CB^747)(^89=1)(^87^73F)(^9A^93)(^8E^7C6)(^BC=0)]}
+{129D:^80 {(k^97:c)(s=9)9F:m } 129D }
+{129E:^80 {(k^97:c)(s=9)A0:m } 129E }
+{129F:^80 {(k^97:c)(s=9)A1:m } 129F }
+{12A0:^80 {(k^97:c)(s=9)A2:m } 12A0 }
+{12A1:^80 {(k^97:c)(s=9)A3:m } 12A1 }
+{12A2:^80 {(k^97:c)(s=9)A4:m } 12A2 }
+{12A3:^80 {(k^97:c)(s=9)A5:m } 12A3 }
+{12A4:^80 {(k^97:c)(s=9)A6:m } 12A4 }
+{12A5:^80 {(k^97:c)(s=9)A7:m } 12A5 }
+{12A6:^80 {(k^97:c)(s=9)A8:m } 12A6 }
+{12A7:^80 {(k^97:c)(s=9)A9:m } 12A7 }
+{12A8:^80 {(k^97:c)(s=9)AA:m } 12A8 }
+{12A9:^80 {(k^97:c)(s=9)AB:m } 12A9 }
+{12AA:^80 {(k^97:c)(s=9)AC:m } 12AA }
+{12AB:^80 {(k^97:c)(s=9)AD:m } 12AB }
+{12AC:^80 {(k^97:c)(s=9)AE:m } 12AC }
+{12AD:^80 {(k^97:c)(s=9)AF:m } 12AD }
+{12AE:^80 {(k^97:c)(s=9)B0:m } 12AE }
+{12AF:^80 {(k^97:c)(s=9)B1:m } 12AF }[1256:^80]
+[1257:^80]
+[1258:^80]
+[1259:^80]
+[125A:^80]
+[125B:^80]
+[125C:^80]
+[125D:^80]
+[125E:^80]
+[125F:^80]
+[1260:^80]
+[1261:^80]
+{FFFFFFFD:^99 {(k^98:c)(s=9)} 
+  [129D(^94^768)]
+  [129E(^94^770)]
+  [129F(^94^777)]
+  [12A0(^94^77E)]
+  [12A1(^94^784)]
+  [12A2(^94^78B)]
+  [12A3(^94^794)]
+  [12A4(^94^79A)]
+  [12A5(^94^7A0)]
+  [12A6(^94^7A6)]
+  [12A7(^94^7AC)]
+  [12A8(^94^79A)]
+  [12A9(^94^7B7)]
+  [12AA(^94^784)]
+  [12AB(^94^6FB)]
+  [12AC(^94^70E)]
+  [12AD(^94^71E)]
+  [12AE(^94^72E)]
+  [12AF(^94^6FB)]}
+<(39A=Your iStorm store order confirmation #3000220592)>
+[1256:^99(^94^39A)]
+<(635
+    ==?UTF-8?B?zpvOn86TzpHOoc6ZzpHOo86czp/OoyDOlc6Yzp3Omc6azpc=?=$0D$0A =?UTF-\
+8?B?zqM=?=)>[1257:^99(^94^635)]
+<(656=hyprland)>[1259:^99(^94^656)]
+<(666=hyprland v4)>[125A:^99(^94^666)]
+<(677=116110801)>[125B:^99(^94^677)]
+<(688==?UTF-8?B?zp3Osc+BzrjPhc66zrHPgg==?=)>
+[125C:^99(^94^688)]
+<(699=Void Linux Mount Disks)>[125D:^99(^94^699)]
+<(6B5=Lebenslauf)>[125F:^99(^94^6B5)]
+[1260:^99(^94^6B5)]
+<(6D4
+    ==?UTF-8?B?zpTOmc6azpHOmc6fzpvOn86TzpfOpM6ZzprOkSDOnc6fzpI=?=$0D$0A =?UTF-\
+8?B?zpE=?=)>[1261:^99(^94^6D4)]
+
+<(82=[Gmail]/Papierkorb)(533=82114)(84=-1)(7C7=13)(767=2ba736d)(751
+    =1712333527)(88=12)(753=674326)(8B=e000)(8C=2)(621=f2)>
+{1:^9E {(k^9F:c)(s=9)} 
+  [1(^AB=1)(^AC=0)(^AD=1)(^AE^82)(^88^533)(^A6^82)(^AF=-1)(^A0=13)(^A5^7C6)
+    (^A8=0)(^A3^767)(^B0^751)(^B1=12)(^B2=1)(^B3=0)(^B4=0)(^B5=)(^B6^753)
+    (^B7^8B)(^A7=2)(^B8^7C6)(^CA=f2)(^DB=1)]}
+[1:^B9]
+[2:^B9]
+[3:^B9]
+[4:^B9]
+[5:^B9]
+[6:^B9]
+[7:^B9]
+[8:^B9]
+[9:^B9]
+[A:^B9]
+[B:^B9]
+[C:^B9]
+[125C:^CD]
+[125D:^CD]
+[125E:^CD]
+[125F:^CD]
+[1260:^CD]
+[1261:^CD]
+[1256:^CD]
+[1257:^CD]
+[1258:^CD]
+[1259:^CD]
+[125A:^CD]
+[125B:^CD]
+
+@$${19{@
+@$$}19}@
+
+@$${1A{@
+[-9F:m(^9B^76C)(^8F^76C)(^91=0)(^90=0)(^92=0)]
+{1:^80 {(k^96:c)(s=9)} -
+  [-129D]}
+{-129D:^80 {(k^97:c)(s=9)9F:m } }
+{FFFFFFFD:^99 {(k^98:c)(s=9)} -129D }[1:^9E(^A0=12)]
+@$$}1A}@
+
+@$${1B{@
+[-A0:m(^9B^774)(^8F^774)(^91=0)(^90=0)(^92=0)]
+[-A1:m(^9B^77B)(^8F^77B)(^91=0)(^90=0)(^92=0)]
+[-A2:m(^9B^649)(^8F^649)(^91=0)(^90=0)(^92=0)]
+[-A3:m(^9B^788)(^8F^788)(^91=0)(^90=0)(^92=0)]
+[-A4:m(^9B^791)(^8F^791)(^91=0)(^90=0)(^92=0)]
+[-A5:m(^9B^798)(^8F^798)(^91=0)(^90=0)(^92=0)]
+[-A6:m(^9B^79E)(^8F^79E)(^91=0)(^90=0)(^92=0)]
+[-A7:m(^9B^7A4)(^8F^7A4)(^91=0)(^90=0)(^92=0)]
+[-A8:m(^9B^7AA)(^8F^7AA)(^91=0)(^90=0)(^92=0)]
+[-A9:m(^9B^7B0)(^8F^7B0)(^91=0)(^90=0)(^92=0)]
+[-AA:m(^9B^7B5)(^8F^7B5)(^91=0)(^90=0)(^92=0)]
+[-AB:m(^9B^7BB)(^8F^7BB)(^91=0)(^90=0)(^92=0)]
+[-AC:m(^9B^7C0)(^8F^7C0)(^91=0)(^90=0)(^92=0)]
+[-AD:m(^9B^7C2)(^8F^7C2)(^91=0)(^90=0)(^92=0)]
+[-AE:m(^9B^7C3)(^8F^7C3)(^91=0)(^90=0)(^92=0)]
+[-AF:m(^9B^7C4)(^8F^7C4)(^91=0)(^90=0)(^92=0)]
+[-B0:m(^9B^7C5)(^8F^7C5)(^91=0)(^90=0)(^92=0)]
+[-B1:m(^9B^7C6)(^8F^7C6)(^91=0)(^90=0)(^92=0)]
+{-1:^80 {(k^96:c)(s=9)} }
+{-129E:^80 {(k^97:c)(s=9)A0:m } }
+{-129F:^80 {(k^97:c)(s=9)A1:m } }
+{-12A0:^80 {(k^97:c)(s=9)A2:m } }
+{-12A1:^80 {(k^97:c)(s=9)A3:m } }
+{-12A2:^80 {(k^97:c)(s=9)A4:m } }
+{-12A3:^80 {(k^97:c)(s=9)A5:m } }
+{-12A4:^80 {(k^97:c)(s=9)A6:m } }
+{-12A5:^80 {(k^97:c)(s=9)A7:m } }
+{-12A6:^80 {(k^97:c)(s=9)A8:m } }
+{-12A7:^80 {(k^97:c)(s=9)A9:m } }
+{-12A8:^80 {(k^97:c)(s=9)AA:m } }
+{-12A9:^80 {(k^97:c)(s=9)AB:m } }
+{-12AA:^80 {(k^97:c)(s=9)AC:m } }
+{-12AB:^80 {(k^97:c)(s=9)AD:m } }
+{-12AC:^80 {(k^97:c)(s=9)AE:m } }
+{-12AD:^80 {(k^97:c)(s=9)AF:m } }
+{-12AE:^80 {(k^97:c)(s=9)B0:m } }
+{-12AF:^80 {(k^97:c)(s=9)B1:m } }[-129E:^80]
+[-129F:^80]
+[-12A0:^80]
+[-12A1:^80]
+[-12A2:^80]
+[-12A3:^80]
+[-12A4:^80]
+[-12A5:^80]
+[-12A6:^80]
+[-12A7:^80]
+[-12A8:^80]
+[-12A9:^80]
+[-12AA:^80]
+[-12AB:^80]
+[-12AC:^80]
+[-12AD:^80]
+[-12AE:^80]
+[-12AF:^80]
+{-FFFFFFFD:^99 {(k^98:c)(s=9)} }
+<(7CD=2be5831)(7F2=118)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^AE^82)(^88^533)
+    (^A6^82)(^AF=-1)(^A0=0)(^A5^7C6)(^A8=0)(^A3^7CD)(^B0^751)(^B1=12)
+    (^B2=1)(^B3=0)(^B4=0)(^B5=)(^B6^753)(^B7^8B)(^A7=2)(^B8^7C6)(^CA=118)
+    (^DB=1)]
+@$$}1B}@
+
+@$${1C{@
+@$$}1C}@
+
+@$${1D{@
+@$$}1D}@
+
+@$${1F{@
+<(7F9=12b0)(7F5=6610faee)>[-B2:m(^9B^7F9)(^8F^7F9)(^91^7F5)(^90=0)
+    (^92=1)]
+
+<(7F3
+    ==?UTF-8?B?8J+Yjs6Sz4HOtc+CIGNhbWVyYXMsIGRyb25lcywgc2Nvb3RlcnMgJiDOt8+HzrX\
+Or86xIM6zzrnOsSDPhM65z4IgzrHOvc6/zrnOvs65zqzPhM65zrrOtc+CIM6xz4DOv860z4HOrM+Dz\
+rXOuc+CIM+Dzr/PhSE=?=)(7F4
+    =6610faee.df0a0220.7fc5f.c917SMTPIN_ADDED_MISSING@mx.google.com)
+  (7F6=1606a)(7F8=1795569847185929511)>
+{-1:^80 {(k^96:c)(s=9)} 
+  [-12B0(^88=1)(^C4^70C)(^82^70D)(^85^6F9)(^81^7F3)(^83^7F4)(^BB^7F5)
+    (^86^7F5)(^89=1)(^95^1D6)(^87^7F6)(^9A^93)(^8E^7F9)(^BC=0)(^C1^7F8)
+    (^C2^7F8)(^C3=)(^D5=)(^BD^713)(^BE=)(^CC=1)]}
+{-12B0:^80 {(k^97:c)(s=9)B2:m } 12B0 }
+{-FFFFFFFD:^99 {(k^98:c)(s=9)} [-12B0(^94^7F3)]}
+<(7FA=10082114)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^AE^82)(^88^7FA)(^A6^82)
+    (^AF=-1)(^A0=1)(^A5^7F9)(^A8=0)(^A3^7CD)(^B0^751)(^B1=12)(^B2=1)
+    (^B3=0)(^B4=0)(^B5=)(^B6^753)(^B7^8B)(^A7=2)(^B8^7C6)(^CA=118)(^DB=1)]
+{-1:^B9 {(k^BA:c)(s=9)} }
+{-1:^CD {(k^CE:c)(s=9)} 
+  [-12B0(^D0^7F9)(^D2=1)]}
+@$$}1F}@
+
+@$${20{@
+<(7FB=8)(7FC=imap://gkalaitzis57%40gmail.com@imap.gmail.com/INBOX)(7F7
+    =1292)>[-12B0:^CD(^D0^7F9)(^D2=1)(^CF=8)(^D3^7FC)(^D4^7F7)]
+@$$}20}@
+
+@$${21{@
+{-1:^B9 {(k^BA:c)(s=9)} 
+  [-D(^83^7F4)(^C4^70C)(^82^70D)(^85^6F9)(^81^7F3)(^BB^7F5)(^86^7F5)
+    (^95^1D6)(^C1^7F8)(^C2^7F8)(^C3=)(^D5=)(^BD^713)(^89=1)]}
+@$$}21}@

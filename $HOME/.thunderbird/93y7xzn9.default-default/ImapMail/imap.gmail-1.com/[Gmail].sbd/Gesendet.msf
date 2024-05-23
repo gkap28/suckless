@@ -1,0 +1,187 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (B8=X-GM-MSGID)(B9=X-GM-THRID)(BA=X-GM-LABELS)
+  (BB=dobayes.mailnews@mozilla.org#junk.empty)
+  (BC=dobayes.mailnews@mozilla.org#junk)(BD=ns:msg:db:row:scope:ops:all)
+  (BE=ns:msg:db:table:kind:ops)(BF=keywords)(C0=storeToken)(C1=gloda-id)
+  (C2=gloda-dirty)(C3=junkscore)(C4=overrideCharset)(C5=originalSubject)
+  (80=ns:msg:db:row:scope:msgs:all)(81=subject)(82=sender)(83=message-id)
+  (84=references)(85=recipients)(86=date)(87=size)(88=flags)(89=priority)
+  (8A=label)(8B=numLines)(8C=ccList)(8D=bccList)(8E=msgThreadId)
+  (8F=threadId)(90=threadFlags)(91=threadNewestMsgDate)(92=children)
+  (93=unreadChildren)(94=threadSubject)(95=msgCharSet)
+  (96=ns:msg:db:table:kind:msgs)(97=ns:msg:db:table:kind:thread)
+  (98=ns:msg:db:table:kind:allthreads)
+  (99=ns:msg:db:row:scope:threads:all)(9A=threadParent)(9B=threadRoot)
+  (9C=msgOffset)(9D=offlineMsgSize)
+  (9E=ns:msg:db:row:scope:dbfolderinfo:all)
+  (9F=ns:msg:db:table:kind:dbfolderinfo)(A0=numMsgs)(A1=numNewMsgs)
+  (A2=folderSize)(A3=expungedBytes)(A4=folderDate)(A5=highWaterKey)
+  (A6=mailboxName)(A7=UIDValidity)(A8=totPendingMsgs)
+  (A9=unreadPendingMsgs)(AA=expiredMark)(AB=version)(AC=forceReparse)
+  (AD=fixedBadRefThreading)(AE=onlineName)(AF=indexingPriority)
+  (B0=highestModSeq)(B1=imapFlags)(B2=highestRecordedUID)
+  (B3=ns:msg:db:row:scope:pending:all)(B4=ns:msg:db:table:kind:pending)
+  (B5=dateReceived)(B6=ProtoThreadFlags)(B7=folderName)>
+<(91=5c8)(8D=646b36cc)(81=0)(80=1)>
+[1:m(^9B^91)(^8F^91)(^91^8D)(^90=0)(^92=1)]
+<(98=5ca)(96=64a7e1b4)>[2:m(^9B^98)(^8F^98)(^91^96)(^90=0)(^92=1)]
+<(9F=5cb)(DA=64dfc713)(D0=a)>[3:m(^9B^9F)(^8F^9F)(^91^DA)(^90=0)(^92=a)]
+<(E3=5df)(E1=64e75c7f)>[4:m(^9B^E3)(^8F^E3)(^91^E1)(^90=0)(^92=1)]
+<(EB=5e1)(E9=64eafa92)>[5:m(^9B^EB)(^8F^EB)(^91^E9)(^90=0)(^92=1)]
+
+<(FB=81)(89=kalaitzis georg <gkalaitzis.karditsa@gmail.com>)(8A
+    =info@florian-dalwigk.de)(8B=word_to_pdf)(8C
+    =b2a3fa4d-ebfb-d8bc-277d-cc3c2369ed54@gmail.com)(8E=UTF-8)(8F=7ce)
+  (90=ffffffff)(92=1766586298140103215)(88=)(115=95413)(116=174b5)(117=821)
+  (118=34)(93=jake@jpedmedia.com)(94=voidlinux)(95
+    =c645a368-a374-3d25-fce1-3267b158494e@gmail.com)(97=5f5)(9A
+    =1770755345266008907)(119=97494)(11A=17cd6)(11B=648)(FD=21)(9B
+    =voidlinux virt vmach.sh script)(9C
+    =3891cd3c-7dcb-06d5-3af9-0f16944e0c79@gmail.com)(9D=64ba9204)(9E=60b)
+  (A1=1772039639863104473)(11C=99102)(11D=1831e)(11E=65e)(11F=22)(EF=91)
+  (A2=Jacob Pedersen <jake@jpedmedia.com>)(A4
+    =0566873c-553b-e407-9ebf-4c7e7a4ababd@gmail.com)(A5
+    =<3891cd3c-7dcb-06d5-3af9-0f16944e0c79@gmail.com> <d1f6b80c-2582-4484-977b\
+-d0629dfcd416@jpedmedia.com>)(A6=64bba6a3)(A7=1d91)(AB=1772113867967956404)
+  (120=100732)(121=1897c)(122=1de4)(123=ad)(AC
+    =c437c291-03d0-def1-947e-e68191fc040d@gmail.com)(AD=64bcb7be)(AE=1c6c)
+  (B1=1772198503210708887)(102=45856)(103=b320)(104=1cbf)(105=a8)(B2
+    =ab7638a0-e635-d548-f3a5-1b48e0bdeb71@gmail.com)(B3
+    =<3891cd3c-7dcb-06d5-3af9-0f16944e0c79@gmail.com> <d1f6b80c-2582-4484-977b\
+-d0629dfcd416@jpedmedia.com> <c437c291-03d0-def1-947e-e68191fc040d@gmail.com> \
+<44b2ddbb-3f48-456f-9870-44558e997852@jpedmedia.com>)(B4=64be49b9)(B5=641)
+  (B0=5cf)(B8=1772295083115397916)(106=53215)(107=cfdf)(108=694)(101=27)
+  (B9=f1150444-226c-40a5-7626-b3525a5995aa@gmail.com)(BA=64cb6c4d)(BB=2c56)
+  (BE=1773197732383439070)(109=54899)(10A=d673)(10B=2ca9)(10C=105)(BF
+    =5e2878b2-1837-d514-1c10-e79360659c13@gmail.com)(C0
+    =<3891cd3c-7dcb-06d5-3af9-0f16944e0c79@gmail.com> <d1f6b80c-2582-4484-977b\
+-d0629dfcd416@jpedmedia.com> <c437c291-03d0-def1-947e-e68191fc040d@gmail.com> \
+<44b2ddbb-3f48-456f-9870-44558e997852@jpedmedia.com> <f1150444-226c-40a5-7626-\
+b3525a5995aa@gmail.com> <cbac6ff0-b4d0-4611-a39f-1b13ca8111d2@jpedmedia.com>)
+  (C1=64cd3248)(C2=3b65)(BD=5d3)(C5=1773319595113601027)(10D=66332)
+  (10E=1031c)(10F=3bb8)(110=15a)(C6
+    =e3690915-ae44-4e40-84ab-58003a9bc499@gmail.com)(C7
+    =<3891cd3c-7dcb-06d5-3af9-0f16944e0c79@gmail.com> <d1f6b80c-2582-4484-977b\
+-d0629dfcd416@jpedmedia.com> <c437c291-03d0-def1-947e-e68191fc040d@gmail.com> \
+<44b2ddbb-3f48-456f-9870-44558e997852@jpedmedia.com> <f1150444-226c-40a5-7626-\
+b3525a5995aa@gmail.com> <cbac6ff0-b4d0-4611-a39f-1b13ca8111d2@jpedmedia.com> <\
+5e2878b2-1837-d514-1c10-e79360659c13@gmail.com> <02668a6f-85e7-4d14-a088-925b2\
+fcb4891@jpedmedia.com>)(C8=64d89c7c)(C9=358e)(C4=5d5)(CC
+    =1774104018458306202)(111=81620)(112=13ed4)(113=35e1)(114=14d)(CD
+    =ef1832eb-d7b2-4b16-b275-5afcdc80a8ae@gmail.com)(CE=64d9e6c8)(CF=3830)
+  (D2=1774192682552104066)(F0=3883)(F1=152)(D3
+    =9d606016-5a8b-4320-919a-3ad234b3eb9b@gmail.com)(D4=64da3de2)(D5=367d)
+  (D8=1774216063559742193)(F2=14467)(F3=36d0)(F4=14b)(D9
+    =093de7c8-6ccc-40e2-8d09-b42dcbb71d7a@gmail.com)(DB=3673)(DE
+    =1774596484919897930)(F5=28499)(F6=6f53)(F7=36c6)(F8=14a)(DF
+    =pixelsuft@gmail.com)(E0
+    =3d1ef72b-9e24-4cde-aaa3-e52a2534c401@gmail.com)(E2=5b1)(E5
+    =1775117616659455371)(F9=42521)(FA=a619)(FC=604)(E6=speedie@duck.com)
+  (E7=speedwm)(E8=55f57929-b47c-4741-b595-6b8af5623fb5@gmail.com)(EA=6b0)
+  (ED=1775366223123713081)(FE=44061)(FF=ac1d)(100=703)>
+{1:^80 {(k^96:c)(s=9)} 
+  [5C8(^88=81)(^82^89)(^85^8A)(^81^8B)(^83^8C)(^B5^8D)(^86^8D)(^89=1)
+    (^95^8E)(^87^8F)(^9A^90)(^8E^91)(^B6=0)(^B8^92)(^B9^92)(^BA=)(^BF=)
+    (^C0^115)(^9C^116)(^9D=821)(^8B=34)]
+  [5CA(^88=81)(^82^89)(^85^93)(^81^94)(^83^95)(^B5^96)(^86^96)(^89=1)
+    (^95^8E)(^87^97)(^9A^90)(^8E^98)(^B6=0)(^B8^9A)(^B9^9A)(^BA=)(^BF=)
+    (^C0^119)(^9C^11A)(^9D=648)(^8B=21)]
+  [5CB(^88=81)(^82^89)(^85^93)(^81^9B)(^83^9C)(^B5^9D)(^86^9D)(^89=1)
+    (^95^8E)(^87^9E)(^9A^90)(^8E^9F)(^B6=0)(^B8^A1)(^B9^A1)(^BA=)(^BF=)
+    (^C0^11C)(^9C^11D)(^9D=65e)(^8B=22)]
+  [5CD(^88=91)(^82^89)(^85^A2)(^81^9B)(^83^A4)(^84^A5)(^B5^A6)(^86^A6)
+    (^89=1)(^87^A7)(^9A^9F)(^8E^9F)(^B6=0)(^B8^AB)(^B9^A1)(^BA=)(^BF=)
+    (^C0^120)(^9C^121)(^9D^122)(^8B=ad)]
+  [5CF(^88=91)(^82^89)(^85^A2)(^81^9B)(^83^AC)(^84^A5)(^B5^AD)(^86^AD)
+    (^89=1)(^87^AE)(^9A^9F)(^8E^9F)(^B6=0)(^B8^B1)(^B9^A1)(^BA=)(^BF=)
+    (^C0^102)(^9C^103)(^9D^104)(^8B=a8)]
+  [5D1(^88=91)(^82^89)(^85^A2)(^81^9B)(^83^B2)(^84^B3)(^B5^B4)(^86^B4)
+    (^89=1)(^95^8E)(^87^B5)(^9A^B0)(^8E^9F)(^B6=0)(^B8^B8)(^B9^A1)(^BA=)
+    (^BF=)(^C0^106)(^9C^107)(^9D=694)(^8B=27)]
+  [5D3(^88=91)(^82^89)(^85^A2)(^81^9B)(^83^B9)(^84^B3)(^B5^BA)(^86^BA)
+    (^89=1)(^87^BB)(^9A^9F)(^8E^9F)(^B6=0)(^B8^BE)(^B9^A1)(^BA=)(^BF=)
+    (^C0^109)(^9C^10A)(^9D^10B)(^8B=105)]
+  [5D5(^88=91)(^82^89)(^85^A2)(^81^9B)(^83^BF)(^84^C0)(^B5^C1)(^86^C1)
+    (^89=1)(^87^C2)(^9A^BD)(^8E^9F)(^B6=0)(^B8^C5)(^B9^A1)(^BA=)(^BF=)
+    (^C0^10D)(^9C^10E)(^9D^10F)(^8B=15a)]
+  [5D7(^88=91)(^82^89)(^85^A2)(^81^9B)(^83^C6)(^84^C7)(^B5^C8)(^86^C8)
+    (^89=1)(^87^C9)(^9A^C4)(^8E^9F)(^B6=0)(^B8^CC)(^B9^A1)(^BA=)(^BF=)
+    (^C0^111)(^9C^112)(^9D^113)(^8B=14d)]
+  [5D9(^88=91)(^82^89)(^85^A2)(^81^9B)(^83^CD)(^84^C7)(^B5^CE)(^86^CE)
+    (^89=1)(^87^CF)(^9A^9F)(^8E^9F)(^B6=0)(^B8^D2)(^B9^A1)(^BA=)(^BF=)
+    (^C0=0)(^9C=0)(^9D^F0)(^8B^F1)]
+  [5DB(^88=91)(^82^89)(^85^A2)(^81^9B)(^83^D3)(^84^C7)(^B5^D4)(^86^D4)
+    (^89=1)(^87^D5)(^9A^9F)(^8E^9F)(^B6=0)(^B8^D8)(^B9^A1)(^BA=)(^BF=)
+    (^C0^F2)(^9C^F0)(^9D^F3)(^8B^F4)]
+  [5DD(^88=91)(^82^89)(^85^A2)(^81^9B)(^83^D9)(^84^C7)(^B5^DA)(^86^DA)
+    (^89=1)(^87^DB)(^9A^9F)(^8E^9F)(^B6=0)(^B8^DE)(^B9^A1)(^BA=)(^BF=)
+    (^C0^F5)(^9C^F6)(^9D^F7)(^8B^F8)]
+  [5DF(^88=81)(^82^89)(^85^DF)(^81^94)(^83^E0)(^B5^E1)(^86^E1)(^89=1)
+    (^95^8E)(^87^E2)(^9A^90)(^8E^E3)(^B6=0)(^B8^E5)(^B9^E5)(^BA=)(^BF=)
+    (^C0^F9)(^9C^FA)(^9D^FC)(^8B=21)]
+  [5E1(^88=81)(^82^89)(^85^E6)(^81^E7)(^83^E8)(^B5^E9)(^86^E9)(^89=1)
+    (^95^8E)(^87^EA)(^9A^90)(^8E^EB)(^B6=0)(^B8^ED)(^B9^ED)(^BA=)(^BF=)
+    (^C0^FE)(^9C^FF)(^9D=703)(^8B=27)]}
+{5C8:^80 {(k^97:c)(s=9)1:m } 5C8 }
+{5DF:^80 {(k^97:c)(s=9)4:m } 5DF }
+{5CA:^80 {(k^97:c)(s=9)2:m } 5CA }
+{5E1:^80 {(k^97:c)(s=9)5:m } 5E1 }
+{5CB:^80 {(k^97:c)(s=9)3:m } 5CB 5CD 5CF 5D1 5D3 5D5 5D7 5D9 5DB 5DD }
+{FFFFFFFD:^99 {(k^98:c)(s=9)} [5C8(^94^8B)]
+  [5CA(^94^94)]
+  [5CB(^94^9B)]
+  [5DF(^94^94)]
+  [5E1(^94^E7)]}
+
+<(82=[Gmail]/Gesendet)(83=8082214)(84=60)(EE=2449857)(86=e000)(87=25cbc8c1)
+  (EC=e)>
+{1:^9E {(k^9F:c)(s=9u)} 
+  [1(^AB=1)(^AC=0)(^AD=1)(^AE^82)(^88^83)(^A6^82)(^AF=60)(^B0^EE)(^B1^86)
+    (^A7^87)(^B2^EB)(^A0=e)(^A5^EB)]}
+
+@$${2{@
+@$$}2}@
+
+@$${3{@
+@$$}3}@
+
+@$${6{@
+< <(a=c)> // (f=iso-8859-1)
+  (C6=applyIncomingFilters.empty)(C7=applyIncomingFilters)>
+<(12D=86)>[5D1:^80(^C1=86)]
+<(127=7d)>[5D3:^80(^C1=7d)]
+<(128=7f)>[5D5:^80(^C1=7f)]
+<(12E=87)>[5D7:^80(^C1=87)]
+[5D9:^80(^C1=81)]
+<(129=82)>[5DB:^80(^C1=82)]
+<(12A=83)>[5DD:^80(^C1=83)]
+<(12F=88)>[5C8:^80(^C1=88)]
+<(12B=84)>[5DF:^80(^C1=84)]
+<(130=89)>[5CA:^80(^C1=89)]
+<(12C=85)>[5E1:^80(^C1=85)]
+<(125=79)>[5CB:^80(^C1=79)]
+<(131=8a)>[5CD:^80(^C1=8a)]
+<(126=7b)>[5CF:^80(^C1=7b)]
+<(124=2470168)>[1:^9E(^B0^124)]
+{-1:^BD {(k^BE:c)(s=9)} }
+@$$}6}@
+
+@$${8{@
+< <(a=c)> // (f=iso-8859-1)
+  (C8=useServerRetention)>
+@$$}8}@
+
+@$${A{@
+< <(a=c)> // (f=iso-8859-1)
+  (C9=retainBy)(CA=daysToKeepHdrs)(CB=numHdrsToKeep)(CC=daysToKeepBodies)
+  (CD=useServerDefaults)(CE=cleanupBodies)(CF=applyToFlaggedMessages)>
+[1:^9E(^C8=1)]
+@$$}A}@
+
+@$${B{@
+@$$}B}@
+
+@$${D{@
+<(132=2490175)>[1:^9E(^B0^132)]
+@$$}D}@

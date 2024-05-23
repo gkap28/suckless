@@ -1,0 +1,127 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (B8=X-GM-MSGID)(B9=X-GM-THRID)(BA=X-GM-LABELS)
+  (BB=dobayes.mailnews@mozilla.org#junk.empty)
+  (BC=dobayes.mailnews@mozilla.org#junk)(BD=preview)(BE=storeToken)
+  (BF=gloda-id)(C0=gloda-dirty)(C1=junkscore)(C2=overrideCharset)
+  (C3=originalSubject)(C4=keywords)(C5=ns:msg:db:row:scope:ops:all)
+  (C6=ns:msg:db:table:kind:ops)(C7=columnStates)(C8=sortType)
+  (C9=sortOrder)(CA=viewFlags)(CB=viewType)(CC=sortColumns)
+  (CD=customSortCol)(CE=sender_name)(CF=imageSize)(D0=op)(D1=msgKey)
+  (D2=opFlags)(D3=newFlags)(D4=moveDest)(D5=msgSize)(D6=inPlayback)
+  (D7=applyIncomingFilters.empty)(D8=applyIncomingFilters)(D9=replyTo)
+  (DA=useServerRetention)(DB=retainBy)(DC=daysToKeepHdrs)
+  (DD=numHdrsToKeep)(DE=daysToKeepBodies)(DF=useServerDefaults)
+  (E0=cleanupBodies)(E1=applyToFlaggedMessages)(E2=remoteContentPolicy)
+  (E3=notAPhishMessage)(80=ns:msg:db:row:scope:msgs:all)(81=subject)
+  (82=sender)(83=message-id)(84=references)(85=recipients)(86=date)
+  (87=size)(88=flags)(89=priority)(8A=label)(8B=numLines)(8C=ccList)
+  (8D=bccList)(8E=msgThreadId)(8F=threadId)(90=threadFlags)
+  (91=threadNewestMsgDate)(92=children)(93=unreadChildren)
+  (94=threadSubject)(95=msgCharSet)(96=ns:msg:db:table:kind:msgs)
+  (97=ns:msg:db:table:kind:thread)(98=ns:msg:db:table:kind:allthreads)
+  (99=ns:msg:db:row:scope:threads:all)(9A=threadParent)(9B=threadRoot)
+  (9C=msgOffset)(9D=offlineMsgSize)
+  (9E=ns:msg:db:row:scope:dbfolderinfo:all)
+  (9F=ns:msg:db:table:kind:dbfolderinfo)(A0=numMsgs)(A1=numNewMsgs)
+  (A2=folderSize)(A3=expungedBytes)(A4=folderDate)(A5=highWaterKey)
+  (A6=mailboxName)(A7=UIDValidity)(A8=totPendingMsgs)
+  (A9=unreadPendingMsgs)(AA=expiredMark)(AB=version)(AC=forceReparse)
+  (AD=fixedBadRefThreading)(AE=onlineName)(AF=highestModSeq)
+  (B0=imapFlags)(B1=highestRecordedUID)
+  (B2=ns:msg:db:row:scope:pending:all)(B3=ns:msg:db:table:kind:pending)
+  (B4=dateReceived)(B5=ProtoThreadFlags)(B6=MRUTime)(B7=folderName)>
+<(3C4=3a85)(81=0)>[2D:m(^9B^3C4)(^8F^3C4)(^91=0)(^90=0)(^92=0)(^93=0)]
+<(3CC=3a86)>[2E:m(^9B^3CC)(^8F^3CC)(^91=0)(^90=0)(^92=0)(^93=0)]
+<(3D4=3a87)>[2F:m(^9B^3D4)(^8F^3D4)(^91=0)(^90=0)(^92=0)(^93=0)]
+<(3DB=3a88)(3D9=66101c1c)(80=1)>
+[30:m(^9B^3DB)(^8F^3DB)(^91^3D9)(^90=0)(^92=1)(^93=0)]
+
+<(3F7=81)(3A4=TweakTown Newsletter <newsletter@e.tweaktown.com>)(39A
+    =gkalaitzis.karditsa@gmail.com)(3D7
+    ==?UTF-8?Q?=F0=9F=94=A5_ASUS_unveils_ROG_Mjolnir:_a_new_outdoor_power_stat\
+ion_for_PC_gamers,_looks_like_Thor's_hammer_-_TweakTown_Daily?=)(3D8
+    =1430314b0c57ee28a76de91264b16c08--@e.tweaktown.com)(3DA=12124)
+  (3A0=ffffffff)(3DD=1795510034739844396)(87=)(3AE=3|TweakTown Newsletter)
+  (3E5=66146)(3E3=10262)(3E6=12177)(3E7=3ea)(3F2=da)>
+{1:^80 {(k^96:c)(s=9)} 
+  [3A88(^88=81)(^82^3A4)(^85^39A)(^81^3D7)(^83^3D8)(^B4^3D9)(^86^3D9)
+    (^89=1)(^87^3DA)(^9A^3A0)(^8E^3DB)(^B5=0)(^B8^3DD)(^B9^3DD)(^BA=)
+    (^CE^3AE)(^C4=)(^BE^3E5)(^9C^3E3)(^9D^3E6)(^8B=3ea)(^BF=da)(^C0=1)]}
+{3A88:^80 {(k^97:c)(s=9)30:m } 3A88 }
+{FFFFFFFD:^99 {(k^98:c)(s=9)} [3A88(^94^3D7)]}
+
+<(82=INBOX)(3F8=18083014)(3BF=2490091)(85=e000)(86=25cbc8bc)(3F5
+    =1712333490)(AD=12)(3FD=8dc04)>
+{1:^9E {(k^9F:c)(s=9)} 
+  [1(^AB=1)(^AC=0)(^AD=1)(^AE^82)(^88^3F8)(^A6^82)(^AF^3BF)(^B0^85)
+    (^A7^86)(^B1^3DB)(^A0=1)(^A1=0)(^A5^3DB)(^B6^3F5)(^C8=12)(^C9=1)
+    (^CA=0)(^CB=0)(^CC=)(^A3^3FD)(^DA=1)]}
+
+<(3F9
+    =imap://gkalaitzis.karditsa%40gmail.com@imap.gmail.com/[Gmail]/Papierkorb)
+  (3FA=2)(3D3=49194)>
+{1:^C5 {(k^C6:c)(s=9)} 
+  [3A87(^D1^3D4)(^D3=1)(^D4^3F9)(^D0=2)(^D5^3D3)]}
+
+@$${157{@
+[3A88:^80(^E2=1)]
+@$$}157}@
+
+@$${158{@
+<(96=8083014)>[1:^9E(^88^96)]
+{-1:^C5 {(k^C6:c)(s=9)} }
+[-3A87:^C5]
+@$$}158}@
+
+@$${159{@
+@$$}159}@
+
+@$${15A{@
+[1:^9E(^88^3F8)]
+{-1:^C5 {(k^C6:c)(s=9)} 
+  [-3A88(^D1^3DB)(^D3=81)]}
+@$$}15A}@
+
+@$${15B{@
+[-FFFFFFEC:^80(^88=81)(^82^3A4)(^85^39A)(^81^3D7)(^83^3D8)(^B4^3D9)
+    (^86^3D9)(^89=1)(^87^3DA)(^9A^3A0)(^8E^3DB)(^B5=0)(^B8^3DD)(^B9^3DD)
+    (^BA=)(^CE^3AE)(^C4=)(^BE^3E5)(^9C^3E3)(^9D^3E6)(^8B=3ea)(^BF=da)
+    (^C0=1)(^E2=1)]
+[-3A88:^C5(^D1^3DB)(^D3=1)(^D4^3F9)(^D0=2)(^D5^3DA)]
+@$$}15B}@
+
+@$${15C{@
+[-30:m(^9B^3DB)(^8F^3DB)(^91=0)(^90=0)(^92=0)(^93=0)]
+{-1:^80 {(k^96:c)(s=9)} }
+{-3A88:^80 {(k^97:c)(s=9)30:m } }[-3A88:^80]
+{-FFFFFFFD:^99 {(k^98:c)(s=9)} }
+<(3FE=9fd7b)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^AE^82)(^88^3F8)(^A6^82)
+    (^AF^3BF)(^B0^85)(^A7^86)(^B1^3DB)(^A0=0)(^A1=0)(^A5^3DB)(^B6^3F5)
+    (^C8=12)(^C9=1)(^CA=0)(^CB=0)(^CC=)(^A3^3FE)(^DA=1)]
+@$$}15C}@
+
+@$${15D{@
+[1:^9E(^88^96)]
+{-1:^C5 {(k^C6:c)(s=9)} }
+[-3A88:^C5]
+@$$}15D}@
+
+@$${15E{@
+<(3F3=dc)>[3A86:^80(^BF=dc)]
+<(3F4=dd)>[3A87:^80(^BF=dd)]
+[3A88:^80(^BF=da)]
+@$$}15E}@
+
+@$${160{@
+<(3FF=2490688)>[1:^9E(^AF^3FF)]
+@$$}160}@
+
+@$${161{@
+@$$}161}@
+
+@$${162{@
+@$$}162}@
+
+@$${163{@
+@$$}163}@

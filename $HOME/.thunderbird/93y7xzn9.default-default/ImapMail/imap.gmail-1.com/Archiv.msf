@@ -1,0 +1,203 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (B8=X-GM-MSGID)(B9=X-GM-THRID)(BA=X-GM-LABELS)
+  (BB=dobayes.mailnews@mozilla.org#junk.empty)
+  (BC=dobayes.mailnews@mozilla.org#junk)(BD=storeToken)(BE=gloda-id)
+  (BF=gloda-dirty)(C0=junkscore)(C1=overrideCharset)(C2=originalSubject)
+  (C3=keywords)(80=ns:msg:db:row:scope:msgs:all)(81=subject)(82=sender)
+  (83=message-id)(84=references)(85=recipients)(86=date)(87=size)
+  (88=flags)(89=priority)(8A=label)(8B=numLines)(8C=ccList)(8D=bccList)
+  (8E=msgThreadId)(8F=threadId)(90=threadFlags)(91=threadNewestMsgDate)
+  (92=children)(93=unreadChildren)(94=threadSubject)(95=msgCharSet)
+  (96=ns:msg:db:table:kind:msgs)(97=ns:msg:db:table:kind:thread)
+  (98=ns:msg:db:table:kind:allthreads)
+  (99=ns:msg:db:row:scope:threads:all)(9A=threadParent)(9B=threadRoot)
+  (9C=msgOffset)(9D=offlineMsgSize)
+  (9E=ns:msg:db:row:scope:dbfolderinfo:all)
+  (9F=ns:msg:db:table:kind:dbfolderinfo)(A0=numMsgs)(A1=numNewMsgs)
+  (A2=folderSize)(A3=expungedBytes)(A4=folderDate)(A5=highWaterKey)
+  (A6=mailboxName)(A7=UIDValidity)(A8=totPendingMsgs)
+  (A9=unreadPendingMsgs)(AA=expiredMark)(AB=version)(AC=forceReparse)
+  (AD=fixedBadRefThreading)(AE=onlineName)(AF=highestModSeq)
+  (B0=imapFlags)(B1=highestRecordedUID)(B2=replyTo)
+  (B3=ns:msg:db:row:scope:pending:all)(B4=ns:msg:db:table:kind:pending)
+  (B5=dateReceived)(B6=ProtoThreadFlags)(B7=folderName)>
+<(93=21)(8D=5eab0824)(81=0)(80=1)>
+[1:m(^9B=21)(^8F=21)(^91^8D)(^90=0)(^92=1)]
+<(98=22)(96=5e85b476)>[2:m(^9B=22)(^8F=22)(^91^96)(^90=0)(^92=1)]
+<(9E=23)(9C=5f4cf54c)>[3:m(^9B=23)(^8F=23)(^91^9C)(^90=0)(^92=1)]
+<(B2=25)(AB=24)(A7=600abce2)(99=2)>
+[4:m(^9B=25)(^8F=24)(^91^A7)(^90=0)(^92=2)]
+<(BC=26)(B9=5fae4463)>[5:m(^9B=26)(^8F=26)(^91^B9)(^90=0)(^92=1)]
+<(C5=27)(C3=5fabdec0)>[6:m(^9B=27)(^8F=27)(^91^C3)(^90=0)(^92=1)]
+<(CD=28)(CA=5fabc1ce)>[7:m(^9B=28)(^8F=28)(^91^CA)(^90=0)(^92=1)]
+<(D4=29)(D2=5f7edd4e)>[8:m(^9B=29)(^8F=29)(^91^D2)(^90=0)(^92=1)]
+
+<(91=10000001)(88=noreply@myelpedison.gr)(89
+    =Elpedison <noreply@myelpedison.gr>)(8A
+    =Customer <gkalaitzis.karditsa@gmail.com>)(8B=ELPEDISON | e-bill)
+  (8C=b4138b6a9292cf74a00d30fcadebfbe0@mail-elpedison.mpassltd.com)
+  (8E=4)(90=12b4a8)(92=ffffffff)(94=1665418706039674718)(87=)>
+{21:^80 {(k^97:c)(s=9)1:m } [21(^88^91)(^B2^88)(^82^89)(^85^8A)(^81^8B)
+    (^83^8C)(^B5^8D)(^86^8D)(^89=4)(^87^90)(^9A^92)(^8E=21)(^B6=0)(^B8^94)
+    (^B9^94)(^BA=)]}
+
+<(95=19136c61ab4545f1efa97b800522f14a@mail-elpedison.mpassltd.com)(97
+    =12b45f)(9A=1662853622523588358)>
+{22:^80 {(k^97:c)(s=9)2:m } [22(^88^91)(^B2^88)(^82^89)(^85^8A)(^81^8B)
+    (^83^95)(^B5^96)(^86^96)(^89=4)(^87^97)(^9A^92)(^8E=22)(^B6=0)(^B8^9A)
+    (^B9^9A)(^BA=)]}
+
+<(9B=5fa8ea175dfa0dc64084d9ec6e683e13@mail-elpedison.mpassltd.com)(9D
+    =12af7a)(A0=1676546203181443332)(E4=10000091)(A1
+    =kalaitzis georg <gkalaitzis.karditsa@gmail.com>)(A2
+    ="GRBODocPrepay, Vodafone Greece" <grbodocprepay@vodafone.com>)
+  (A4==?UTF-8?B?zpzOtc+EzrHOss65zrLOsc+DzrcgzpHPgc65zrjOvM6/z4U=?=)
+  (A5=623d623e-fca8-09f8-f173-b8af69cd2fe6@gmail.com)(A6
+    =<a4cfff5f-f9f7-d160-deaf-382f54fc93d7@gmail.com> <VE1PR05MB7168CFC5F99A71\
+26B9EA4419D4A00@VE1PR05MB7168.eurprd05.prod.outlook.com>)(A9=72d3f)
+  (AC=1689591541047168296)(AD=1689582856542853333)(E2=13522)(E3=34d2)
+  (E5=72d92)(E6=1958)(AE=grbodocprepay@vodafone.com)(AF
+    =a4cfff5f-f9f7-d160-deaf-382f54fc93d7@gmail.com)(B0=600aa9f4)(B1
+    =e94dfe)(D7=91)(B4=georg kalaitzis <gkalaitzis.karditsa@gmail.com>)
+  (B5=DashBoy@web.de)(B6=tacho)(B7
+    =d6f2de3c-5759-26a7-2ad2-6257a85df21e@gmail.com)(B8
+    =<trinity-80e4dbe1-8bf6-40e4-b8d0-79929d2f77d2-1605248412653@msvc-mesg-web\
+003>)(BA=206a)(BE=1683233223414253508)(BF=1683060731243544172)(D8=20bd)
+  (D9=ef)(DB=81)(C0=auto.martin@seznam.cz)(C1=8L 0920933N CLUSTER)(C2
+    =886dfd7c-d1b7-6dc9-48c9-83cbe9347fd7@gmail.com)(C4=d91)(C7
+    =1683068501049917159)(DA=8381)(DC=de4)(DD=58)(C8=dashboy@web.de)
+  (C9=17d92d8c-c24a-bd89-4d89-f8d07a04f3bc@gmail.com)(CB=utf-8)(CC=5de)
+  (DE=11937)(DF=2ea1)(E0=631)(E1=30)(CF=mirsinav1@gmail.com)(D0=AUDI A3)
+  (D1=041ea27f-f560-a81c-14dc-528b8fdde4d7@gmail.com)(D3=6dea7e)(D6
+    =1679975741815279730)>
+{1:^80 {(k^96:c)(s=9)} 21 22 
+  [23(^88^91)(^B2^88)(^82^89)(^85^8A)(^81^8B)(^83^9B)(^B5^9C)(^86^9C)
+    (^89=4)(^87^9D)(^9A^92)(^8E=23)(^B6=0)(^B8^A0)(^B9^A0)(^BA=)]
+  [24(^88^E4)(^82^A1)(^85^A2)(^81^A4)(^83^A5)(^84^A6)(^B5^A7)(^86^A7)
+    (^89=1)(^87^A9)(^9A=25)(^8E=24)(^B6=0)(^B8^AC)(^B9^AD)(^BA=)(^BD^E2)
+    (^9C^E3)(^9D^E5)(^8B^E6)]
+  [25(^88^91)(^82^A1)(^85^AE)(^81^A4)(^83^AF)(^B5^B0)(^86^B0)(^89=1)
+    (^87^B1)(^9A^92)(^8E=24)(^B6=0)(^B8^AD)(^B9^AD)(^BA=)]
+  [26(^88=91)(^82^B4)(^85^B5)(^81^B6)(^83^B7)(^84^B8)(^B5^B9)(^86^B9)
+    (^89=1)(^87^BA)(^9A^92)(^8E=26)(^B6=0)(^B8^BE)(^B9^BF)(^BA=)(^BD=0)
+    (^9C=0)(^9D^D8)(^8B=ef)]
+  [27(^88=81)(^82^B4)(^85^C0)(^81^C1)(^83^C2)(^B5^C3)(^86^C3)(^89=1)
+    (^87^C4)(^9A^92)(^8E=27)(^B6=0)(^B8^C7)(^B9^C7)(^BA=)(^BD^DA)(^9C^D8)
+    (^9D^DC)(^8B=58)]
+  [28(^88=81)(^82^B4)(^85^C8)(^81^B6)(^83^C9)(^B5^CA)(^86^CA)(^89=1)
+    (^95^CB)(^87^CC)(^9A^92)(^8E=28)(^B6=0)(^B8^BF)(^B9^BF)(^BA=)(^BD^DE)
+    (^9C^DF)(^9D^E0)(^8B=30)]
+  [29(^88^91)(^82^A1)(^85^CF)(^81^D0)(^83^D1)(^B5^D2)(^86^D2)(^89=1)
+    (^87^D3)(^9A^92)(^8E=29)(^B6=0)(^B8^D6)(^B9^D6)(^BA=)]}
+{23:^80 {(k^97:c)(s=9)3:m } 23 }
+{24:^80 {(k^97:c)(s=9)4:m } 25 24 }
+{26:^80 {(k^97:c)(s=9)5:m } 26 }
+{27:^80 {(k^97:c)(s=9)6:m } 27 }
+{28:^80 {(k^97:c)(s=9)7:m } 28 }
+{29:^80 {(k^97:c)(s=9)8:m } 29 }
+{FFFFFFFD:^99 {(k^98:c)(s=9)} [21(^94^8B)]
+  [22(^94^8B)]
+  [23(^94^8B)]
+  [24(^94^A4)]
+  [26(^94^B6)]
+  [27(^94^C1)]
+  [28(^94^B6)]
+  [29(^94^D0)]}
+
+<(82=Archiv)(83=8082014)(85=e000)(86=25cbc950)(D5=9)>
+{1:^9E {(k^9F:c)(s=9)} 
+  [1(^AB=1)(^AC=0)(^AD=1)(^AE^82)(^88^83)(^A6^82)(^AF=)(^B0^85)(^A7^86)
+    (^B1=29)(^A0=9)(^A5=29)]}
+
+@$${2{@
+<(E9=10000081)(E7=483940)(E8=76264)(EA=12afcd)(EB=3d75)>
+[-23:^80(^88^E9)(^B2^88)(^82^89)(^85^8A)(^81^8B)(^83^9B)(^B5^9C)(^86^9C)
+    (^89=4)(^87^9D)(^9A^92)(^8E=23)(^B6=0)(^B8^A0)(^B9^A0)(^BA=)(^BD^E7)
+    (^9C^E8)(^9D^EA)(^8B^EB)]
+@$$}2}@
+
+@$${3{@
+<(EC=1708593)(ED=1a1231)(EE=12b4b2)(EF=3d86)>
+[-22:^80(^88^E9)(^B2^88)(^82^89)(^85^8A)(^81^8B)(^83^95)(^B5^96)(^86^96)
+    (^89=4)(^87^97)(^9A^92)(^8E=22)(^B6=0)(^B8^9A)(^B9^9A)(^BA=)(^BD^EC)
+    (^9C^ED)(^9D^EE)(^8B^EF)]
+@$$}3}@
+
+@$${4{@
+<(F0=2934499)(F1=2cc6e3)(F2=12b4fb)(F3=3d87)>
+[-21:^80(^88^E9)(^B2^88)(^82^89)(^85^8A)(^81^8B)(^83^8C)(^B5^8D)(^86^8D)
+    (^89=4)(^87^90)(^9A^92)(^8E=21)(^B6=0)(^B8^94)(^B9^94)(^BA=)(^BD^F0)
+    (^9C^F1)(^9D^F2)(^8B^F3)]
+@$$}4}@
+
+@$${5{@
+<(F4=4160478)(F5=3f7bde)(F6=6dead1)(F7=17c59)>
+[-29:^80(^88^E9)(^82^A1)(^85^CF)(^81^D0)(^83^D1)(^B5^D2)(^86^D2)(^89=1)
+    (^87^D3)(^9A^92)(^8E=29)(^B6=0)(^B8^D6)(^B9^D6)(^BA=)(^BD^F4)(^9C^F5)
+    (^9D^F6)(^8B^F7)]
+@$$}5}@
+
+@$${6{@
+@$$}6}@
+
+@$${7{@
+<(F8=11364015)(F9=ad66af)(FA=e94e51)(FB=3273c)>
+[-25:^80(^88^E9)(^82^A1)(^85^AE)(^81^A4)(^83^AF)(^B5^B0)(^86^B0)(^89=1)
+    (^87^B1)(^9A^92)(^8E=24)(^B6=0)(^B8^AD)(^B9^AD)(^BA=)(^BD^F8)(^9C^F9)
+    (^9D^FA)(^8B^FB)]
+@$$}7}@
+
+@$${8{@
+@$$}8}@
+
+@$${9{@
+@$$}9}@
+
+@$${A{@
+<(100=6a)>[24:^80(^BE=6a)]
+<(FF=68)>[25:^80(^BE=68)]
+<(FC=64)>[26:^80(^BE=64)]
+<(FD=65)>[27:^80(^BE=65)]
+<(FE=66)>[28:^80(^BE=66)]
+<(104=73)>[29:^80(^BE=73)]
+<(103=6f)>[21:^80(^BE=6f)]
+<(102=6c)>[22:^80(^BE=6c)]
+<(101=6b)>[23:^80(^BE=6b)]
+@$$}A}@
+
+@$${D{@
+< <(a=c)> // (f=iso-8859-1)
+  (C4=applyIncomingFilters.empty)(C5=applyIncomingFilters)
+  (C6=ns:msg:db:row:scope:ops:all)(C7=ns:msg:db:table:kind:ops)>
+[24:^80(^C3=)]
+[25:^80(^C3=)]
+[26:^80(^C3=)]
+[27:^80(^C3=)]
+[28:^80(^C3=)]
+[29:^80(^C3=)]
+[21:^80(^C3=)]
+[22:^80(^C3=)]
+[23:^80(^C3=)]
+<(105=2470068)>[1:^9E(^AF^105)]
+{-1:^C6 {(k^C7:c)(s=9)} }
+@$$}D}@
+
+@$${F{@
+< <(a=c)> // (f=iso-8859-1)
+  (C8=useServerRetention)>
+@$$}F}@
+
+@$${11{@
+< <(a=c)> // (f=iso-8859-1)
+  (C9=retainBy)(CA=daysToKeepHdrs)(CB=numHdrsToKeep)(CC=daysToKeepBodies)
+  (CD=useServerDefaults)(CE=cleanupBodies)(CF=applyToFlaggedMessages)>
+[1:^9E(^C8=1)]
+@$$}11}@
+
+@$${12{@
+@$$}12}@
+
+@$${14{@
+<(106=2490091)>[1:^9E(^AF^106)]
+@$$}14}@

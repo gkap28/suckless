@@ -1,0 +1,236 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (B8=highestRecordedUID)(B9=ns:msg:db:row:scope:pending:all)
+  (BA=ns:msg:db:table:kind:pending)(BB=dateReceived)(BC=gloda-id)
+  (BD=gloda-dirty)(BE=ProtoThreadFlags)(BF=sender_name)(C0=keywords)
+  (C1=imageSize)(C2=junkscore)(C3=X-GM-MSGID)(C4=X-GM-THRID)
+  (C5=X-GM-LABELS)(C6=dobayes.mailnews@mozilla.org#junk.empty)
+  (C7=dobayes.mailnews@mozilla.org#junk)(C8=folderName)(C9=storeToken)
+  (CA=pseudoHdr)(CB=ns:msg:db:row:scope:ops:all)
+  (CC=ns:msg:db:table:kind:ops)(CD=op)(CE=msgKey)(CF=opFlags)
+  (D0=newFlags)(D1=srcFolderURI)(D2=srcMsgKey)(D3=recipient_names)
+  (D4=remoteContentPolicy)(D5=columnStates)(D6=customSortCol)
+  (D7=useServerRetention)(D8=retainBy)(D9=daysToKeepHdrs)
+  (DA=numHdrsToKeep)(DB=daysToKeepBodies)(DC=useServerDefaults)
+  (DD=cleanupBodies)(DE=applyToFlaggedMessages)(DF=pendingRemoval)
+  (E0=applyIncomingFilters.empty)(E1=applyIncomingFilters)
+  (80=ns:msg:db:row:scope:msgs:all)(81=subject)(82=sender)(83=message-id)
+  (84=references)(85=recipients)(86=date)(87=size)(88=flags)(89=priority)
+  (8A=label)(8B=numLines)(8C=ccList)(8D=bccList)(8E=msgThreadId)
+  (8F=threadId)(90=threadFlags)(91=threadNewestMsgDate)(92=children)
+  (93=unreadChildren)(94=threadSubject)(95=msgCharSet)
+  (96=ns:msg:db:table:kind:msgs)(97=ns:msg:db:table:kind:thread)
+  (98=ns:msg:db:table:kind:allthreads)
+  (99=ns:msg:db:row:scope:threads:all)(9A=threadParent)(9B=threadRoot)
+  (9C=msgOffset)(9D=offlineMsgSize)
+  (9E=ns:msg:db:row:scope:dbfolderinfo:all)
+  (9F=ns:msg:db:table:kind:dbfolderinfo)(A0=numMsgs)(A1=numNewMsgs)
+  (A2=folderSize)(A3=expungedBytes)(A4=folderDate)(A5=highWaterKey)
+  (A6=mailboxName)(A7=UIDValidity)(A8=totPendingMsgs)
+  (A9=unreadPendingMsgs)(AA=expiredMark)(AB=version)(AC=forceReparse)
+  (AD=fixedBadRefThreading)(AE=onlineName)(AF=MRUTime)(B0=MRMTime)
+  (B1=sortType)(B2=sortOrder)(B3=viewFlags)(B4=viewType)(B5=sortColumns)
+  (B6=highestModSeq)(B7=imapFlags)>
+<(17F=11)(17D=65dc6d2d)(81=0)(80=1)>
+[9:m(^9B=11)(^8F=11)(^91^17D)(^90=0)(^92=1)]
+<(97=fffffffe)(170=65dd9dba)(AC=3)>
+[1:m(^9B=1)(^8F^97)(^91^170)(^90=0)(^92=3)]
+<(B4=4)(A1=2)(9F=65d32641)>[2:m(^9B=4)(^8F=2)(^91^9F)(^90=0)(^92=2)]
+<(A8=65c910e6)>[3:m(^9B=3)(^8F=3)(^91^A8)(^90=0)(^92=1)]
+<(BB=5)(B9=65c4c7b1)>[4:m(^9B=5)(^8F=5)(^91^B9)(^90=0)(^92=1)]
+<(86=7)(C6=6)(F7=65d310c4)>[5:m(^9B=7)(^8F=6)(^91^F7)(^90=0)(^92=6)]
+<(162=c)(160=65e0235d)>[6:m(^9B=c)(^8F=c)(^91^160)(^90=0)(^92=1)]
+<(168=d)(166=65e02005)>[7:m(^9B=d)(^8F=d)(^91^166)(^90=0)(^92=1)]
+<(16D=e)>[8:m(^9B=e)(^8F=e)(^91^166)(^90=0)(^92=1)]
+
+<(DC=83)(15D=Perishop.gr <info@perishop.gr>)(8D=gkalaitzis57@gmail.com)
+  (15E
+    ==?utf-8?B?zpXOus+Az4TPic+EzrnOus+MIM66zr/Phc+Az4zOvc65IC8vIM6R?= =?utf-8?\
+B?z4DOv862zrfOvM6vz4nPg863IM6Rzr3Osc68zr/Ovc6uz4I=?=)(15F
+    =F3273F94-2B88-4917-A4BD-AB1500C92EED@perishop.gr)(161=4e90)(96
+    =ffffffff)(163=1792213458502602255)(89=)(182=172121)(183=2a059)
+  (184=4ee3)(185=155)(199=de)>
+{C:^80 {(k^97:c)(s=9)6:m } [C(^88=83)(^82^15D)(^85^8D)(^81^15E)(^83^15F)
+    (^BB^160)(^86^160)(^89=1)(^87^161)(^9A^96)(^8E=c)(^BE=0)(^C3^163)
+    (^C4^163)(^C5=)(^C9^182)(^9C^183)(^9D^184)(^8B=155)(^BC=de)]}
+
+<(CE=93)(8C=BestPrice Team <feedback@bestprice.gr>)(8F
+    ==?UTF-8?B?zpXOvc+Ez4zPgM65z4POsSDOrc69zrEgz4DPgc+MzrLOu863?=$0D$0A =?UTF-\
+8?B?zrzOsSDPg8+Ezr8gQmVzdFByaWNlLmdy?=)(90
+    =65d4c8369eaf3_1e23fc5fa27eea8265851ea.sidekiq-frequent-fd-poduseast1-main\
+3-blue-64bd868974-ppxfk@email.freshdesk.com)(91
+    =<65d4c8369f86d_1e23fc5fa27eea826585255.sidekiq-frequent-fd-poduseast1-mai\
+n3-blue-64bd868974-ppxfk@email.freshdesk.com>)(92=65d4c836)(93=UTF-8)
+  (94=6381)(98=3|BestPrice Team)(99=1791433065462881506)(13E=6388)(D0=199)
+  (F1=cc)(9A="Customer Support || Perishop.gr" <info@perishop.gr>)(9B
+    =georg kalaitzis <gkalaitzis57@gmail.com>)(9C
+    ==?UTF-8?B?zpXPgM65zrLOtc6yzrHOr8+Jz4POtyDPhM63z4Igz4DOu863?=$0D$0A =?UTF-\
+8?B?z4HPic68zq7PgiDPg86xz4IgzrPOuc6xIM+EzrfOvSDPgM6xz4HOsc6z?=$0D$0A =?UTF-8?B\
+?zrPOtc67zq/OsSAjMjkyNDU0MQ==?=)(9D
+    =13536eae-2617-4678-af68-b1bec5899ea3@perishop.gr)(9E
+    =<d38feeb5e51eef9e8e8c8c03dccaf717@perishop.gr> <91bb2d1f-947d-4985-b76a-9\
+0d17cac4de3@gmail.com>)(A0=76da)(A2=3|Customer Support || Perishop.gr)
+  (A3=1791320870656580890)(A4=1790333443153265852)(13F=25480)(140=76e1)
+  (D4=20a)(F0=c3)(E1=81)(A5=no.reply@aade.gr)(A6
+    ==?UTF-8?B?zpXOvc63zrzOrc+Bz4nPg863IM6zzrnOsSA=?= =?UTF-8?B?z4fOv8+Bzq7Os8\
+63z4POtyDOvM61zq/Pic+Dzrc=?= =?UTF-8?B?z4IgzpXOnc6mzpnOkSDOsc+Dz4bOsc67zrnPgw=\
+=?= =?UTF-8?B?zrzOrc69z4nOvSDOus6xz4TOv865zrrOuc+Ozr0=?=)(A7
+    =13234606.329321.1707675878106.JavaMail.k.tseremegkli@39743W122033)
+  (AA=3003)(AD=3|no.reply@aade.gr)(AE=1790628832116141647)(142=55913)
+  (141=da69)(143=300a)(D9=af)(EF=b7)(AF
+    ="Perishop.gr | Smart mindset." <info@perishop.gr>)(B0
+    ==?UTF-8?Q??= =?UTF-8?Q?=CE=95=CF=80=CE=B9=CE=B2=CE=B5=CE=B2=CE=B1=CE=AF=C\
+F=89=CF=83=CE=B7=20?= =?UTF-8?Q?=CF=84=CE=B7=CF=82=20?= =?UTF-8?Q?=CF=80=CE=BB\
+=CE=B7=CF=81=CF=89=CE=BC=CE=AE=CF=82=20?= =?UTF-8?Q?=CF=83=CE=B1=CF=82=20=CE=B\
+3=CE=B9=CE=B1=20?= =?UTF-8?Q?=CF=84=CE=B7=CE=BD=20?= =?UTF-8?Q?=CF=80=CE=B1=CF\
+=81=CE=B1=CE=B3=CE=B3=CE=B5=CE=BB=CE=AF=CE=B1=20#2924541?=)(B1
+    =d38feeb5e51eef9e8e8c8c03dccaf717@perishop.gr)(B2=65c4c7cd)(B3=4ae5)
+  (B5=3|Perishop.gr | Smart mindset.)(145=68211)(144=10a73)(146=4aec)
+  (DE=10f)(B6
+    ==?UTF-8?Q?Perishop.gr=20-=20=CE=9A=CE=B9=CE=BD=CE=B7=CF=84=CE=AC=20?= =?U\
+TF-8?Q?=CE=A4=CE=B7=CE=BB=CE=AD=CF=86=CF=89=CE=BD=CE=B1=2C=20?= =?UTF-8?Q?=CE=\
+98=CE=AE=CE=BA=CE=B5=CF=82=2C=20?= =?UTF-8?Q?=CE=B1=CE=BA=CE=BF=CF=85=CF=83=CF\
+=84=CE=B9=CE=BA=CE=AC=2C=20gadgets?= <info@perishop.gr>)(B7
+    ==?UTF-8?Q?=CE=97=20?= =?UTF-8?Q?=CF=80=CE=B1=CF=81=CE=B1=CE=B3=CE=B3=CE=B\
+5=CE=BB=CE=AF=CE=B1=20?= =?UTF-8?Q?=CF=83=CE=B1=CF=82=20=CF=83=CF=84=CE=BF=20P\
+ERISHOP=20-=20?= =?UTF-8?Q?=CE=9A=CE=B9=CE=BD=CE=B7=CF=84=CE=AC=20?= =?UTF-8?Q\
+?=CE=A4=CE=B7=CE=BB=CE=AD=CF=86=CF=89=CE=BD=CE=B1=20?= =?UTF-8?Q?=CE=AD=CF=87=\
+CE=B5=CE=B9=20=CE=BB=CE=B7=CF=86=CE=B8=CE=B5=CE=AF!?=)(B8
+    =f1f253628567a0a303618e4f17a12c55@perishop.gr)(BA=53d1)(BC
+    =3|Perishop.gr - $CE$9A$CE$B9$CE$BD$CE$B7$CF$84$CE$AC $CE$A4$CE$B7$CE$BB$CE\
+$AD$CF$86$CF$89$CE$BD$CE$B1, $CE$98$CE$AE$CE$BA$CE$B5$CF$82, $CE$B1$CE$BA$CE$BF\
+$CF$85$CF$83$CF$84$CE$B9$CE$BA$CE$AC, gadgets)(BD=1790333413540650865)
+  (148=87391)(147=1555f)(149=53d8)(E3=12a)(EE=ae)(BE=info@perishop.gr)
+  (BF="georg kalaitzis" <gkalaitzis57@gmail.com>)(C0
+    ==?utf-8?b?zpXPgM65zrrOv865zr3Pic69zq/OsSDOsc+Az4wgz4TOvw==?= Perishop.gr)
+  (C1=dovecot-sieve-1707390778-237363-1@server86.cretaforce.gr)(C2
+    =<e4f932c4c25dc1171ddb5d61c0475dfe@perishop.gr> <a6b6ac62-2fd6-4a0b-93f5-9\
+36614dd9b9c@gmail.com>)(C3=65c4b73a)(C4=utf-8)(C5=10f3)(12D=b)(C7
+    =3|info@perishop.gr)(C8=1790328993059594647)(14B=108855)(14A=1a937)
+  (14C=10fa)(E7=46)(ED=ad)(C9=e4f932c4c25dc1171ddb5d61c0475dfe@perishop.gr)
+  (CA=65c4aff4)(CB=609b)(CC=1790327041426003551)(14E=113201)(14D=1ba31)
+  (14F=60a2)(EB=156)(EC=a8)(F3=91)(F4
+    ==?UTF-8?B?zpXPgM65zrrOv865zr3Pic69zq/OsSDOsc+Az4wgz4TOvyBQ?=$0D$0A =?UTF-\
+8?Q?erishop=2Egr?=)(F5=57f12b55-bc55-49c5-a4c9-dc20bfa00118@gmail.com)
+  (F6
+    =<e4f932c4c25dc1171ddb5d61c0475dfe@perishop.gr> <a6b6ac62-2fd6-4a0b-93f5-9\
+36614dd9b9c@gmail.com> <dovecot-sieve-1707390778-237363-1@server86.cretaforce.\
+gr>)(FD=1791315075111851233)(FE=c1)(152=4e3)(150=21ad3)(151=137939)
+  (FB=673)(106=20525642-6126-4c17-91d3-4b57a1bba7a6@gmail.com)(107
+    =<e4f932c4c25dc1171ddb5d61c0475dfe@perishop.gr> <a6b6ac62-2fd6-4a0b-93f5-9\
+36614dd9b9c@gmail.com> <dovecot-sieve-1707390778-237363-1@server86.cretaforce.\
+gr> <476f3ee6-a19a-4167-978c-f5af1e16e6dd@gmail.com>)(108=65ce5923)
+  (10E=1790990907793112287)(10F=2|info@perishop.gr)(110=bd)(155=87b)
+  (153=21fb6)(154=139190)(10C=a0a)(11E=a)(116
+    =476f3ee6-a19a-4167-978c-f5af1e16e6dd@gmail.com)(117=65cb27a9)(11C
+    =1790771471326111963)(11D=bb)(158=5a4)(156=22831)(157=141361)(11B=733)
+  (122
+    ==?UTF-8?B?UGVyaXNob3AuZ3IgLSDOms65zr3Ot8+EzqwgzqTOt867zq3Phs+Jzr3OsSwg?= \
+=?UTF-8?B?zpjOrs66zrXPgiwgzrHOus6/z4XPg8+EzrnOus6sLCBnYWRnZXRz?= <info@perisho\
+p.gr>)(123
+    ==?UTF-8?B?zpcgz4DOsc+BzrHOs86zzrXOu86vzrEgz4POsc+CIM+Dz4Q=?=$0D$0A =?UTF-\
+8?B?zr8gUEVSSVNIT1AgLSDOms65zr3Ot8+EzqwgzqTOt867zq3Phs+Jzr0=?=$0D$0A =?UTF-8?B\
+?zrEgzq3Ph861zrkgzrvOt8+GzrjOtc6vIQ==?=)(124
+    =a6b6ac62-2fd6-4a0b-93f5-936614dd9b9c@gmail.com)(125
+    =<e4f932c4c25dc1171ddb5d61c0475dfe@perishop.gr>)(126=65c4b744)(12B
+    =1790328991509933676)(12C=ac)(15B=7284)(159=22dd5)(15A=142805)(12A
+    =7414)(164
+    ==?UTF-8?Q?=CE=97=20?= =?UTF-8?Q?=CF=80=CE=B1=CF=81=CE=B1=CE=B3=CE=B3=CE=B\
+5=CE=BB=CE=AF=CE=B1=20?= =?UTF-8?Q?=CF=83=CE=B1=CF=82=20=CF=83=CF=84=CE=BF=20P\
+ERISHOP=20-=20?= =?UTF-8?Q?=CE=9A=CE=B9=CE=BD=CE=B7=CF=84=CE=AC=20?= =?UTF-8?Q\
+?=CE=A4=CE=B7=CE=BB=CE=AD=CF=86=CF=89=CE=BD=CE=B1=20?= =?UTF-8?Q?=CE=AD=CF=87=\
+CE=B5=CE=B9=20=CE=BF=CE=BB=CE=BF=CE=BA=CE=BB=CE=B7=CF=81=CF=89=CE=B8=CE=B5=CE=\
+AF?=)(165=40cb3c77950ff0033d404f090b73ef0e@perishop.gr)(167=55d8)(169
+    =1792212551169836354)(16A=1792212549879330747)(186=192316)(187=2ef3c)
+  (188=562b)(189=131)(19A=df)(16B
+    =9e4e8495478468cf4e983f914f9e3a4f@perishop.gr)(16C=55da)(18A=214375)
+  (18B=34567)(18C=562d)(19B=e0)(16E
+    ==?UTF-8?Q?Fwd:_=CE=95=CE=BD=CF=84=CF=8C=CF=80=CE=B9=CF=83=CE=B1?= =?UTF-8\
+?Q?_=CE=AD=CE=BD=CE=B1?= =?UTF-8?Q?_=CF=80=CF=81=CF=8C=CE=B2=CE=BB=CE=B7=CE=BC\
+=CE=B1?= =?UTF-8?Q?_=CF=83=CF=84=CE=BF_BestPrice.gr?=)(16F
+    =65dd9dbac7af9_1fc3ff0c197257438135197.sidekiq-frequent-fd-poduseast1-main\
+3-green-5bfc4fbc78-qwb99@forward.freshdesk.com)(171=26f3)(173
+    =1792040138475251111)(18D=236436)(18E=39b94)(18F=2746)(190=a1)(19C=e1)
+  (175
+    =65dca68cba91a_1fc3ff0bf48c23c29807764.sidekiq-frequent-fd-poduseast1-main\
+3-green-5bfc4fbc78-qwb99@email.freshdesk.com)(176=65dca68c)(177=85c0)
+  (179=1791973784116307204)(191=246490)(192=3c2da)(193=8613)(194=228)
+  (19D=e2)(17A=Fwd: perishop)(17B
+    =65dc6d2d187f6_1cd3ffa066d8ea02647645e.sidekiq-frequent-fd-poduseast1-main\
+3-green-5bfc4fbc78-qwb99@forward.freshdesk.com)(17C
+    =<1d4a91ec-4e8e-4439-8661-0b8f8feef007@gmail.com>)(17E=2fee)(180
+    =1791958384559633668)(181=1791957965799290751)(195=280813)(196=448ed)
+  (197=3041)(198=c7)(19E=e4)>
+{1:^80 {(k^96:c)(s=9)} 
+  [1(^88=93)(^82^8C)(^85^8D)(^81^8F)(^83^90)(^84^91)(^BB^92)(^86^92)
+    (^89=1)(^95^93)(^87^94)(^9A^96)(^8E^97)(^BE=0)(^BF^98)(^C3^99)(^C4^99)
+    (^C5=)(^C9=0)(^9C=0)(^9D^13E)(^8B^D0)(^BC=cc)(^C0=)]
+  [2(^88=93)(^82^9A)(^85^9B)(^81^9C)(^83^9D)(^84^9E)(^BB^9F)(^86^9F)
+    (^89=1)(^87^A0)(^9A=4)(^8E=2)(^BE=0)(^BF^A2)(^C3^A3)(^C4^A4)(^C5=)
+    (^C9^13F)(^9C^13E)(^9D^140)(^8B^D4)(^BC=c3)(^C0=)]
+  [3(^88=81)(^82^A5)(^85^8D)(^81^A6)(^83^A7)(^BB^A8)(^86^A8)(^89=1)
+    (^87^AA)(^9A^96)(^8E=3)(^BE=0)(^BF^AD)(^C3^AE)(^C4^AE)(^C5=)(^C9^142)
+    (^9C^141)(^9D^143)(^8B=af)(^BC=b7)(^C0=)]
+  [4(^88=83)(^82^AF)(^85^8D)(^81^B0)(^83^B1)(^BB^B2)(^86^B2)(^89=1)
+    (^95^93)(^87^B3)(^9A^96)(^8E=2)(^BE=0)(^BF^B5)(^C3^A4)(^C4^A4)(^C5=)
+    (^C9^145)(^9C^144)(^9D^146)(^8B^DE)(^BC=af)(^C0=)]
+  [5(^88=81)(^82^B6)(^85^8D)(^81^B7)(^83^B8)(^BB^B9)(^86^B9)(^89=1)
+    (^95^93)(^87^BA)(^9A^96)(^8E=5)(^BE=0)(^BF^BC)(^C3^BD)(^C4^BD)(^C5=)
+    (^C9^148)(^9C^147)(^9D^149)(^8B^E3)(^BC=ae)(^C0=)]
+  [6(^88=83)(^82^BE)(^85^BF)(^81^C0)(^83^C1)(^84^C2)(^BB^C3)(^86^C3)
+    (^89=1)(^95^C4)(^87^C5)(^9A=b)(^8E=6)(^BE=0)(^BF^C7)(^C3^C8)(^C4^C8)
+    (^C5=)(^C9^14B)(^9C^14A)(^9D^14C)(^8B=46)(^BC=ad)(^C0=)]
+  [7(^88=83)(^82^B6)(^85^8D)(^81^B7)(^83^C9)(^BB^CA)(^86^CA)(^89=1)
+    (^95^93)(^87^CB)(^9A^96)(^8E=6)(^BE=0)(^BF^BC)(^C3^CC)(^C4^CC)(^C5=)
+    (^C9^14E)(^9C^14D)(^9D^14F)(^8B^EB)(^BC=a8)(^C0=)]
+  [8(^88=91)(^82^9B)(^85^BE)(^81^F4)(^83^F5)(^84^F6)(^BB^F7)(^86^F7)
+    (^95^93)(^C3^FD)(^C4^C8)(^C5=)(^BC=c1)(^9D=4e3)(^9C^150)(^C9^151)
+    (^89=1)(^87^FB)(^9A=6)(^8E=6)(^BE=0)(^C0=)]
+  [9(^88=91)(^82^9B)(^85^BE)(^81^F4)(^83^106)(^84^107)(^BB^108)(^86^108)
+    (^95^93)(^C3^10E)(^C4^C8)(^C5=)(^D3^10F)(^BC=bd)(^9D=87b)(^9C^153)
+    (^C9^154)(^89=1)(^87=a0a)(^9A=a)(^8E=6)(^BE=0)(^C0=)]
+  [A(^88=93)(^82^9B)(^85^BE)(^81^F4)(^83^116)(^84^F6)(^BB^117)(^86^117)
+    (^95^93)(^C3^11C)(^C4^C8)(^C5=)(^BC=bb)(^D3^10F)(^BD=0)(^9D=5a4)
+    (^9C^156)(^C9^157)(^89=1)(^87=733)(^9A=6)(^8E=6)(^BE=0)(^C0=)]
+  [B(^88=91)(^82^9B)(^85^122)(^81^123)(^83^124)(^84^125)(^BB^126)(^86^126)
+    (^C3^12B)(^C4^CC)(^C5=)(^BC=ac)(^D3^BC)(^D4=1)(^9D^15B)(^9C^159)
+    (^C9^15A)(^89=1)(^87^12A)(^9A=7)(^8E=6)(^BE=0)(^C0=)]C 
+  [D(^88=81)(^82^B6)(^85^8D)(^81^164)(^83^165)(^BB^166)(^86^166)(^89=1)
+    (^95^93)(^87^167)(^9A^96)(^8E=d)(^BE=0)(^C3^169)(^C4^16A)(^C5=)
+    (^C9^186)(^9C^187)(^9D^188)(^8B=131)(^BC=df)]
+  [E(^88=81)(^82^B6)(^85^8D)(^81^164)(^83^16B)(^BB^166)(^86^166)(^89=1)
+    (^95^93)(^87^16C)(^9A^96)(^8E=e)(^BE=0)(^C3^16A)(^C4^16A)(^C5=)
+    (^C9^18A)(^9C^18B)(^9D^18C)(^8B=131)(^BC=e0)]
+  [F(^88=81)(^82^8C)(^85^BE)(^8C^8D)(^81^16E)(^83^16F)(^84^91)(^BB^170)
+    (^86^170)(^89=1)(^95^93)(^87^171)(^9A=1)(^8E^97)(^BE=0)(^C3^173)
+    (^C4^99)(^C5=)(^C9^18D)(^9C^18E)(^9D^18F)(^8B=a1)(^BC=e1)]
+  [10(^88=93)(^82^8C)(^85^8D)(^81^8F)(^83^175)(^84^91)(^BB^176)(^86^176)
+    (^89=1)(^95^93)(^87^177)(^9A=1)(^8E^97)(^BE=0)(^C3^179)(^C4^99)
+    (^C5=)(^C9^191)(^9C^192)(^9D^193)(^8B=228)(^BC=e2)]
+  [11(^88=83)(^82^8C)(^85^BE)(^8C^8D)(^81^17A)(^83^17B)(^84^17C)(^BB^17D)
+    (^86^17D)(^89=1)(^95^93)(^87^17E)(^9A^96)(^8E=11)(^BE=0)(^C3^180)
+    (^C4^181)(^C5=)(^C9^195)(^9C^196)(^9D^197)(^8B=c7)(^BC=e4)]}
+{D:^80 {(k^97:c)(s=9)7:m } D }
+{FFFFFFFE:^80 {(k^97:c)(s=9)1:m } 1 10 F }
+{2:^80 {(k^97:c)(s=9)2:m } 4 2 }
+{E:^80 {(k^97:c)(s=9)8:m } E }
+{3:^80 {(k^97:c)(s=9)3:m } 3 }
+{5:^80 {(k^97:c)(s=9)4:m } 5 }
+{11:^80 {(k^97:c)(s=9)9:m } 11 }
+{6:^80 {(k^97:c)(s=9)5:m } 7 B 6 A 9 8 }
+{FFFFFFFD:^99 {(k^98:c)(s=9)} [FFFFFFFE(^94^8F)]
+  [2(^94^9C)]
+  [3(^94^A6)]
+  [5(^94^B7)]
+  [6(^94^C0)]
+  [C(^94^15E)]
+  [D(^94^164)]
+  [E(^94^164)]
+  [11(^94^17A)]}
+
+<(82=Archiv/PERISHOP.GR)(83=8082014)(13C=1708528614)(F2=1708528424)
+  (88=12)(13B=$121)(15C=674069)(8B=e000)>
+{1:^9E {(k^9F:c)(s=9)} 
+  [1(^AB=1)(^AC=0)(^AD=1)(^AE^82)(^88^83)(^A6^82)(^AF^13C)(^B0^F2)(^A0=11)
+    (^A5=11)(^A8=0)(^A3=0)(^B1=12)(^B2=1)(^B3=1)(^B4=0)(^B5^13B)(^B6^15C)
+    (^B7^8B)(^A7=12)(^B8=11)(^D7=1)]}

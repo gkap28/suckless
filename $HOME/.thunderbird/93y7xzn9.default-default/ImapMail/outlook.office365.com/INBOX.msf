@@ -1,0 +1,114 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (B8=dobayes.mailnews@mozilla.org#junk.empty)
+  (B9=dobayes.mailnews@mozilla.org#junk)(BA=preview)(BB=storeToken)
+  (BC=gloda-id)(BD=gloda-dirty)(BE=junkscore)(BF=overrideCharset)
+  (C0=originalSubject)(C1=keywords)(C2=columnStates)(C3=sortType)
+  (C4=sortOrder)(C5=viewFlags)(C6=viewType)(C7=sortColumns)
+  (C8=customSortCol)(C9=sender_name)(CA=imageSize)
+  (CB=ns:msg:db:row:scope:ops:all)(CC=ns:msg:db:table:kind:ops)
+  (CD=prevkeywords)(CE=op)(CF=msgKey)(D0=opFlags)(D1=newFlags)
+  (D2=moveDest)(D3=msgSize)(D4=inPlayback)(D5=applyIncomingFilters.empty)
+  (D6=applyIncomingFilters)(D7=remoteContentPolicy)(D8=notAPhishMessage)
+  (D9=useServerRetention)(DA=retainBy)(DB=daysToKeepHdrs)
+  (DC=numHdrsToKeep)(DD=daysToKeepBodies)(DE=useServerDefaults)
+  (DF=cleanupBodies)(E0=applyToFlaggedMessages)(E1=replyTo)
+  (80=ns:msg:db:row:scope:msgs:all)(81=subject)(82=sender)(83=message-id)
+  (84=references)(85=recipients)(86=date)(87=size)(88=flags)(89=priority)
+  (8A=label)(8B=numLines)(8C=ccList)(8D=bccList)(8E=msgThreadId)
+  (8F=threadId)(90=threadFlags)(91=threadNewestMsgDate)(92=children)
+  (93=unreadChildren)(94=threadSubject)(95=msgCharSet)
+  (96=ns:msg:db:table:kind:msgs)(97=ns:msg:db:table:kind:thread)
+  (98=ns:msg:db:table:kind:allthreads)
+  (99=ns:msg:db:row:scope:threads:all)(9A=threadParent)(9B=threadRoot)
+  (9C=msgOffset)(9D=offlineMsgSize)
+  (9E=ns:msg:db:row:scope:dbfolderinfo:all)
+  (9F=ns:msg:db:table:kind:dbfolderinfo)(A0=numMsgs)(A1=numNewMsgs)
+  (A2=folderSize)(A3=expungedBytes)(A4=folderDate)(A5=highWaterKey)
+  (A6=mailboxName)(A7=UIDValidity)(A8=totPendingMsgs)
+  (A9=unreadPendingMsgs)(AA=expiredMark)(AB=version)(AC=forceReparse)
+  (AD=fixedBadRefThreading)(AE=onlineName)(AF=highestModSeq)
+  (B0=imapFlags)(B1=highestRecordedUID)
+  (B2=ns:msg:db:row:scope:pending:all)(B3=ns:msg:db:table:kind:pending)
+  (B4=dateReceived)(B5=ProtoThreadFlags)(B6=MRUTime)(B7=folderName)>
+<(151=2856)(81=0)>[B:m(^9B^151)(^8F^151)(^91=0)(^90=0)(^92=0)(^93=0)]
+<(156=285c)(154=661013c4)(80=1)>
+[C:m(^9B^156)(^8F^156)(^91^154)(^90=0)(^92=1)(^93=1)]
+
+<(144=80)(14B=Mozilla <accounts@firefox.com>)(14C=gkalaitzis57@gmail.com)
+  (11F=georg.kalaitzis@hotmail.com)(14D=Neue Anmeldung bei Firefox)
+  (153
+    =0101018eaecd3917-dddf834a-afd4-4e1d-9d88-7e0ee87a5def-000000@us-west-2.am\
+azonses.com)(158=7a72)(125=ffffffff)(159=7ac5)(15A=2fc)(15F=3|Mozilla)
+  (86=)(160=d5)>
+{1:^80 {(k^96:c)(s=9)} 
+  [285C(^88=80)(^82^14B)(^85^14C)(^8C^11F)(^81^14D)(^83^153)(^B4^154)
+    (^86^154)(^89=1)(^87^158)(^9A^125)(^8E^156)(^B5=0)(^BB=0)(^9C=0)
+    (^9D^159)(^8B=2fc)(^C9^15F)(^CD=)(^C1=)(^BC=d5)]}
+{285C:^80 {(k^97:c)(s=9)C:m } 285C }
+{2856:^80 {(k^97:c)(s=9)B:m } }[2856:^80]
+{FFFFFFFD:^99 {(k^98:c)(s=9)} 
+  [285C(^94^14D)]}
+
+<(82=INBOX)(164=18083014)(84=2000)(85=e)(162=1712333510)(98=12)(15D=7ac7)>
+{1:^9E {(k^9F:c)(s=9)} 
+  [1(^AB=1)(^AC=0)(^AD=1)(^AE^82)(^88^164)(^A6^82)(^AF=0)(^B0^84)(^A7=e)
+    (^B1^156)(^A0=1)(^A1=1)(^A5^156)(^B6^162)(^C3=12)(^C4=1)(^C5=0)
+    (^C6=0)(^C7=)(^A3^15D)(^D9=1)]}
+
+<(165=imap://georg.kalaitzis%40hotmail.com@outlook.office365.com/Deleted)
+  (134=2)(15C=7a74)>
+{1:^CB {(k^CC:c)(s=9)} 
+  [2856(^CF^151)(^D1=1)(^D2^165)(^CE=2)(^D3^15C)]}
+
+@$${85{@
+@$$}85}@
+
+@$${86{@
+<(83=8083014)>[1:^9E(^88^83)]
+{-1:^CB {(k^CC:c)(s=9)} }
+[-2856:^CB]
+@$$}86}@
+
+@$${87{@
+[C:m(^93=0)]
+<(163=81)>[-285C:^80(^88=81)(^82^14B)(^85^14C)(^8C^11F)(^81^14D)(^83^153)
+    (^B4^154)(^86^154)(^89=1)(^87^158)(^9A^125)(^8E^156)(^B5=0)(^BB=0)
+    (^9C=0)(^9D^159)(^8B=2fc)(^C9^15F)(^CD=)(^C1=)(^BC=d5)(^BD=1)]
+[1:^9E(^A1=0)]
+@$$}87}@
+
+@$${88{@
+[1:^9E(^88^164)]
+{-1:^CB {(k^CC:c)(s=9)} 
+  [-285C(^CF^156)(^D1=81)]}
+@$$}88}@
+
+@$${89{@
+[-FFFFFFEE:^80(^88=81)(^82^14B)(^85^14C)(^8C^11F)(^81^14D)(^83^153)
+    (^B4^154)(^86^154)(^89=1)(^87^158)(^9A^125)(^8E^156)(^B5=0)(^BB=0)
+    (^9C=0)(^9D^159)(^8B=2fc)(^C9^15F)(^CD=)(^C1=)(^BC=d5)(^BD=1)]
+[-285C:^CB(^CF^156)(^D1=1)(^D2^165)(^CE=2)(^D3^158)]
+@$$}89}@
+
+@$${8A{@
+[-C:m(^9B^156)(^8F^156)(^91=0)(^90=0)(^92=0)(^93=0)]
+{-1:^80 {(k^96:c)(s=9)} }
+{-285C:^80 {(k^97:c)(s=9)C:m } }[-285C:^80]
+{-FFFFFFFD:^99 {(k^98:c)(s=9)} }
+<(167=f58c)>[-1:^9E(^AB=1)(^AC=0)(^AD=1)(^AE^82)(^88^164)(^A6^82)(^AF=0)
+    (^B0^84)(^A7=e)(^B1^156)(^A0=0)(^A1=0)(^A5^156)(^B6^162)(^C3=12)
+    (^C4=1)(^C5=0)(^C6=0)(^C7=)(^A3^167)(^D9=1)]
+@$$}8A}@
+
+@$${8B{@
+@$$}8B}@
+
+@$${8C{@
+[1:^9E(^88^83)]
+{-1:^CB {(k^CC:c)(s=9)} }
+[-285C:^CB]
+@$$}8C}@
+
+@$${8D{@
+@$$}8D}@

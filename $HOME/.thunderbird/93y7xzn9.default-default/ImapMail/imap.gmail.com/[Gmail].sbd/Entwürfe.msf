@@ -1,0 +1,53 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (B8=ns:msg:db:table:kind:ops)(B9=useServerRetention)(BA=retainBy)
+  (BB=daysToKeepHdrs)(BC=numHdrsToKeep)(BD=daysToKeepBodies)
+  (BE=useServerDefaults)(BF=cleanupBodies)(C0=applyToFlaggedMessages)
+  (C1=pseudoHdr)(C2=storeToken)(C3=op)(C4=msgKey)(C5=opFlags)
+  (C6=newFlags)(C7=moveDest)(C8=ns:msg:db:row:scope:pending:all)
+  (C9=ns:msg:db:table:kind:pending)(CA=dateReceived)(CB=ProtoThreadFlags)
+  (CC=gloda-id)(CD=gloda-dirty)(CE=junkscore)(CF=origURIs)
+  (D0=queuedDisposition)(D1=X-Identity-Key)(D2=MRUTime)(D3=X-GM-MSGID)
+  (D4=X-GM-THRID)(D5=X-GM-LABELS)(D6=keywords)(D7=numDeletedHeaders)
+  (80=ns:msg:db:row:scope:msgs:all)(81=subject)(82=sender)(83=message-id)
+  (84=references)(85=recipients)(86=date)(87=size)(88=flags)(89=priority)
+  (8A=label)(8B=numLines)(8C=ccList)(8D=bccList)(8E=msgThreadId)
+  (8F=threadId)(90=threadFlags)(91=threadNewestMsgDate)(92=children)
+  (93=unreadChildren)(94=threadSubject)(95=msgCharSet)
+  (96=ns:msg:db:table:kind:msgs)(97=ns:msg:db:table:kind:thread)
+  (98=ns:msg:db:table:kind:allthreads)
+  (99=ns:msg:db:row:scope:threads:all)(9A=threadParent)(9B=threadRoot)
+  (9C=msgOffset)(9D=offlineMsgSize)
+  (9E=ns:msg:db:row:scope:dbfolderinfo:all)
+  (9F=ns:msg:db:table:kind:dbfolderinfo)(A0=numMsgs)(A1=numNewMsgs)
+  (A2=folderSize)(A3=expungedBytes)(A4=folderDate)(A5=highWaterKey)
+  (A6=mailboxName)(A7=UIDValidity)(A8=totPendingMsgs)
+  (A9=unreadPendingMsgs)(AA=expiredMark)(AB=version)(AC=forceReparse)
+  (AD=fixedBadRefThreading)(AE=onlineName)(AF=highestModSeq)
+  (B0=imapFlags)(B1=highestRecordedUID)
+  (B2=dobayes.mailnews@mozilla.org#junk.empty)
+  (B3=dobayes.mailnews@mozilla.org#junk)(B4=folderName)
+  (B5=applyIncomingFilters.empty)(B6=applyIncomingFilters)
+  (B7=ns:msg:db:row:scope:ops:all)>
+
+<(80=1)(81=0)(82=[Gmail]/Entw$C3$BCrfe)(83=8082414)(CD=657306)(85=e000)
+  (86=6)(AB=79)(C9=b312)(C3=1708021920)(CB=4)>
+{1:^9E {(k^9F:c)(s=9)} 
+  [1(^AB=1)(^AC=0)(^AD=1)(^AE^82)(^88^83)(^A6^82)(^AF^CD)(^B0^85)(^A7=6)
+    (^B1=79)(^B9=1)(^A0=0)(^A5=79)(^A8=0)(^A3^C9)(^A1=0)(^D2^C3)(^D7=4)]}
+
+@$${27{@
+[1:^9E(^A3=0)]
+@$$}27}@
+
+@$${28{@
+@$$}28}@
+
+@$${29{@
+<(CE=674069)>[1:^9E(^AF^CE)]
+@$$}29}@
+
+@$${2B{@
+{-1:^80 {(k^96:c)(s=9)} }
+{-FFFFFFFD:^99 {(k^98:c)(s=9)} }
+@$$}2B}@

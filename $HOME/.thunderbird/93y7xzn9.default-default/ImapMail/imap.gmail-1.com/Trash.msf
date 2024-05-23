@@ -1,0 +1,109 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (B8=dobayes.mailnews@mozilla.org#junk.empty)
+  (B9=dobayes.mailnews@mozilla.org#junk)(BA=folderName)
+  (BB=useServerRetention)(BC=retainBy)(BD=daysToKeepHdrs)
+  (BE=numHdrsToKeep)(BF=daysToKeepBodies)(C0=useServerDefaults)
+  (C1=cleanupBodies)(C2=applyToFlaggedMessages)(C3=columnStates)
+  (C4=applyIncomingFilters.empty)(C5=applyIncomingFilters)
+  (C6=customSortCol)(C7=ns:msg:db:row:scope:ops:all)
+  (C8=ns:msg:db:table:kind:ops)(80=ns:msg:db:row:scope:msgs:all)
+  (81=subject)(82=sender)(83=message-id)(84=references)(85=recipients)
+  (86=date)(87=size)(88=flags)(89=priority)(8A=label)(8B=numLines)
+  (8C=ccList)(8D=bccList)(8E=msgThreadId)(8F=threadId)(90=threadFlags)
+  (91=threadNewestMsgDate)(92=children)(93=unreadChildren)
+  (94=threadSubject)(95=msgCharSet)(96=ns:msg:db:table:kind:msgs)
+  (97=ns:msg:db:table:kind:thread)(98=ns:msg:db:table:kind:allthreads)
+  (99=ns:msg:db:row:scope:threads:all)(9A=threadParent)(9B=threadRoot)
+  (9C=msgOffset)(9D=offlineMsgSize)
+  (9E=ns:msg:db:row:scope:dbfolderinfo:all)
+  (9F=ns:msg:db:table:kind:dbfolderinfo)(A0=numMsgs)(A1=numNewMsgs)
+  (A2=folderSize)(A3=expungedBytes)(A4=folderDate)(A5=highWaterKey)
+  (A6=mailboxName)(A7=UIDValidity)(A8=totPendingMsgs)
+  (A9=unreadPendingMsgs)(AA=expiredMark)(AB=version)(AC=forceReparse)
+  (AD=fixedBadRefThreading)(AE=onlineName)(AF=MRUTime)(B0=sortType)
+  (B1=sortOrder)(B2=viewFlags)(B3=viewType)(B4=sortColumns)
+  (B5=highestModSeq)(B6=imapFlags)(B7=highestRecordedUID)>
+
+<(80=1)(81=0)(82=Trash)(96=82114)(97=1708528355)(85=12)(86=)(98=2476760)
+  (88=e000)(89=25cbc952)>
+{1:^9E {(k^9F:c)(s=9u)} 
+  [1(^AB=1)(^AC=0)(^AD=1)(^AE^82)(^88^96)(^A6^82)(^AF^97)(^B0=12)(^B1=1)
+    (^B2=0)(^B3=0)(^B4=)(^B5^98)(^B6^88)(^A7^89)(^B7=0)(^BB=1)]}
+
+@$${1C{@
+@$$}1C}@
+
+@$${1E{@
+{-1:^80 {(k^96:c)(s=9)} }
+{-FFFFFFFD:^99 {(k^98:c)(s=9)} }
+<(99=82014)>[1:^9E(^88^99)]
+@$$}1E}@
+
+@$${1F{@
+@$$}1F}@
+
+@$${21{@
+[1:^9E(^88^96)]
+@$$}21}@
+
+@$${22{@
+@$$}22}@
+
+@$${24{@
+[1:^9E(^88^99)]
+@$$}24}@
+
+@$${25{@
+@$$}25}@
+
+@$${27{@
+[1:^9E(^88^96)]
+@$$}27}@
+
+@$${28{@
+@$$}28}@
+
+@$${2A{@
+[1:^9E(^88^99)]
+@$$}2A}@
+
+@$${2B{@
+@$$}2B}@
+
+@$${2D{@
+[1:^9E(^88^96)]
+@$$}2D}@
+
+@$${2E{@
+@$$}2E}@
+
+@$${30{@
+[1:^9E(^88^99)]
+@$$}30}@
+
+@$${31{@
+@$$}31}@
+
+@$${33{@
+<(9A=1712333547)>[1:^9E(^AF^9A)]
+@$$}33}@
+
+@$${34{@
+<(9B=2490452)>[1:^9E(^B5^9B)]
+{-1:^C7 {(k^C8:c)(s=9)} }
+@$$}34}@
+
+@$${36{@
+[1:^9E(^88^96)]
+@$$}36}@
+
+@$${37{@
+@$$}37}@
+
+@$${39{@
+[1:^9E(^88^99)]
+@$$}39}@
+
+@$${3A{@
+@$$}3A}@
